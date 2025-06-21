@@ -37,14 +37,6 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-# Force sidebar to be open on first load using JS hack
-st.markdown("""
-    <script>
-        window.parent.document.querySelector("section[data-testid='stSidebar']").style.width = "320px";
-        window.parent.document.querySelector("section[data-testid='stSidebar']").style.visibility = "visible";
-    </script>
-""", unsafe_allow_html=True)
-
 # --- Session Initialization ---
 if "messages" not in st.session_state:
     st.session_state.messages = []
