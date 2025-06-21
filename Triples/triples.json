@@ -1,0 +1,4762 @@
+[
+    {
+        "head": "the Mobile Application Terms of Use",
+        "relation": "post",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay Inc.",
+        "relation": "contract",
+        "tail": "Hamilton Ave"
+    },
+    {
+        "head": "eBay Inc.",
+        "relation": "contract",
+        "tail": "San Jose"
+    },
+    {
+        "head": "eBay Inc.",
+        "relation": "contract",
+        "tail": "the United States"
+    },
+    {
+        "head": "eBay Inc.",
+        "relation": "contract",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay Inc.",
+        "relation": "contract",
+        "tail": "UK"
+    },
+    {
+        "head": "eBay Inc.",
+        "relation": "contract",
+        "tail": "London Place"
+    },
+    {
+        "head": "eBay Inc.",
+        "relation": "contract",
+        "tail": "London"
+    },
+    {
+        "head": "eBay Inc.",
+        "relation": "contract",
+        "tail": "United Kingdom"
+    },
+    {
+        "head": "eBay Inc.",
+        "relation": "contract",
+        "tail": "the United Kingdom"
+    },
+    {
+        "head": "eBay Inc.",
+        "relation": "contract",
+        "tail": "eBay GmbH"
+    },
+    {
+        "head": "eBay Inc.",
+        "relation": "contract",
+        "tail": "Albert-Einstein-Ring 2-6"
+    },
+    {
+        "head": "eBay Inc.",
+        "relation": "contract",
+        "tail": "Kleinmachnow"
+    },
+    {
+        "head": "eBay Inc.",
+        "relation": "contract",
+        "tail": "Germany"
+    },
+    {
+        "head": "eBay Inc.",
+        "relation": "contract",
+        "tail": "the European Union"
+    },
+    {
+        "head": "eBay Inc.",
+        "relation": "contract",
+        "tail": "eBay Canada Limited"
+    },
+    {
+        "head": "eBay Inc.",
+        "relation": "contract",
+        "tail": "Floor Suite"
+    },
+    {
+        "head": "eBay Inc.",
+        "relation": "contract",
+        "tail": "Toronto"
+    },
+    {
+        "head": "eBay Inc.",
+        "relation": "contract",
+        "tail": "ON"
+    },
+    {
+        "head": "eBay Inc.",
+        "relation": "contract",
+        "tail": "Canada"
+    },
+    {
+        "head": "eBay Inc.",
+        "relation": "contract",
+        "tail": "Canada"
+    },
+    {
+        "head": "eBay Inc.",
+        "relation": "contract",
+        "tail": "eBay Singapore Services Private Limited"
+    },
+    {
+        "head": "eBay Inc.",
+        "relation": "contract",
+        "tail": "Raffles Quay"
+    },
+    {
+        "head": "eBay Inc.",
+        "relation": "contract",
+        "tail": "Singapore"
+    },
+    {
+        "head": "eBay Inc.",
+        "relation": "contract",
+        "tail": "India"
+    },
+    {
+        "head": "eBay Inc.",
+        "relation": "contract",
+        "tail": "eBay Marketplaces GmbH"
+    },
+    {
+        "head": "eBay Inc.",
+        "relation": "contract",
+        "tail": "Helvetiastrasse"
+    },
+    {
+        "head": "eBay Inc.",
+        "relation": "contract",
+        "tail": "Bern"
+    },
+    {
+        "head": "eBay Inc.",
+        "relation": "contract",
+        "tail": "Switzerland"
+    },
+    {
+        "head": "Hamilton Ave",
+        "relation": "contract",
+        "tail": "San Jose"
+    },
+    {
+        "head": "Hamilton Ave",
+        "relation": "contract",
+        "tail": "the United States"
+    },
+    {
+        "head": "Hamilton Ave",
+        "relation": "contract",
+        "tail": "eBay"
+    },
+    {
+        "head": "Hamilton Ave",
+        "relation": "contract",
+        "tail": "UK"
+    },
+    {
+        "head": "Hamilton Ave",
+        "relation": "contract",
+        "tail": "London Place"
+    },
+    {
+        "head": "Hamilton Ave",
+        "relation": "contract",
+        "tail": "London"
+    },
+    {
+        "head": "Hamilton Ave",
+        "relation": "contract",
+        "tail": "United Kingdom"
+    },
+    {
+        "head": "Hamilton Ave",
+        "relation": "contract",
+        "tail": "the United Kingdom"
+    },
+    {
+        "head": "Hamilton Ave",
+        "relation": "contract",
+        "tail": "eBay GmbH"
+    },
+    {
+        "head": "Hamilton Ave",
+        "relation": "contract",
+        "tail": "Albert-Einstein-Ring 2-6"
+    },
+    {
+        "head": "Hamilton Ave",
+        "relation": "contract",
+        "tail": "Kleinmachnow"
+    },
+    {
+        "head": "Hamilton Ave",
+        "relation": "contract",
+        "tail": "Germany"
+    },
+    {
+        "head": "Hamilton Ave",
+        "relation": "contract",
+        "tail": "the European Union"
+    },
+    {
+        "head": "Hamilton Ave",
+        "relation": "contract",
+        "tail": "eBay Canada Limited"
+    },
+    {
+        "head": "Hamilton Ave",
+        "relation": "contract",
+        "tail": "Floor Suite"
+    },
+    {
+        "head": "Hamilton Ave",
+        "relation": "contract",
+        "tail": "Toronto"
+    },
+    {
+        "head": "Hamilton Ave",
+        "relation": "contract",
+        "tail": "ON"
+    },
+    {
+        "head": "Hamilton Ave",
+        "relation": "contract",
+        "tail": "Canada"
+    },
+    {
+        "head": "Hamilton Ave",
+        "relation": "contract",
+        "tail": "Canada"
+    },
+    {
+        "head": "Hamilton Ave",
+        "relation": "contract",
+        "tail": "eBay Singapore Services Private Limited"
+    },
+    {
+        "head": "Hamilton Ave",
+        "relation": "contract",
+        "tail": "Raffles Quay"
+    },
+    {
+        "head": "Hamilton Ave",
+        "relation": "contract",
+        "tail": "Singapore"
+    },
+    {
+        "head": "Hamilton Ave",
+        "relation": "contract",
+        "tail": "India"
+    },
+    {
+        "head": "Hamilton Ave",
+        "relation": "contract",
+        "tail": "eBay Marketplaces GmbH"
+    },
+    {
+        "head": "Hamilton Ave",
+        "relation": "contract",
+        "tail": "Helvetiastrasse"
+    },
+    {
+        "head": "Hamilton Ave",
+        "relation": "contract",
+        "tail": "Bern"
+    },
+    {
+        "head": "Hamilton Ave",
+        "relation": "contract",
+        "tail": "Switzerland"
+    },
+    {
+        "head": "San Jose",
+        "relation": "contract",
+        "tail": "the United States"
+    },
+    {
+        "head": "San Jose",
+        "relation": "contract",
+        "tail": "eBay"
+    },
+    {
+        "head": "San Jose",
+        "relation": "contract",
+        "tail": "UK"
+    },
+    {
+        "head": "San Jose",
+        "relation": "contract",
+        "tail": "London Place"
+    },
+    {
+        "head": "San Jose",
+        "relation": "contract",
+        "tail": "London"
+    },
+    {
+        "head": "San Jose",
+        "relation": "contract",
+        "tail": "United Kingdom"
+    },
+    {
+        "head": "San Jose",
+        "relation": "contract",
+        "tail": "the United Kingdom"
+    },
+    {
+        "head": "San Jose",
+        "relation": "contract",
+        "tail": "eBay GmbH"
+    },
+    {
+        "head": "San Jose",
+        "relation": "contract",
+        "tail": "Albert-Einstein-Ring 2-6"
+    },
+    {
+        "head": "San Jose",
+        "relation": "contract",
+        "tail": "Kleinmachnow"
+    },
+    {
+        "head": "San Jose",
+        "relation": "contract",
+        "tail": "Germany"
+    },
+    {
+        "head": "San Jose",
+        "relation": "contract",
+        "tail": "the European Union"
+    },
+    {
+        "head": "San Jose",
+        "relation": "contract",
+        "tail": "eBay Canada Limited"
+    },
+    {
+        "head": "San Jose",
+        "relation": "contract",
+        "tail": "Floor Suite"
+    },
+    {
+        "head": "San Jose",
+        "relation": "contract",
+        "tail": "Toronto"
+    },
+    {
+        "head": "San Jose",
+        "relation": "contract",
+        "tail": "ON"
+    },
+    {
+        "head": "San Jose",
+        "relation": "contract",
+        "tail": "Canada"
+    },
+    {
+        "head": "San Jose",
+        "relation": "contract",
+        "tail": "Canada"
+    },
+    {
+        "head": "San Jose",
+        "relation": "contract",
+        "tail": "eBay Singapore Services Private Limited"
+    },
+    {
+        "head": "San Jose",
+        "relation": "contract",
+        "tail": "Raffles Quay"
+    },
+    {
+        "head": "San Jose",
+        "relation": "contract",
+        "tail": "Singapore"
+    },
+    {
+        "head": "San Jose",
+        "relation": "contract",
+        "tail": "India"
+    },
+    {
+        "head": "San Jose",
+        "relation": "contract",
+        "tail": "eBay Marketplaces GmbH"
+    },
+    {
+        "head": "San Jose",
+        "relation": "contract",
+        "tail": "Helvetiastrasse"
+    },
+    {
+        "head": "San Jose",
+        "relation": "contract",
+        "tail": "Bern"
+    },
+    {
+        "head": "San Jose",
+        "relation": "contract",
+        "tail": "Switzerland"
+    },
+    {
+        "head": "the United States",
+        "relation": "contract",
+        "tail": "eBay"
+    },
+    {
+        "head": "the United States",
+        "relation": "contract",
+        "tail": "UK"
+    },
+    {
+        "head": "the United States",
+        "relation": "contract",
+        "tail": "London Place"
+    },
+    {
+        "head": "the United States",
+        "relation": "contract",
+        "tail": "London"
+    },
+    {
+        "head": "the United States",
+        "relation": "contract",
+        "tail": "United Kingdom"
+    },
+    {
+        "head": "the United States",
+        "relation": "contract",
+        "tail": "the United Kingdom"
+    },
+    {
+        "head": "the United States",
+        "relation": "contract",
+        "tail": "eBay GmbH"
+    },
+    {
+        "head": "the United States",
+        "relation": "contract",
+        "tail": "Albert-Einstein-Ring 2-6"
+    },
+    {
+        "head": "the United States",
+        "relation": "contract",
+        "tail": "Kleinmachnow"
+    },
+    {
+        "head": "the United States",
+        "relation": "contract",
+        "tail": "Germany"
+    },
+    {
+        "head": "the United States",
+        "relation": "contract",
+        "tail": "the European Union"
+    },
+    {
+        "head": "the United States",
+        "relation": "contract",
+        "tail": "eBay Canada Limited"
+    },
+    {
+        "head": "the United States",
+        "relation": "contract",
+        "tail": "Floor Suite"
+    },
+    {
+        "head": "the United States",
+        "relation": "contract",
+        "tail": "Toronto"
+    },
+    {
+        "head": "the United States",
+        "relation": "contract",
+        "tail": "ON"
+    },
+    {
+        "head": "the United States",
+        "relation": "contract",
+        "tail": "Canada"
+    },
+    {
+        "head": "the United States",
+        "relation": "contract",
+        "tail": "Canada"
+    },
+    {
+        "head": "the United States",
+        "relation": "contract",
+        "tail": "eBay Singapore Services Private Limited"
+    },
+    {
+        "head": "the United States",
+        "relation": "contract",
+        "tail": "Raffles Quay"
+    },
+    {
+        "head": "the United States",
+        "relation": "contract",
+        "tail": "Singapore"
+    },
+    {
+        "head": "the United States",
+        "relation": "contract",
+        "tail": "India"
+    },
+    {
+        "head": "the United States",
+        "relation": "contract",
+        "tail": "eBay Marketplaces GmbH"
+    },
+    {
+        "head": "the United States",
+        "relation": "contract",
+        "tail": "Helvetiastrasse"
+    },
+    {
+        "head": "the United States",
+        "relation": "contract",
+        "tail": "Bern"
+    },
+    {
+        "head": "the United States",
+        "relation": "contract",
+        "tail": "Switzerland"
+    },
+    {
+        "head": "eBay",
+        "relation": "contract",
+        "tail": "UK"
+    },
+    {
+        "head": "eBay",
+        "relation": "contract",
+        "tail": "London Place"
+    },
+    {
+        "head": "eBay",
+        "relation": "contract",
+        "tail": "London"
+    },
+    {
+        "head": "eBay",
+        "relation": "contract",
+        "tail": "United Kingdom"
+    },
+    {
+        "head": "eBay",
+        "relation": "contract",
+        "tail": "the United Kingdom"
+    },
+    {
+        "head": "eBay",
+        "relation": "contract",
+        "tail": "eBay GmbH"
+    },
+    {
+        "head": "eBay",
+        "relation": "contract",
+        "tail": "Albert-Einstein-Ring 2-6"
+    },
+    {
+        "head": "eBay",
+        "relation": "contract",
+        "tail": "Kleinmachnow"
+    },
+    {
+        "head": "eBay",
+        "relation": "contract",
+        "tail": "Germany"
+    },
+    {
+        "head": "eBay",
+        "relation": "contract",
+        "tail": "the European Union"
+    },
+    {
+        "head": "eBay",
+        "relation": "contract",
+        "tail": "eBay Canada Limited"
+    },
+    {
+        "head": "eBay",
+        "relation": "contract",
+        "tail": "Floor Suite"
+    },
+    {
+        "head": "eBay",
+        "relation": "contract",
+        "tail": "Toronto"
+    },
+    {
+        "head": "eBay",
+        "relation": "contract",
+        "tail": "ON"
+    },
+    {
+        "head": "eBay",
+        "relation": "contract",
+        "tail": "Canada"
+    },
+    {
+        "head": "eBay",
+        "relation": "contract",
+        "tail": "Canada"
+    },
+    {
+        "head": "eBay",
+        "relation": "contract",
+        "tail": "eBay Singapore Services Private Limited"
+    },
+    {
+        "head": "eBay",
+        "relation": "contract",
+        "tail": "Raffles Quay"
+    },
+    {
+        "head": "eBay",
+        "relation": "contract",
+        "tail": "Singapore"
+    },
+    {
+        "head": "eBay",
+        "relation": "contract",
+        "tail": "India"
+    },
+    {
+        "head": "eBay",
+        "relation": "contract",
+        "tail": "eBay Marketplaces GmbH"
+    },
+    {
+        "head": "eBay",
+        "relation": "contract",
+        "tail": "Helvetiastrasse"
+    },
+    {
+        "head": "eBay",
+        "relation": "contract",
+        "tail": "Bern"
+    },
+    {
+        "head": "eBay",
+        "relation": "contract",
+        "tail": "Switzerland"
+    },
+    {
+        "head": "UK",
+        "relation": "contract",
+        "tail": "London Place"
+    },
+    {
+        "head": "UK",
+        "relation": "contract",
+        "tail": "London"
+    },
+    {
+        "head": "UK",
+        "relation": "contract",
+        "tail": "United Kingdom"
+    },
+    {
+        "head": "UK",
+        "relation": "contract",
+        "tail": "the United Kingdom"
+    },
+    {
+        "head": "UK",
+        "relation": "contract",
+        "tail": "eBay GmbH"
+    },
+    {
+        "head": "UK",
+        "relation": "contract",
+        "tail": "Albert-Einstein-Ring 2-6"
+    },
+    {
+        "head": "UK",
+        "relation": "contract",
+        "tail": "Kleinmachnow"
+    },
+    {
+        "head": "UK",
+        "relation": "contract",
+        "tail": "Germany"
+    },
+    {
+        "head": "UK",
+        "relation": "contract",
+        "tail": "the European Union"
+    },
+    {
+        "head": "UK",
+        "relation": "contract",
+        "tail": "eBay Canada Limited"
+    },
+    {
+        "head": "UK",
+        "relation": "contract",
+        "tail": "Floor Suite"
+    },
+    {
+        "head": "UK",
+        "relation": "contract",
+        "tail": "Toronto"
+    },
+    {
+        "head": "UK",
+        "relation": "contract",
+        "tail": "ON"
+    },
+    {
+        "head": "UK",
+        "relation": "contract",
+        "tail": "Canada"
+    },
+    {
+        "head": "UK",
+        "relation": "contract",
+        "tail": "Canada"
+    },
+    {
+        "head": "UK",
+        "relation": "contract",
+        "tail": "eBay Singapore Services Private Limited"
+    },
+    {
+        "head": "UK",
+        "relation": "contract",
+        "tail": "Raffles Quay"
+    },
+    {
+        "head": "UK",
+        "relation": "contract",
+        "tail": "Singapore"
+    },
+    {
+        "head": "UK",
+        "relation": "contract",
+        "tail": "India"
+    },
+    {
+        "head": "UK",
+        "relation": "contract",
+        "tail": "eBay Marketplaces GmbH"
+    },
+    {
+        "head": "UK",
+        "relation": "contract",
+        "tail": "Helvetiastrasse"
+    },
+    {
+        "head": "UK",
+        "relation": "contract",
+        "tail": "Bern"
+    },
+    {
+        "head": "UK",
+        "relation": "contract",
+        "tail": "Switzerland"
+    },
+    {
+        "head": "London Place",
+        "relation": "contract",
+        "tail": "London"
+    },
+    {
+        "head": "London Place",
+        "relation": "contract",
+        "tail": "United Kingdom"
+    },
+    {
+        "head": "London Place",
+        "relation": "contract",
+        "tail": "the United Kingdom"
+    },
+    {
+        "head": "London Place",
+        "relation": "contract",
+        "tail": "eBay GmbH"
+    },
+    {
+        "head": "London Place",
+        "relation": "contract",
+        "tail": "Albert-Einstein-Ring 2-6"
+    },
+    {
+        "head": "London Place",
+        "relation": "contract",
+        "tail": "Kleinmachnow"
+    },
+    {
+        "head": "London Place",
+        "relation": "contract",
+        "tail": "Germany"
+    },
+    {
+        "head": "London Place",
+        "relation": "contract",
+        "tail": "the European Union"
+    },
+    {
+        "head": "London Place",
+        "relation": "contract",
+        "tail": "eBay Canada Limited"
+    },
+    {
+        "head": "London Place",
+        "relation": "contract",
+        "tail": "Floor Suite"
+    },
+    {
+        "head": "London Place",
+        "relation": "contract",
+        "tail": "Toronto"
+    },
+    {
+        "head": "London Place",
+        "relation": "contract",
+        "tail": "ON"
+    },
+    {
+        "head": "London Place",
+        "relation": "contract",
+        "tail": "Canada"
+    },
+    {
+        "head": "London Place",
+        "relation": "contract",
+        "tail": "Canada"
+    },
+    {
+        "head": "London Place",
+        "relation": "contract",
+        "tail": "eBay Singapore Services Private Limited"
+    },
+    {
+        "head": "London Place",
+        "relation": "contract",
+        "tail": "Raffles Quay"
+    },
+    {
+        "head": "London Place",
+        "relation": "contract",
+        "tail": "Singapore"
+    },
+    {
+        "head": "London Place",
+        "relation": "contract",
+        "tail": "India"
+    },
+    {
+        "head": "London Place",
+        "relation": "contract",
+        "tail": "eBay Marketplaces GmbH"
+    },
+    {
+        "head": "London Place",
+        "relation": "contract",
+        "tail": "Helvetiastrasse"
+    },
+    {
+        "head": "London Place",
+        "relation": "contract",
+        "tail": "Bern"
+    },
+    {
+        "head": "London Place",
+        "relation": "contract",
+        "tail": "Switzerland"
+    },
+    {
+        "head": "London",
+        "relation": "contract",
+        "tail": "United Kingdom"
+    },
+    {
+        "head": "London",
+        "relation": "contract",
+        "tail": "the United Kingdom"
+    },
+    {
+        "head": "London",
+        "relation": "contract",
+        "tail": "eBay GmbH"
+    },
+    {
+        "head": "London",
+        "relation": "contract",
+        "tail": "Albert-Einstein-Ring 2-6"
+    },
+    {
+        "head": "London",
+        "relation": "contract",
+        "tail": "Kleinmachnow"
+    },
+    {
+        "head": "London",
+        "relation": "contract",
+        "tail": "Germany"
+    },
+    {
+        "head": "London",
+        "relation": "contract",
+        "tail": "the European Union"
+    },
+    {
+        "head": "London",
+        "relation": "contract",
+        "tail": "eBay Canada Limited"
+    },
+    {
+        "head": "London",
+        "relation": "contract",
+        "tail": "Floor Suite"
+    },
+    {
+        "head": "London",
+        "relation": "contract",
+        "tail": "Toronto"
+    },
+    {
+        "head": "London",
+        "relation": "contract",
+        "tail": "ON"
+    },
+    {
+        "head": "London",
+        "relation": "contract",
+        "tail": "Canada"
+    },
+    {
+        "head": "London",
+        "relation": "contract",
+        "tail": "Canada"
+    },
+    {
+        "head": "London",
+        "relation": "contract",
+        "tail": "eBay Singapore Services Private Limited"
+    },
+    {
+        "head": "London",
+        "relation": "contract",
+        "tail": "Raffles Quay"
+    },
+    {
+        "head": "London",
+        "relation": "contract",
+        "tail": "Singapore"
+    },
+    {
+        "head": "London",
+        "relation": "contract",
+        "tail": "India"
+    },
+    {
+        "head": "London",
+        "relation": "contract",
+        "tail": "eBay Marketplaces GmbH"
+    },
+    {
+        "head": "London",
+        "relation": "contract",
+        "tail": "Helvetiastrasse"
+    },
+    {
+        "head": "London",
+        "relation": "contract",
+        "tail": "Bern"
+    },
+    {
+        "head": "London",
+        "relation": "contract",
+        "tail": "Switzerland"
+    },
+    {
+        "head": "United Kingdom",
+        "relation": "contract",
+        "tail": "the United Kingdom"
+    },
+    {
+        "head": "United Kingdom",
+        "relation": "contract",
+        "tail": "eBay GmbH"
+    },
+    {
+        "head": "United Kingdom",
+        "relation": "contract",
+        "tail": "Albert-Einstein-Ring 2-6"
+    },
+    {
+        "head": "United Kingdom",
+        "relation": "contract",
+        "tail": "Kleinmachnow"
+    },
+    {
+        "head": "United Kingdom",
+        "relation": "contract",
+        "tail": "Germany"
+    },
+    {
+        "head": "United Kingdom",
+        "relation": "contract",
+        "tail": "the European Union"
+    },
+    {
+        "head": "United Kingdom",
+        "relation": "contract",
+        "tail": "eBay Canada Limited"
+    },
+    {
+        "head": "United Kingdom",
+        "relation": "contract",
+        "tail": "Floor Suite"
+    },
+    {
+        "head": "United Kingdom",
+        "relation": "contract",
+        "tail": "Toronto"
+    },
+    {
+        "head": "United Kingdom",
+        "relation": "contract",
+        "tail": "ON"
+    },
+    {
+        "head": "United Kingdom",
+        "relation": "contract",
+        "tail": "Canada"
+    },
+    {
+        "head": "United Kingdom",
+        "relation": "contract",
+        "tail": "Canada"
+    },
+    {
+        "head": "United Kingdom",
+        "relation": "contract",
+        "tail": "eBay Singapore Services Private Limited"
+    },
+    {
+        "head": "United Kingdom",
+        "relation": "contract",
+        "tail": "Raffles Quay"
+    },
+    {
+        "head": "United Kingdom",
+        "relation": "contract",
+        "tail": "Singapore"
+    },
+    {
+        "head": "United Kingdom",
+        "relation": "contract",
+        "tail": "India"
+    },
+    {
+        "head": "United Kingdom",
+        "relation": "contract",
+        "tail": "eBay Marketplaces GmbH"
+    },
+    {
+        "head": "United Kingdom",
+        "relation": "contract",
+        "tail": "Helvetiastrasse"
+    },
+    {
+        "head": "United Kingdom",
+        "relation": "contract",
+        "tail": "Bern"
+    },
+    {
+        "head": "United Kingdom",
+        "relation": "contract",
+        "tail": "Switzerland"
+    },
+    {
+        "head": "the United Kingdom",
+        "relation": "contract",
+        "tail": "eBay GmbH"
+    },
+    {
+        "head": "the United Kingdom",
+        "relation": "contract",
+        "tail": "Albert-Einstein-Ring 2-6"
+    },
+    {
+        "head": "the United Kingdom",
+        "relation": "contract",
+        "tail": "Kleinmachnow"
+    },
+    {
+        "head": "the United Kingdom",
+        "relation": "contract",
+        "tail": "Germany"
+    },
+    {
+        "head": "the United Kingdom",
+        "relation": "contract",
+        "tail": "the European Union"
+    },
+    {
+        "head": "the United Kingdom",
+        "relation": "contract",
+        "tail": "eBay Canada Limited"
+    },
+    {
+        "head": "the United Kingdom",
+        "relation": "contract",
+        "tail": "Floor Suite"
+    },
+    {
+        "head": "the United Kingdom",
+        "relation": "contract",
+        "tail": "Toronto"
+    },
+    {
+        "head": "the United Kingdom",
+        "relation": "contract",
+        "tail": "ON"
+    },
+    {
+        "head": "the United Kingdom",
+        "relation": "contract",
+        "tail": "Canada"
+    },
+    {
+        "head": "the United Kingdom",
+        "relation": "contract",
+        "tail": "Canada"
+    },
+    {
+        "head": "the United Kingdom",
+        "relation": "contract",
+        "tail": "eBay Singapore Services Private Limited"
+    },
+    {
+        "head": "the United Kingdom",
+        "relation": "contract",
+        "tail": "Raffles Quay"
+    },
+    {
+        "head": "the United Kingdom",
+        "relation": "contract",
+        "tail": "Singapore"
+    },
+    {
+        "head": "the United Kingdom",
+        "relation": "contract",
+        "tail": "India"
+    },
+    {
+        "head": "the United Kingdom",
+        "relation": "contract",
+        "tail": "eBay Marketplaces GmbH"
+    },
+    {
+        "head": "the United Kingdom",
+        "relation": "contract",
+        "tail": "Helvetiastrasse"
+    },
+    {
+        "head": "the United Kingdom",
+        "relation": "contract",
+        "tail": "Bern"
+    },
+    {
+        "head": "the United Kingdom",
+        "relation": "contract",
+        "tail": "Switzerland"
+    },
+    {
+        "head": "eBay GmbH",
+        "relation": "contract",
+        "tail": "Albert-Einstein-Ring 2-6"
+    },
+    {
+        "head": "eBay GmbH",
+        "relation": "contract",
+        "tail": "Kleinmachnow"
+    },
+    {
+        "head": "eBay GmbH",
+        "relation": "contract",
+        "tail": "Germany"
+    },
+    {
+        "head": "eBay GmbH",
+        "relation": "contract",
+        "tail": "the European Union"
+    },
+    {
+        "head": "eBay GmbH",
+        "relation": "contract",
+        "tail": "eBay Canada Limited"
+    },
+    {
+        "head": "eBay GmbH",
+        "relation": "contract",
+        "tail": "Floor Suite"
+    },
+    {
+        "head": "eBay GmbH",
+        "relation": "contract",
+        "tail": "Toronto"
+    },
+    {
+        "head": "eBay GmbH",
+        "relation": "contract",
+        "tail": "ON"
+    },
+    {
+        "head": "eBay GmbH",
+        "relation": "contract",
+        "tail": "Canada"
+    },
+    {
+        "head": "eBay GmbH",
+        "relation": "contract",
+        "tail": "Canada"
+    },
+    {
+        "head": "eBay GmbH",
+        "relation": "contract",
+        "tail": "eBay Singapore Services Private Limited"
+    },
+    {
+        "head": "eBay GmbH",
+        "relation": "contract",
+        "tail": "Raffles Quay"
+    },
+    {
+        "head": "eBay GmbH",
+        "relation": "contract",
+        "tail": "Singapore"
+    },
+    {
+        "head": "eBay GmbH",
+        "relation": "contract",
+        "tail": "India"
+    },
+    {
+        "head": "eBay GmbH",
+        "relation": "contract",
+        "tail": "eBay Marketplaces GmbH"
+    },
+    {
+        "head": "eBay GmbH",
+        "relation": "contract",
+        "tail": "Helvetiastrasse"
+    },
+    {
+        "head": "eBay GmbH",
+        "relation": "contract",
+        "tail": "Bern"
+    },
+    {
+        "head": "eBay GmbH",
+        "relation": "contract",
+        "tail": "Switzerland"
+    },
+    {
+        "head": "Albert-Einstein-Ring 2-6",
+        "relation": "contract",
+        "tail": "Kleinmachnow"
+    },
+    {
+        "head": "Albert-Einstein-Ring 2-6",
+        "relation": "contract",
+        "tail": "Germany"
+    },
+    {
+        "head": "Albert-Einstein-Ring 2-6",
+        "relation": "contract",
+        "tail": "the European Union"
+    },
+    {
+        "head": "Albert-Einstein-Ring 2-6",
+        "relation": "contract",
+        "tail": "eBay Canada Limited"
+    },
+    {
+        "head": "Albert-Einstein-Ring 2-6",
+        "relation": "contract",
+        "tail": "Floor Suite"
+    },
+    {
+        "head": "Albert-Einstein-Ring 2-6",
+        "relation": "contract",
+        "tail": "Toronto"
+    },
+    {
+        "head": "Albert-Einstein-Ring 2-6",
+        "relation": "contract",
+        "tail": "ON"
+    },
+    {
+        "head": "Albert-Einstein-Ring 2-6",
+        "relation": "contract",
+        "tail": "Canada"
+    },
+    {
+        "head": "Albert-Einstein-Ring 2-6",
+        "relation": "contract",
+        "tail": "Canada"
+    },
+    {
+        "head": "Albert-Einstein-Ring 2-6",
+        "relation": "contract",
+        "tail": "eBay Singapore Services Private Limited"
+    },
+    {
+        "head": "Albert-Einstein-Ring 2-6",
+        "relation": "contract",
+        "tail": "Raffles Quay"
+    },
+    {
+        "head": "Albert-Einstein-Ring 2-6",
+        "relation": "contract",
+        "tail": "Singapore"
+    },
+    {
+        "head": "Albert-Einstein-Ring 2-6",
+        "relation": "contract",
+        "tail": "India"
+    },
+    {
+        "head": "Albert-Einstein-Ring 2-6",
+        "relation": "contract",
+        "tail": "eBay Marketplaces GmbH"
+    },
+    {
+        "head": "Albert-Einstein-Ring 2-6",
+        "relation": "contract",
+        "tail": "Helvetiastrasse"
+    },
+    {
+        "head": "Albert-Einstein-Ring 2-6",
+        "relation": "contract",
+        "tail": "Bern"
+    },
+    {
+        "head": "Albert-Einstein-Ring 2-6",
+        "relation": "contract",
+        "tail": "Switzerland"
+    },
+    {
+        "head": "Kleinmachnow",
+        "relation": "contract",
+        "tail": "Germany"
+    },
+    {
+        "head": "Kleinmachnow",
+        "relation": "contract",
+        "tail": "the European Union"
+    },
+    {
+        "head": "Kleinmachnow",
+        "relation": "contract",
+        "tail": "eBay Canada Limited"
+    },
+    {
+        "head": "Kleinmachnow",
+        "relation": "contract",
+        "tail": "Floor Suite"
+    },
+    {
+        "head": "Kleinmachnow",
+        "relation": "contract",
+        "tail": "Toronto"
+    },
+    {
+        "head": "Kleinmachnow",
+        "relation": "contract",
+        "tail": "ON"
+    },
+    {
+        "head": "Kleinmachnow",
+        "relation": "contract",
+        "tail": "Canada"
+    },
+    {
+        "head": "Kleinmachnow",
+        "relation": "contract",
+        "tail": "Canada"
+    },
+    {
+        "head": "Kleinmachnow",
+        "relation": "contract",
+        "tail": "eBay Singapore Services Private Limited"
+    },
+    {
+        "head": "Kleinmachnow",
+        "relation": "contract",
+        "tail": "Raffles Quay"
+    },
+    {
+        "head": "Kleinmachnow",
+        "relation": "contract",
+        "tail": "Singapore"
+    },
+    {
+        "head": "Kleinmachnow",
+        "relation": "contract",
+        "tail": "India"
+    },
+    {
+        "head": "Kleinmachnow",
+        "relation": "contract",
+        "tail": "eBay Marketplaces GmbH"
+    },
+    {
+        "head": "Kleinmachnow",
+        "relation": "contract",
+        "tail": "Helvetiastrasse"
+    },
+    {
+        "head": "Kleinmachnow",
+        "relation": "contract",
+        "tail": "Bern"
+    },
+    {
+        "head": "Kleinmachnow",
+        "relation": "contract",
+        "tail": "Switzerland"
+    },
+    {
+        "head": "Germany",
+        "relation": "contract",
+        "tail": "the European Union"
+    },
+    {
+        "head": "Germany",
+        "relation": "contract",
+        "tail": "eBay Canada Limited"
+    },
+    {
+        "head": "Germany",
+        "relation": "contract",
+        "tail": "Floor Suite"
+    },
+    {
+        "head": "Germany",
+        "relation": "contract",
+        "tail": "Toronto"
+    },
+    {
+        "head": "Germany",
+        "relation": "contract",
+        "tail": "ON"
+    },
+    {
+        "head": "Germany",
+        "relation": "contract",
+        "tail": "Canada"
+    },
+    {
+        "head": "Germany",
+        "relation": "contract",
+        "tail": "Canada"
+    },
+    {
+        "head": "Germany",
+        "relation": "contract",
+        "tail": "eBay Singapore Services Private Limited"
+    },
+    {
+        "head": "Germany",
+        "relation": "contract",
+        "tail": "Raffles Quay"
+    },
+    {
+        "head": "Germany",
+        "relation": "contract",
+        "tail": "Singapore"
+    },
+    {
+        "head": "Germany",
+        "relation": "contract",
+        "tail": "India"
+    },
+    {
+        "head": "Germany",
+        "relation": "contract",
+        "tail": "eBay Marketplaces GmbH"
+    },
+    {
+        "head": "Germany",
+        "relation": "contract",
+        "tail": "Helvetiastrasse"
+    },
+    {
+        "head": "Germany",
+        "relation": "contract",
+        "tail": "Bern"
+    },
+    {
+        "head": "Germany",
+        "relation": "contract",
+        "tail": "Switzerland"
+    },
+    {
+        "head": "the European Union",
+        "relation": "contract",
+        "tail": "eBay Canada Limited"
+    },
+    {
+        "head": "the European Union",
+        "relation": "contract",
+        "tail": "Floor Suite"
+    },
+    {
+        "head": "the European Union",
+        "relation": "contract",
+        "tail": "Toronto"
+    },
+    {
+        "head": "the European Union",
+        "relation": "contract",
+        "tail": "ON"
+    },
+    {
+        "head": "the European Union",
+        "relation": "contract",
+        "tail": "Canada"
+    },
+    {
+        "head": "the European Union",
+        "relation": "contract",
+        "tail": "Canada"
+    },
+    {
+        "head": "the European Union",
+        "relation": "contract",
+        "tail": "eBay Singapore Services Private Limited"
+    },
+    {
+        "head": "the European Union",
+        "relation": "contract",
+        "tail": "Raffles Quay"
+    },
+    {
+        "head": "the European Union",
+        "relation": "contract",
+        "tail": "Singapore"
+    },
+    {
+        "head": "the European Union",
+        "relation": "contract",
+        "tail": "India"
+    },
+    {
+        "head": "the European Union",
+        "relation": "contract",
+        "tail": "eBay Marketplaces GmbH"
+    },
+    {
+        "head": "the European Union",
+        "relation": "contract",
+        "tail": "Helvetiastrasse"
+    },
+    {
+        "head": "the European Union",
+        "relation": "contract",
+        "tail": "Bern"
+    },
+    {
+        "head": "the European Union",
+        "relation": "contract",
+        "tail": "Switzerland"
+    },
+    {
+        "head": "eBay Canada Limited",
+        "relation": "contract",
+        "tail": "Floor Suite"
+    },
+    {
+        "head": "eBay Canada Limited",
+        "relation": "contract",
+        "tail": "Toronto"
+    },
+    {
+        "head": "eBay Canada Limited",
+        "relation": "contract",
+        "tail": "ON"
+    },
+    {
+        "head": "eBay Canada Limited",
+        "relation": "contract",
+        "tail": "Canada"
+    },
+    {
+        "head": "eBay Canada Limited",
+        "relation": "contract",
+        "tail": "Canada"
+    },
+    {
+        "head": "eBay Canada Limited",
+        "relation": "contract",
+        "tail": "eBay Singapore Services Private Limited"
+    },
+    {
+        "head": "eBay Canada Limited",
+        "relation": "contract",
+        "tail": "Raffles Quay"
+    },
+    {
+        "head": "eBay Canada Limited",
+        "relation": "contract",
+        "tail": "Singapore"
+    },
+    {
+        "head": "eBay Canada Limited",
+        "relation": "contract",
+        "tail": "India"
+    },
+    {
+        "head": "eBay Canada Limited",
+        "relation": "contract",
+        "tail": "eBay Marketplaces GmbH"
+    },
+    {
+        "head": "eBay Canada Limited",
+        "relation": "contract",
+        "tail": "Helvetiastrasse"
+    },
+    {
+        "head": "eBay Canada Limited",
+        "relation": "contract",
+        "tail": "Bern"
+    },
+    {
+        "head": "eBay Canada Limited",
+        "relation": "contract",
+        "tail": "Switzerland"
+    },
+    {
+        "head": "Floor Suite",
+        "relation": "contract",
+        "tail": "Toronto"
+    },
+    {
+        "head": "Floor Suite",
+        "relation": "contract",
+        "tail": "ON"
+    },
+    {
+        "head": "Floor Suite",
+        "relation": "contract",
+        "tail": "Canada"
+    },
+    {
+        "head": "Floor Suite",
+        "relation": "contract",
+        "tail": "Canada"
+    },
+    {
+        "head": "Floor Suite",
+        "relation": "contract",
+        "tail": "eBay Singapore Services Private Limited"
+    },
+    {
+        "head": "Floor Suite",
+        "relation": "contract",
+        "tail": "Raffles Quay"
+    },
+    {
+        "head": "Floor Suite",
+        "relation": "contract",
+        "tail": "Singapore"
+    },
+    {
+        "head": "Floor Suite",
+        "relation": "contract",
+        "tail": "India"
+    },
+    {
+        "head": "Floor Suite",
+        "relation": "contract",
+        "tail": "eBay Marketplaces GmbH"
+    },
+    {
+        "head": "Floor Suite",
+        "relation": "contract",
+        "tail": "Helvetiastrasse"
+    },
+    {
+        "head": "Floor Suite",
+        "relation": "contract",
+        "tail": "Bern"
+    },
+    {
+        "head": "Floor Suite",
+        "relation": "contract",
+        "tail": "Switzerland"
+    },
+    {
+        "head": "Toronto",
+        "relation": "contract",
+        "tail": "ON"
+    },
+    {
+        "head": "Toronto",
+        "relation": "contract",
+        "tail": "Canada"
+    },
+    {
+        "head": "Toronto",
+        "relation": "contract",
+        "tail": "Canada"
+    },
+    {
+        "head": "Toronto",
+        "relation": "contract",
+        "tail": "eBay Singapore Services Private Limited"
+    },
+    {
+        "head": "Toronto",
+        "relation": "contract",
+        "tail": "Raffles Quay"
+    },
+    {
+        "head": "Toronto",
+        "relation": "contract",
+        "tail": "Singapore"
+    },
+    {
+        "head": "Toronto",
+        "relation": "contract",
+        "tail": "India"
+    },
+    {
+        "head": "Toronto",
+        "relation": "contract",
+        "tail": "eBay Marketplaces GmbH"
+    },
+    {
+        "head": "Toronto",
+        "relation": "contract",
+        "tail": "Helvetiastrasse"
+    },
+    {
+        "head": "Toronto",
+        "relation": "contract",
+        "tail": "Bern"
+    },
+    {
+        "head": "Toronto",
+        "relation": "contract",
+        "tail": "Switzerland"
+    },
+    {
+        "head": "ON",
+        "relation": "contract",
+        "tail": "Canada"
+    },
+    {
+        "head": "ON",
+        "relation": "contract",
+        "tail": "Canada"
+    },
+    {
+        "head": "ON",
+        "relation": "contract",
+        "tail": "eBay Singapore Services Private Limited"
+    },
+    {
+        "head": "ON",
+        "relation": "contract",
+        "tail": "Raffles Quay"
+    },
+    {
+        "head": "ON",
+        "relation": "contract",
+        "tail": "Singapore"
+    },
+    {
+        "head": "ON",
+        "relation": "contract",
+        "tail": "India"
+    },
+    {
+        "head": "ON",
+        "relation": "contract",
+        "tail": "eBay Marketplaces GmbH"
+    },
+    {
+        "head": "ON",
+        "relation": "contract",
+        "tail": "Helvetiastrasse"
+    },
+    {
+        "head": "ON",
+        "relation": "contract",
+        "tail": "Bern"
+    },
+    {
+        "head": "ON",
+        "relation": "contract",
+        "tail": "Switzerland"
+    },
+    {
+        "head": "Canada",
+        "relation": "contract",
+        "tail": "Canada"
+    },
+    {
+        "head": "Canada",
+        "relation": "contract",
+        "tail": "eBay Singapore Services Private Limited"
+    },
+    {
+        "head": "Canada",
+        "relation": "contract",
+        "tail": "Raffles Quay"
+    },
+    {
+        "head": "Canada",
+        "relation": "contract",
+        "tail": "Singapore"
+    },
+    {
+        "head": "Canada",
+        "relation": "contract",
+        "tail": "India"
+    },
+    {
+        "head": "Canada",
+        "relation": "contract",
+        "tail": "eBay Marketplaces GmbH"
+    },
+    {
+        "head": "Canada",
+        "relation": "contract",
+        "tail": "Helvetiastrasse"
+    },
+    {
+        "head": "Canada",
+        "relation": "contract",
+        "tail": "Bern"
+    },
+    {
+        "head": "Canada",
+        "relation": "contract",
+        "tail": "Switzerland"
+    },
+    {
+        "head": "Canada",
+        "relation": "contract",
+        "tail": "eBay Singapore Services Private Limited"
+    },
+    {
+        "head": "Canada",
+        "relation": "contract",
+        "tail": "Raffles Quay"
+    },
+    {
+        "head": "Canada",
+        "relation": "contract",
+        "tail": "Singapore"
+    },
+    {
+        "head": "Canada",
+        "relation": "contract",
+        "tail": "India"
+    },
+    {
+        "head": "Canada",
+        "relation": "contract",
+        "tail": "eBay Marketplaces GmbH"
+    },
+    {
+        "head": "Canada",
+        "relation": "contract",
+        "tail": "Helvetiastrasse"
+    },
+    {
+        "head": "Canada",
+        "relation": "contract",
+        "tail": "Bern"
+    },
+    {
+        "head": "Canada",
+        "relation": "contract",
+        "tail": "Switzerland"
+    },
+    {
+        "head": "eBay Singapore Services Private Limited",
+        "relation": "contract",
+        "tail": "Raffles Quay"
+    },
+    {
+        "head": "eBay Singapore Services Private Limited",
+        "relation": "contract",
+        "tail": "Singapore"
+    },
+    {
+        "head": "eBay Singapore Services Private Limited",
+        "relation": "contract",
+        "tail": "India"
+    },
+    {
+        "head": "eBay Singapore Services Private Limited",
+        "relation": "contract",
+        "tail": "eBay Marketplaces GmbH"
+    },
+    {
+        "head": "eBay Singapore Services Private Limited",
+        "relation": "contract",
+        "tail": "Helvetiastrasse"
+    },
+    {
+        "head": "eBay Singapore Services Private Limited",
+        "relation": "contract",
+        "tail": "Bern"
+    },
+    {
+        "head": "eBay Singapore Services Private Limited",
+        "relation": "contract",
+        "tail": "Switzerland"
+    },
+    {
+        "head": "Raffles Quay",
+        "relation": "contract",
+        "tail": "Singapore"
+    },
+    {
+        "head": "Raffles Quay",
+        "relation": "contract",
+        "tail": "India"
+    },
+    {
+        "head": "Raffles Quay",
+        "relation": "contract",
+        "tail": "eBay Marketplaces GmbH"
+    },
+    {
+        "head": "Raffles Quay",
+        "relation": "contract",
+        "tail": "Helvetiastrasse"
+    },
+    {
+        "head": "Raffles Quay",
+        "relation": "contract",
+        "tail": "Bern"
+    },
+    {
+        "head": "Raffles Quay",
+        "relation": "contract",
+        "tail": "Switzerland"
+    },
+    {
+        "head": "Singapore",
+        "relation": "contract",
+        "tail": "India"
+    },
+    {
+        "head": "Singapore",
+        "relation": "contract",
+        "tail": "eBay Marketplaces GmbH"
+    },
+    {
+        "head": "Singapore",
+        "relation": "contract",
+        "tail": "Helvetiastrasse"
+    },
+    {
+        "head": "Singapore",
+        "relation": "contract",
+        "tail": "Bern"
+    },
+    {
+        "head": "Singapore",
+        "relation": "contract",
+        "tail": "Switzerland"
+    },
+    {
+        "head": "India",
+        "relation": "contract",
+        "tail": "eBay Marketplaces GmbH"
+    },
+    {
+        "head": "India",
+        "relation": "contract",
+        "tail": "Helvetiastrasse"
+    },
+    {
+        "head": "India",
+        "relation": "contract",
+        "tail": "Bern"
+    },
+    {
+        "head": "India",
+        "relation": "contract",
+        "tail": "Switzerland"
+    },
+    {
+        "head": "eBay Marketplaces GmbH",
+        "relation": "contract",
+        "tail": "Helvetiastrasse"
+    },
+    {
+        "head": "eBay Marketplaces GmbH",
+        "relation": "contract",
+        "tail": "Bern"
+    },
+    {
+        "head": "eBay Marketplaces GmbH",
+        "relation": "contract",
+        "tail": "Switzerland"
+    },
+    {
+        "head": "Helvetiastrasse",
+        "relation": "contract",
+        "tail": "Bern"
+    },
+    {
+        "head": "Helvetiastrasse",
+        "relation": "contract",
+        "tail": "Switzerland"
+    },
+    {
+        "head": "Bern",
+        "relation": "contract",
+        "tail": "Switzerland"
+    },
+    {
+        "head": "eBay",
+        "relation": "allow",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "use",
+        "tail": "Services"
+    },
+    {
+        "head": "eBay",
+        "relation": "use",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "use",
+        "tail": "Unpaid"
+    },
+    {
+        "head": "eBay",
+        "relation": "use",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "use",
+        "tail": "eBay"
+    },
+    {
+        "head": "Services",
+        "relation": "use",
+        "tail": "eBay"
+    },
+    {
+        "head": "Services",
+        "relation": "use",
+        "tail": "Unpaid"
+    },
+    {
+        "head": "Services",
+        "relation": "use",
+        "tail": "eBay"
+    },
+    {
+        "head": "Services",
+        "relation": "use",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "use",
+        "tail": "Unpaid"
+    },
+    {
+        "head": "eBay",
+        "relation": "use",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "use",
+        "tail": "eBay"
+    },
+    {
+        "head": "Unpaid",
+        "relation": "use",
+        "tail": "eBay"
+    },
+    {
+        "head": "Unpaid",
+        "relation": "use",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "use",
+        "tail": "eBay"
+    },
+    {
+        "head": "Multi-User Account Access",
+        "relation": "require",
+        "tail": "eBay"
+    },
+    {
+        "head": "Multi-User Account Access",
+        "relation": "require",
+        "tail": "eBay"
+    },
+    {
+        "head": "Multi-User Account Access",
+        "relation": "require",
+        "tail": "Services"
+    },
+    {
+        "head": "Multi-User Account Access",
+        "relation": "require",
+        "tail": "eBay"
+    },
+    {
+        "head": "Multi-User Account Access",
+        "relation": "require",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "require",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "require",
+        "tail": "Services"
+    },
+    {
+        "head": "eBay",
+        "relation": "require",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "require",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "require",
+        "tail": "Services"
+    },
+    {
+        "head": "eBay",
+        "relation": "require",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "require",
+        "tail": "eBay"
+    },
+    {
+        "head": "Services",
+        "relation": "require",
+        "tail": "eBay"
+    },
+    {
+        "head": "Services",
+        "relation": "require",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "require",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "constitute",
+        "tail": "Intellectual Property Rights"
+    },
+    {
+        "head": "eBay",
+        "relation": "constitute",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "constitute",
+        "tail": "eBay"
+    },
+    {
+        "head": "Intellectual Property Rights",
+        "relation": "constitute",
+        "tail": "eBay"
+    },
+    {
+        "head": "Intellectual Property Rights",
+        "relation": "constitute",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "constitute",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "believe",
+        "tail": "Services"
+    },
+    {
+        "head": "eBay",
+        "relation": "believe",
+        "tail": "Services"
+    },
+    {
+        "head": "Services",
+        "relation": "believe",
+        "tail": "Services"
+    },
+    {
+        "head": "Fees",
+        "relation": "provide",
+        "tail": "Taxes"
+    },
+    {
+        "head": "Fees",
+        "relation": "provide",
+        "tail": "eBay"
+    },
+    {
+        "head": "Taxes",
+        "relation": "provide",
+        "tail": "eBay"
+    },
+    {
+        "head": "Vehicle Purchases Sales",
+        "relation": "relate",
+        "tail": "eBay Secure Checkout"
+    },
+    {
+        "head": "Vehicle Purchases Sales",
+        "relation": "relate",
+        "tail": "Caramel Dealer Services"
+    },
+    {
+        "head": "Vehicle Purchases Sales",
+        "relation": "relate",
+        "tail": "LLC"
+    },
+    {
+        "head": "eBay Secure Checkout",
+        "relation": "relate",
+        "tail": "Caramel Dealer Services"
+    },
+    {
+        "head": "eBay Secure Checkout",
+        "relation": "relate",
+        "tail": "LLC"
+    },
+    {
+        "head": "Caramel Dealer Services",
+        "relation": "relate",
+        "tail": "LLC"
+    },
+    {
+        "head": "eBay Secure Checkout",
+        "relation": "use",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay Secure Checkout",
+        "relation": "use",
+        "tail": "Caramel Dealer Services"
+    },
+    {
+        "head": "eBay Secure Checkout",
+        "relation": "use",
+        "tail": "LLC"
+    },
+    {
+        "head": "eBay",
+        "relation": "use",
+        "tail": "Caramel Dealer Services"
+    },
+    {
+        "head": "eBay",
+        "relation": "use",
+        "tail": "LLC"
+    },
+    {
+        "head": "Caramel Dealer Services",
+        "relation": "use",
+        "tail": "LLC"
+    },
+    {
+        "head": "Caramel",
+        "relation": "hold",
+        "tail": "eBay"
+    },
+    {
+        "head": "Caramel",
+        "relation": "hold",
+        "tail": "Arizona"
+    },
+    {
+        "head": "Caramel",
+        "relation": "hold",
+        "tail": "California"
+    },
+    {
+        "head": "Caramel",
+        "relation": "hold",
+        "tail": "Florida"
+    },
+    {
+        "head": "Caramel",
+        "relation": "hold",
+        "tail": "Texas"
+    },
+    {
+        "head": "eBay",
+        "relation": "hold",
+        "tail": "Arizona"
+    },
+    {
+        "head": "eBay",
+        "relation": "hold",
+        "tail": "California"
+    },
+    {
+        "head": "eBay",
+        "relation": "hold",
+        "tail": "Florida"
+    },
+    {
+        "head": "eBay",
+        "relation": "hold",
+        "tail": "Texas"
+    },
+    {
+        "head": "Arizona",
+        "relation": "hold",
+        "tail": "California"
+    },
+    {
+        "head": "Arizona",
+        "relation": "hold",
+        "tail": "Florida"
+    },
+    {
+        "head": "Arizona",
+        "relation": "hold",
+        "tail": "Texas"
+    },
+    {
+        "head": "California",
+        "relation": "hold",
+        "tail": "Florida"
+    },
+    {
+        "head": "California",
+        "relation": "hold",
+        "tail": "Texas"
+    },
+    {
+        "head": "Florida",
+        "relation": "hold",
+        "tail": "Texas"
+    },
+    {
+        "head": "Caramel",
+        "relation": "post",
+        "tail": "Caramel Services"
+    },
+    {
+        "head": "eBay",
+        "relation": "maintain",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "hold",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "hold",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "hold",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "hold",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "hold",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "hold",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "hold",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "hold",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "hold",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "hold",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "hold",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "hold",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "hold",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "hold",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "hold",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "hold",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "hold",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "hold",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "hold",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "hold",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "hold",
+        "tail": "eBay"
+    },
+    {
+        "head": "ADDITION",
+        "relation": "limit",
+        "tail": "VEHICLE"
+    },
+    {
+        "head": "ADDITION",
+        "relation": "limit",
+        "tail": "VEHICLE"
+    },
+    {
+        "head": "ADDITION",
+        "relation": "limit",
+        "tail": "VALUE"
+    },
+    {
+        "head": "ADDITION",
+        "relation": "limit",
+        "tail": "CAPABILITY"
+    },
+    {
+        "head": "VEHICLE",
+        "relation": "limit",
+        "tail": "VEHICLE"
+    },
+    {
+        "head": "VEHICLE",
+        "relation": "limit",
+        "tail": "VALUE"
+    },
+    {
+        "head": "VEHICLE",
+        "relation": "limit",
+        "tail": "CAPABILITY"
+    },
+    {
+        "head": "VEHICLE",
+        "relation": "limit",
+        "tail": "VALUE"
+    },
+    {
+        "head": "VEHICLE",
+        "relation": "limit",
+        "tail": "CAPABILITY"
+    },
+    {
+        "head": "VALUE",
+        "relation": "limit",
+        "tail": "CAPABILITY"
+    },
+    {
+        "head": "NO INFORMATION OBTAINED ON EBAY",
+        "relation": "obtain",
+        "tail": "EXPRESS"
+    },
+    {
+        "head": "NO INFORMATION OBTAINED ON EBAY",
+        "relation": "obtain",
+        "tail": "IMPLIED"
+    },
+    {
+        "head": "NO INFORMATION OBTAINED ON EBAY",
+        "relation": "obtain",
+        "tail": "VEHICLE"
+    },
+    {
+        "head": "NO INFORMATION OBTAINED ON EBAY",
+        "relation": "obtain",
+        "tail": "VALUE"
+    },
+    {
+        "head": "NO INFORMATION OBTAINED ON EBAY",
+        "relation": "obtain",
+        "tail": "CAPABILITY"
+    },
+    {
+        "head": "NO INFORMATION OBTAINED ON EBAY",
+        "relation": "obtain",
+        "tail": "VEHICLE"
+    },
+    {
+        "head": "NO INFORMATION OBTAINED ON EBAY",
+        "relation": "obtain",
+        "tail": "TITLE"
+    },
+    {
+        "head": "EXPRESS",
+        "relation": "obtain",
+        "tail": "IMPLIED"
+    },
+    {
+        "head": "EXPRESS",
+        "relation": "obtain",
+        "tail": "VEHICLE"
+    },
+    {
+        "head": "EXPRESS",
+        "relation": "obtain",
+        "tail": "VALUE"
+    },
+    {
+        "head": "EXPRESS",
+        "relation": "obtain",
+        "tail": "CAPABILITY"
+    },
+    {
+        "head": "EXPRESS",
+        "relation": "obtain",
+        "tail": "VEHICLE"
+    },
+    {
+        "head": "EXPRESS",
+        "relation": "obtain",
+        "tail": "TITLE"
+    },
+    {
+        "head": "IMPLIED",
+        "relation": "obtain",
+        "tail": "VEHICLE"
+    },
+    {
+        "head": "IMPLIED",
+        "relation": "obtain",
+        "tail": "VALUE"
+    },
+    {
+        "head": "IMPLIED",
+        "relation": "obtain",
+        "tail": "CAPABILITY"
+    },
+    {
+        "head": "IMPLIED",
+        "relation": "obtain",
+        "tail": "VEHICLE"
+    },
+    {
+        "head": "IMPLIED",
+        "relation": "obtain",
+        "tail": "TITLE"
+    },
+    {
+        "head": "VEHICLE",
+        "relation": "obtain",
+        "tail": "VALUE"
+    },
+    {
+        "head": "VEHICLE",
+        "relation": "obtain",
+        "tail": "CAPABILITY"
+    },
+    {
+        "head": "VEHICLE",
+        "relation": "obtain",
+        "tail": "VEHICLE"
+    },
+    {
+        "head": "VEHICLE",
+        "relation": "obtain",
+        "tail": "TITLE"
+    },
+    {
+        "head": "VALUE",
+        "relation": "obtain",
+        "tail": "CAPABILITY"
+    },
+    {
+        "head": "VALUE",
+        "relation": "obtain",
+        "tail": "VEHICLE"
+    },
+    {
+        "head": "VALUE",
+        "relation": "obtain",
+        "tail": "TITLE"
+    },
+    {
+        "head": "CAPABILITY",
+        "relation": "obtain",
+        "tail": "VEHICLE"
+    },
+    {
+        "head": "CAPABILITY",
+        "relation": "obtain",
+        "tail": "TITLE"
+    },
+    {
+        "head": "VEHICLE",
+        "relation": "obtain",
+        "tail": "TITLE"
+    },
+    {
+        "head": "EBAY DISCLAIMS",
+        "relation": "relate",
+        "tail": "GUARANTEES"
+    },
+    {
+        "head": "eBay",
+        "relation": "encompass",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "wish",
+        "tail": "Experian"
+    },
+    {
+        "head": "eBay",
+        "relation": "wish",
+        "tail": "Equifax"
+    },
+    {
+        "head": "eBay",
+        "relation": "wish",
+        "tail": "TransUnion"
+    },
+    {
+        "head": "eBay",
+        "relation": "wish",
+        "tail": "eBay Inc."
+    },
+    {
+        "head": "eBay",
+        "relation": "wish",
+        "tail": "Global Collections"
+    },
+    {
+        "head": "eBay",
+        "relation": "wish",
+        "tail": "Austin"
+    },
+    {
+        "head": "eBay",
+        "relation": "wish",
+        "tail": "TX 78729"
+    },
+    {
+        "head": "Experian",
+        "relation": "wish",
+        "tail": "Equifax"
+    },
+    {
+        "head": "Experian",
+        "relation": "wish",
+        "tail": "TransUnion"
+    },
+    {
+        "head": "Experian",
+        "relation": "wish",
+        "tail": "eBay Inc."
+    },
+    {
+        "head": "Experian",
+        "relation": "wish",
+        "tail": "Global Collections"
+    },
+    {
+        "head": "Experian",
+        "relation": "wish",
+        "tail": "Austin"
+    },
+    {
+        "head": "Experian",
+        "relation": "wish",
+        "tail": "TX 78729"
+    },
+    {
+        "head": "Equifax",
+        "relation": "wish",
+        "tail": "TransUnion"
+    },
+    {
+        "head": "Equifax",
+        "relation": "wish",
+        "tail": "eBay Inc."
+    },
+    {
+        "head": "Equifax",
+        "relation": "wish",
+        "tail": "Global Collections"
+    },
+    {
+        "head": "Equifax",
+        "relation": "wish",
+        "tail": "Austin"
+    },
+    {
+        "head": "Equifax",
+        "relation": "wish",
+        "tail": "TX 78729"
+    },
+    {
+        "head": "TransUnion",
+        "relation": "wish",
+        "tail": "eBay Inc."
+    },
+    {
+        "head": "TransUnion",
+        "relation": "wish",
+        "tail": "Global Collections"
+    },
+    {
+        "head": "TransUnion",
+        "relation": "wish",
+        "tail": "Austin"
+    },
+    {
+        "head": "TransUnion",
+        "relation": "wish",
+        "tail": "TX 78729"
+    },
+    {
+        "head": "eBay Inc.",
+        "relation": "wish",
+        "tail": "Global Collections"
+    },
+    {
+        "head": "eBay Inc.",
+        "relation": "wish",
+        "tail": "Austin"
+    },
+    {
+        "head": "eBay Inc.",
+        "relation": "wish",
+        "tail": "TX 78729"
+    },
+    {
+        "head": "Global Collections",
+        "relation": "wish",
+        "tail": "Austin"
+    },
+    {
+        "head": "Global Collections",
+        "relation": "wish",
+        "tail": "TX 78729"
+    },
+    {
+        "head": "Austin",
+        "relation": "wish",
+        "tail": "TX 78729"
+    },
+    {
+        "head": "eBay",
+        "relation": "list",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "guarantee",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "guarantee",
+        "tail": "Images"
+    },
+    {
+        "head": "eBay",
+        "relation": "guarantee",
+        "tail": "Content"
+    },
+    {
+        "head": "eBay",
+        "relation": "guarantee",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "guarantee",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "guarantee",
+        "tail": "Images"
+    },
+    {
+        "head": "eBay",
+        "relation": "guarantee",
+        "tail": "Content"
+    },
+    {
+        "head": "eBay",
+        "relation": "guarantee",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "guarantee",
+        "tail": "eBay"
+    },
+    {
+        "head": "Images",
+        "relation": "guarantee",
+        "tail": "Content"
+    },
+    {
+        "head": "Images",
+        "relation": "guarantee",
+        "tail": "eBay"
+    },
+    {
+        "head": "Images",
+        "relation": "guarantee",
+        "tail": "eBay"
+    },
+    {
+        "head": "Content",
+        "relation": "guarantee",
+        "tail": "eBay"
+    },
+    {
+        "head": "Content",
+        "relation": "guarantee",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "guarantee",
+        "tail": "eBay"
+    },
+    {
+        "head": "Detailed Seller Ratings",
+        "relation": "browse",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "drive",
+        "tail": "Duplicate"
+    },
+    {
+        "head": "eBay",
+        "relation": "have",
+        "tail": "Services"
+    },
+    {
+        "head": "Services",
+        "relation": "defect",
+        "tail": "eBay"
+    },
+    {
+        "head": "Services",
+        "relation": "defect",
+        "tail": "eBay Services"
+    },
+    {
+        "head": "eBay",
+        "relation": "defect",
+        "tail": "eBay Services"
+    },
+    {
+        "head": "Services",
+        "relation": "buy",
+        "tail": "Rules"
+    },
+    {
+        "head": "Services",
+        "relation": "buy",
+        "tail": "Utah Code Annotated \u00a7"
+    },
+    {
+        "head": "Rules",
+        "relation": "buy",
+        "tail": "Utah Code Annotated \u00a7"
+    },
+    {
+        "head": "International Buying and Selling",
+        "relation": "give",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "purchase",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "purchase",
+        "tail": "International"
+    },
+    {
+        "head": "eBay",
+        "relation": "purchase",
+        "tail": "International"
+    },
+    {
+        "head": "eBay",
+        "relation": "sell",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "sell",
+        "tail": "International"
+    },
+    {
+        "head": "eBay",
+        "relation": "sell",
+        "tail": "International"
+    },
+    {
+        "head": "eBay",
+        "relation": "facilitate",
+        "tail": "eBay"
+    },
+    {
+        "head": "Intellectual Property Rights",
+        "relation": "permit",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "agree",
+        "tail": "Services"
+    },
+    {
+        "head": "eBay",
+        "relation": "use",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "use",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "use",
+        "tail": "U.S."
+    },
+    {
+        "head": "eBay",
+        "relation": "use",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "use",
+        "tail": "U.S."
+    },
+    {
+        "head": "eBay",
+        "relation": "use",
+        "tail": "U.S."
+    },
+    {
+        "head": "eBay",
+        "relation": "work",
+        "tail": "Verified Rights Owner"
+    },
+    {
+        "head": "eBay",
+        "relation": "work",
+        "tail": "VeRO"
+    },
+    {
+        "head": "Verified Rights Owner",
+        "relation": "work",
+        "tail": "VeRO"
+    },
+    {
+        "head": "eBay",
+        "relation": "restrict",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "restrict",
+        "tail": "the Payments Terms of Use"
+    },
+    {
+        "head": "eBay",
+        "relation": "restrict",
+        "tail": "the Payments Terms of Use"
+    },
+    {
+        "head": "Recording Calls",
+        "relation": "analyze",
+        "tail": "Analyzing Message Content eBay"
+    },
+    {
+        "head": "User Privacy Notice",
+        "relation": "describe",
+        "tail": "eBay"
+    },
+    {
+        "head": "Communication Preferences",
+        "relation": "change",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "share",
+        "tail": "User Privacy Notice"
+    },
+    {
+        "head": "eBay",
+        "relation": "record",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "automate",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "automate",
+        "tail": "User Agreement"
+    },
+    {
+        "head": "eBay",
+        "relation": "automate",
+        "tail": "Services"
+    },
+    {
+        "head": "eBay",
+        "relation": "automate",
+        "tail": "User Agreement"
+    },
+    {
+        "head": "eBay",
+        "relation": "automate",
+        "tail": "Services"
+    },
+    {
+        "head": "User Agreement",
+        "relation": "automate",
+        "tail": "Services"
+    },
+    {
+        "head": "eBay",
+        "relation": "charge",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "charge",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "charge",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "invoice",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "invoice",
+        "tail": "the Payments Terms of Use"
+    },
+    {
+        "head": "eBay",
+        "relation": "invoice",
+        "tail": "the Payments Terms of Use"
+    },
+    {
+        "head": "eBay",
+        "relation": "request",
+        "tail": "Order"
+    },
+    {
+        "head": "eBay",
+        "relation": "choose",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay Money Back Guarantee",
+        "relation": "go",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay Money Back Guarantee",
+        "relation": "go",
+        "tail": "eBay Money Back Guarantee"
+    },
+    {
+        "head": "eBay",
+        "relation": "go",
+        "tail": "eBay Money Back Guarantee"
+    },
+    {
+        "head": "eBay",
+        "relation": "choose",
+        "tail": "the eBay Money Back Guarantee"
+    },
+    {
+        "head": "eBay",
+        "relation": "choose",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "choose",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "choose",
+        "tail": "the Payments Terms of Use"
+    },
+    {
+        "head": "the eBay Money Back Guarantee",
+        "relation": "choose",
+        "tail": "eBay"
+    },
+    {
+        "head": "the eBay Money Back Guarantee",
+        "relation": "choose",
+        "tail": "eBay"
+    },
+    {
+        "head": "the eBay Money Back Guarantee",
+        "relation": "choose",
+        "tail": "the Payments Terms of Use"
+    },
+    {
+        "head": "eBay",
+        "relation": "choose",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "choose",
+        "tail": "the Payments Terms of Use"
+    },
+    {
+        "head": "eBay",
+        "relation": "choose",
+        "tail": "the Payments Terms of Use"
+    },
+    {
+        "head": "the eBay Money Back Guarantee",
+        "relation": "agree",
+        "tail": "the eBay Money Back Guarantee"
+    },
+    {
+        "head": "eBay",
+        "relation": "sell",
+        "tail": "the Payments Terms of Use"
+    },
+    {
+        "head": "Services",
+        "relation": "receive",
+        "tail": "the Payments Terms of Use"
+    },
+    {
+        "head": "Services",
+        "relation": "receive",
+        "tail": "eBay"
+    },
+    {
+        "head": "the Payments Terms of Use",
+        "relation": "receive",
+        "tail": "eBay"
+    },
+    {
+        "head": "the eBay Payment Entity",
+        "relation": "receive",
+        "tail": "Anti-Money Laundering"
+    },
+    {
+        "head": "the eBay Payment Entity",
+        "relation": "receive",
+        "tail": "eBay"
+    },
+    {
+        "head": "the eBay Payment Entity",
+        "relation": "receive",
+        "tail": "eBay"
+    },
+    {
+        "head": "the eBay Payment Entity",
+        "relation": "receive",
+        "tail": "the eBay Payment Entity"
+    },
+    {
+        "head": "the eBay Payment Entity",
+        "relation": "receive",
+        "tail": "eBay"
+    },
+    {
+        "head": "the eBay Payment Entity",
+        "relation": "receive",
+        "tail": "the eBay Payment Entity"
+    },
+    {
+        "head": "Anti-Money Laundering",
+        "relation": "receive",
+        "tail": "eBay"
+    },
+    {
+        "head": "Anti-Money Laundering",
+        "relation": "receive",
+        "tail": "eBay"
+    },
+    {
+        "head": "Anti-Money Laundering",
+        "relation": "receive",
+        "tail": "the eBay Payment Entity"
+    },
+    {
+        "head": "Anti-Money Laundering",
+        "relation": "receive",
+        "tail": "eBay"
+    },
+    {
+        "head": "Anti-Money Laundering",
+        "relation": "receive",
+        "tail": "the eBay Payment Entity"
+    },
+    {
+        "head": "eBay",
+        "relation": "receive",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "receive",
+        "tail": "the eBay Payment Entity"
+    },
+    {
+        "head": "eBay",
+        "relation": "receive",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "receive",
+        "tail": "the eBay Payment Entity"
+    },
+    {
+        "head": "eBay",
+        "relation": "receive",
+        "tail": "the eBay Payment Entity"
+    },
+    {
+        "head": "eBay",
+        "relation": "receive",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "receive",
+        "tail": "the eBay Payment Entity"
+    },
+    {
+        "head": "the eBay Payment Entity",
+        "relation": "receive",
+        "tail": "eBay"
+    },
+    {
+        "head": "the eBay Payment Entity",
+        "relation": "receive",
+        "tail": "the eBay Payment Entity"
+    },
+    {
+        "head": "eBay",
+        "relation": "receive",
+        "tail": "the eBay Payment Entity"
+    },
+    {
+        "head": "eBay",
+        "relation": "place",
+        "tail": "eBay Money Back Guarantee"
+    },
+    {
+        "head": "the eBay Payment Entities",
+        "relation": "entitle",
+        "tail": "the eBay Payment Entities"
+    },
+    {
+        "head": "Limitation of Liability",
+        "relation": "try",
+        "tail": "Services"
+    },
+    {
+        "head": "TERMS",
+        "relation": "permit",
+        "tail": "CONDITIONS INCLUDING"
+    },
+    {
+        "head": "ADDITION",
+        "relation": "permit",
+        "tail": "PARENT"
+    },
+    {
+        "head": "ADDITION",
+        "relation": "permit",
+        "tail": "SUBSIDIARIES"
+    },
+    {
+        "head": "ADDITION",
+        "relation": "permit",
+        "tail": "DIRECTORS"
+    },
+    {
+        "head": "ADDITION",
+        "relation": "permit",
+        "tail": "EQUITY"
+    },
+    {
+        "head": "ADDITION",
+        "relation": "permit",
+        "tail": "GOODWILL"
+    },
+    {
+        "head": "PARENT",
+        "relation": "permit",
+        "tail": "SUBSIDIARIES"
+    },
+    {
+        "head": "PARENT",
+        "relation": "permit",
+        "tail": "DIRECTORS"
+    },
+    {
+        "head": "PARENT",
+        "relation": "permit",
+        "tail": "EQUITY"
+    },
+    {
+        "head": "PARENT",
+        "relation": "permit",
+        "tail": "GOODWILL"
+    },
+    {
+        "head": "SUBSIDIARIES",
+        "relation": "permit",
+        "tail": "DIRECTORS"
+    },
+    {
+        "head": "SUBSIDIARIES",
+        "relation": "permit",
+        "tail": "EQUITY"
+    },
+    {
+        "head": "SUBSIDIARIES",
+        "relation": "permit",
+        "tail": "GOODWILL"
+    },
+    {
+        "head": "DIRECTORS",
+        "relation": "permit",
+        "tail": "EQUITY"
+    },
+    {
+        "head": "DIRECTORS",
+        "relation": "permit",
+        "tail": "GOODWILL"
+    },
+    {
+        "head": "EQUITY",
+        "relation": "permit",
+        "tail": "GOODWILL"
+    },
+    {
+        "head": "PARENT",
+        "relation": "limit",
+        "tail": "SUBSIDIARIES"
+    },
+    {
+        "head": "PARENT",
+        "relation": "limit",
+        "tail": "DIRECTORS"
+    },
+    {
+        "head": "PARENT",
+        "relation": "limit",
+        "tail": "GOODWILL"
+    },
+    {
+        "head": "PARENT",
+        "relation": "limit",
+        "tail": "Services"
+    },
+    {
+        "head": "PARENT",
+        "relation": "limit",
+        "tail": "Services"
+    },
+    {
+        "head": "PARENT",
+        "relation": "limit",
+        "tail": "eBay"
+    },
+    {
+        "head": "PARENT",
+        "relation": "limit",
+        "tail": "Services"
+    },
+    {
+        "head": "PARENT",
+        "relation": "limit",
+        "tail": "Services"
+    },
+    {
+        "head": "PARENT",
+        "relation": "limit",
+        "tail": "Services"
+    },
+    {
+        "head": "PARENT",
+        "relation": "limit",
+        "tail": "eBay Service"
+    },
+    {
+        "head": "PARENT",
+        "relation": "limit",
+        "tail": "eBay"
+    },
+    {
+        "head": "PARENT",
+        "relation": "limit",
+        "tail": "Listing Conditions"
+    },
+    {
+        "head": "SUBSIDIARIES",
+        "relation": "limit",
+        "tail": "DIRECTORS"
+    },
+    {
+        "head": "SUBSIDIARIES",
+        "relation": "limit",
+        "tail": "GOODWILL"
+    },
+    {
+        "head": "SUBSIDIARIES",
+        "relation": "limit",
+        "tail": "Services"
+    },
+    {
+        "head": "SUBSIDIARIES",
+        "relation": "limit",
+        "tail": "Services"
+    },
+    {
+        "head": "SUBSIDIARIES",
+        "relation": "limit",
+        "tail": "eBay"
+    },
+    {
+        "head": "SUBSIDIARIES",
+        "relation": "limit",
+        "tail": "Services"
+    },
+    {
+        "head": "SUBSIDIARIES",
+        "relation": "limit",
+        "tail": "Services"
+    },
+    {
+        "head": "SUBSIDIARIES",
+        "relation": "limit",
+        "tail": "Services"
+    },
+    {
+        "head": "SUBSIDIARIES",
+        "relation": "limit",
+        "tail": "eBay Service"
+    },
+    {
+        "head": "SUBSIDIARIES",
+        "relation": "limit",
+        "tail": "eBay"
+    },
+    {
+        "head": "SUBSIDIARIES",
+        "relation": "limit",
+        "tail": "Listing Conditions"
+    },
+    {
+        "head": "DIRECTORS",
+        "relation": "limit",
+        "tail": "GOODWILL"
+    },
+    {
+        "head": "DIRECTORS",
+        "relation": "limit",
+        "tail": "Services"
+    },
+    {
+        "head": "DIRECTORS",
+        "relation": "limit",
+        "tail": "Services"
+    },
+    {
+        "head": "DIRECTORS",
+        "relation": "limit",
+        "tail": "eBay"
+    },
+    {
+        "head": "DIRECTORS",
+        "relation": "limit",
+        "tail": "Services"
+    },
+    {
+        "head": "DIRECTORS",
+        "relation": "limit",
+        "tail": "Services"
+    },
+    {
+        "head": "DIRECTORS",
+        "relation": "limit",
+        "tail": "Services"
+    },
+    {
+        "head": "DIRECTORS",
+        "relation": "limit",
+        "tail": "eBay Service"
+    },
+    {
+        "head": "DIRECTORS",
+        "relation": "limit",
+        "tail": "eBay"
+    },
+    {
+        "head": "DIRECTORS",
+        "relation": "limit",
+        "tail": "Listing Conditions"
+    },
+    {
+        "head": "GOODWILL",
+        "relation": "limit",
+        "tail": "Services"
+    },
+    {
+        "head": "GOODWILL",
+        "relation": "limit",
+        "tail": "Services"
+    },
+    {
+        "head": "GOODWILL",
+        "relation": "limit",
+        "tail": "eBay"
+    },
+    {
+        "head": "GOODWILL",
+        "relation": "limit",
+        "tail": "Services"
+    },
+    {
+        "head": "GOODWILL",
+        "relation": "limit",
+        "tail": "Services"
+    },
+    {
+        "head": "GOODWILL",
+        "relation": "limit",
+        "tail": "Services"
+    },
+    {
+        "head": "GOODWILL",
+        "relation": "limit",
+        "tail": "eBay Service"
+    },
+    {
+        "head": "GOODWILL",
+        "relation": "limit",
+        "tail": "eBay"
+    },
+    {
+        "head": "GOODWILL",
+        "relation": "limit",
+        "tail": "Listing Conditions"
+    },
+    {
+        "head": "Services",
+        "relation": "limit",
+        "tail": "Services"
+    },
+    {
+        "head": "Services",
+        "relation": "limit",
+        "tail": "eBay"
+    },
+    {
+        "head": "Services",
+        "relation": "limit",
+        "tail": "Services"
+    },
+    {
+        "head": "Services",
+        "relation": "limit",
+        "tail": "Services"
+    },
+    {
+        "head": "Services",
+        "relation": "limit",
+        "tail": "Services"
+    },
+    {
+        "head": "Services",
+        "relation": "limit",
+        "tail": "eBay Service"
+    },
+    {
+        "head": "Services",
+        "relation": "limit",
+        "tail": "eBay"
+    },
+    {
+        "head": "Services",
+        "relation": "limit",
+        "tail": "Listing Conditions"
+    },
+    {
+        "head": "Services",
+        "relation": "limit",
+        "tail": "eBay"
+    },
+    {
+        "head": "Services",
+        "relation": "limit",
+        "tail": "Services"
+    },
+    {
+        "head": "Services",
+        "relation": "limit",
+        "tail": "Services"
+    },
+    {
+        "head": "Services",
+        "relation": "limit",
+        "tail": "Services"
+    },
+    {
+        "head": "Services",
+        "relation": "limit",
+        "tail": "eBay Service"
+    },
+    {
+        "head": "Services",
+        "relation": "limit",
+        "tail": "eBay"
+    },
+    {
+        "head": "Services",
+        "relation": "limit",
+        "tail": "Listing Conditions"
+    },
+    {
+        "head": "eBay",
+        "relation": "limit",
+        "tail": "Services"
+    },
+    {
+        "head": "eBay",
+        "relation": "limit",
+        "tail": "Services"
+    },
+    {
+        "head": "eBay",
+        "relation": "limit",
+        "tail": "Services"
+    },
+    {
+        "head": "eBay",
+        "relation": "limit",
+        "tail": "eBay Service"
+    },
+    {
+        "head": "eBay",
+        "relation": "limit",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "limit",
+        "tail": "Listing Conditions"
+    },
+    {
+        "head": "Services",
+        "relation": "limit",
+        "tail": "Services"
+    },
+    {
+        "head": "Services",
+        "relation": "limit",
+        "tail": "Services"
+    },
+    {
+        "head": "Services",
+        "relation": "limit",
+        "tail": "eBay Service"
+    },
+    {
+        "head": "Services",
+        "relation": "limit",
+        "tail": "eBay"
+    },
+    {
+        "head": "Services",
+        "relation": "limit",
+        "tail": "Listing Conditions"
+    },
+    {
+        "head": "Services",
+        "relation": "limit",
+        "tail": "Services"
+    },
+    {
+        "head": "Services",
+        "relation": "limit",
+        "tail": "eBay Service"
+    },
+    {
+        "head": "Services",
+        "relation": "limit",
+        "tail": "eBay"
+    },
+    {
+        "head": "Services",
+        "relation": "limit",
+        "tail": "Listing Conditions"
+    },
+    {
+        "head": "Services",
+        "relation": "limit",
+        "tail": "eBay Service"
+    },
+    {
+        "head": "Services",
+        "relation": "limit",
+        "tail": "eBay"
+    },
+    {
+        "head": "Services",
+        "relation": "limit",
+        "tail": "Listing Conditions"
+    },
+    {
+        "head": "eBay Service",
+        "relation": "limit",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay Service",
+        "relation": "limit",
+        "tail": "Listing Conditions"
+    },
+    {
+        "head": "eBay",
+        "relation": "limit",
+        "tail": "Listing Conditions"
+    },
+    {
+        "head": "the eBay Money Back Guarantee",
+        "relation": "find",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "relate",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "agree",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "agree",
+        "tail": "Services"
+    },
+    {
+        "head": "eBay",
+        "relation": "agree",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "agree",
+        "tail": "Services"
+    },
+    {
+        "head": "eBay",
+        "relation": "agree",
+        "tail": "Services"
+    },
+    {
+        "head": "eBay",
+        "relation": "agree",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "agree",
+        "tail": "Services"
+    },
+    {
+        "head": "Services",
+        "relation": "agree",
+        "tail": "eBay"
+    },
+    {
+        "head": "Services",
+        "relation": "agree",
+        "tail": "Services"
+    },
+    {
+        "head": "eBay",
+        "relation": "agree",
+        "tail": "Services"
+    },
+    {
+        "head": "eBay",
+        "relation": "agree",
+        "tail": "the State of Utah"
+    },
+    {
+        "head": "eBay",
+        "relation": "agree",
+        "tail": "eBay"
+    },
+    {
+        "head": "the State of Utah",
+        "relation": "agree",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "agree",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "agree",
+        "tail": "the User Agreement"
+    },
+    {
+        "head": "eBay",
+        "relation": "agree",
+        "tail": "Services"
+    },
+    {
+        "head": "eBay",
+        "relation": "agree",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "agree",
+        "tail": "Services"
+    },
+    {
+        "head": "eBay",
+        "relation": "agree",
+        "tail": "the User Agreement"
+    },
+    {
+        "head": "eBay",
+        "relation": "agree",
+        "tail": "Services"
+    },
+    {
+        "head": "eBay",
+        "relation": "agree",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "agree",
+        "tail": "Services"
+    },
+    {
+        "head": "the User Agreement",
+        "relation": "agree",
+        "tail": "Services"
+    },
+    {
+        "head": "the User Agreement",
+        "relation": "agree",
+        "tail": "eBay"
+    },
+    {
+        "head": "the User Agreement",
+        "relation": "agree",
+        "tail": "Services"
+    },
+    {
+        "head": "Services",
+        "relation": "agree",
+        "tail": "eBay"
+    },
+    {
+        "head": "Services",
+        "relation": "agree",
+        "tail": "Services"
+    },
+    {
+        "head": "eBay",
+        "relation": "agree",
+        "tail": "Services"
+    },
+    {
+        "head": "eBay",
+        "relation": "seek",
+        "tail": "eBay"
+    },
+    {
+        "head": "Dispute",
+        "relation": "arise",
+        "tail": "eBay"
+    },
+    {
+        "head": "Dispute",
+        "relation": "arise",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "arise",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "send",
+        "tail": "Notice"
+    },
+    {
+        "head": "eBay",
+        "relation": "send",
+        "tail": "eBay"
+    },
+    {
+        "head": "Notice",
+        "relation": "send",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "elect",
+        "tail": "Disputes"
+    },
+    {
+        "head": "Non-Individualized Relief",
+        "relation": "bring",
+        "tail": "COLLECTIVE"
+    },
+    {
+        "head": "eBay",
+        "relation": "determine",
+        "tail": "eBay"
+    },
+    {
+        "head": "Dispute",
+        "relation": "have",
+        "tail": "Disputes"
+    },
+    {
+        "head": "eBay",
+        "relation": "resolve",
+        "tail": "Dispute"
+    },
+    {
+        "head": "National Arbitration Mediation",
+        "relation": "administer",
+        "tail": "the NAM Supplemental Rules for Mass Arbitration Filings"
+    },
+    {
+        "head": "National Arbitration Mediation",
+        "relation": "administer",
+        "tail": "the NAM Comprehensive Rules"
+    },
+    {
+        "head": "National Arbitration Mediation",
+        "relation": "administer",
+        "tail": "the \"NAM Rules"
+    },
+    {
+        "head": "the NAM Supplemental Rules for Mass Arbitration Filings",
+        "relation": "administer",
+        "tail": "the NAM Comprehensive Rules"
+    },
+    {
+        "head": "the NAM Supplemental Rules for Mass Arbitration Filings",
+        "relation": "administer",
+        "tail": "the \"NAM Rules"
+    },
+    {
+        "head": "the NAM Comprehensive Rules",
+        "relation": "administer",
+        "tail": "the \"NAM Rules"
+    },
+    {
+        "head": "The NAM Rules",
+        "relation": "administer",
+        "tail": "NAM"
+    },
+    {
+        "head": "eBay",
+        "relation": "send",
+        "tail": "eBay Inc."
+    },
+    {
+        "head": "eBay",
+        "relation": "send",
+        "tail": "Attn: Litigation Department"
+    },
+    {
+        "head": "eBay",
+        "relation": "send",
+        "tail": "583 W. eBay Way"
+    },
+    {
+        "head": "eBay Inc.",
+        "relation": "send",
+        "tail": "Attn: Litigation Department"
+    },
+    {
+        "head": "eBay Inc.",
+        "relation": "send",
+        "tail": "583 W. eBay Way"
+    },
+    {
+        "head": "Attn: Litigation Department",
+        "relation": "send",
+        "tail": "583 W. eBay Way"
+    },
+    {
+        "head": "eBay",
+        "relation": "initiate",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "include",
+        "tail": "U.S."
+    },
+    {
+        "head": "U.S.",
+        "relation": "agree",
+        "tail": "eBay"
+    },
+    {
+        "head": "U.S.",
+        "relation": "agree",
+        "tail": "Batch Arbitration"
+    },
+    {
+        "head": "eBay",
+        "relation": "agree",
+        "tail": "Batch Arbitration"
+    },
+    {
+        "head": "the United States",
+        "relation": "include",
+        "tail": "Salt Lake County"
+    },
+    {
+        "head": "the United States",
+        "relation": "include",
+        "tail": "Utah"
+    },
+    {
+        "head": "the United States",
+        "relation": "include",
+        "tail": "United States"
+    },
+    {
+        "head": "Salt Lake County",
+        "relation": "include",
+        "tail": "Utah"
+    },
+    {
+        "head": "Salt Lake County",
+        "relation": "include",
+        "tail": "United States"
+    },
+    {
+        "head": "Utah",
+        "relation": "include",
+        "tail": "United States"
+    },
+    {
+        "head": "NAM",
+        "relation": "select",
+        "tail": "the Batch Arbitration"
+    },
+    {
+        "head": "NAM",
+        "relation": "select",
+        "tail": "NAM"
+    },
+    {
+        "head": "the Batch Arbitration",
+        "relation": "select",
+        "tail": "NAM"
+    },
+    {
+        "head": "NAM",
+        "relation": "govern",
+        "tail": "Dispute"
+    },
+    {
+        "head": "NAM",
+        "relation": "govern",
+        "tail": "eBay"
+    },
+    {
+        "head": "Dispute",
+        "relation": "govern",
+        "tail": "eBay"
+    },
+    {
+        "head": "Dispute",
+        "relation": "bear",
+        "tail": "Demand"
+    },
+    {
+        "head": "Dispute",
+        "relation": "bear",
+        "tail": "Federal Rule of Civil Procedure"
+    },
+    {
+        "head": "Demand",
+        "relation": "bear",
+        "tail": "Federal Rule of Civil Procedure"
+    },
+    {
+        "head": "Batch Arbitration",
+        "relation": "increase",
+        "tail": "eBay"
+    },
+    {
+        "head": "Batch Arbitration",
+        "relation": "increase",
+        "tail": "eBay"
+    },
+    {
+        "head": "Batch Arbitration",
+        "relation": "increase",
+        "tail": "NAM"
+    },
+    {
+        "head": "Batch Arbitration",
+        "relation": "increase",
+        "tail": "Demands"
+    },
+    {
+        "head": "Batch Arbitration",
+        "relation": "increase",
+        "tail": "Claimant\u2019s Counsel"
+    },
+    {
+        "head": "Batch Arbitration",
+        "relation": "increase",
+        "tail": "Claimant\u2019s Counsel"
+    },
+    {
+        "head": "eBay",
+        "relation": "increase",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "increase",
+        "tail": "NAM"
+    },
+    {
+        "head": "eBay",
+        "relation": "increase",
+        "tail": "Demands"
+    },
+    {
+        "head": "eBay",
+        "relation": "increase",
+        "tail": "Claimant\u2019s Counsel"
+    },
+    {
+        "head": "eBay",
+        "relation": "increase",
+        "tail": "Claimant\u2019s Counsel"
+    },
+    {
+        "head": "eBay",
+        "relation": "increase",
+        "tail": "NAM"
+    },
+    {
+        "head": "eBay",
+        "relation": "increase",
+        "tail": "Demands"
+    },
+    {
+        "head": "eBay",
+        "relation": "increase",
+        "tail": "Claimant\u2019s Counsel"
+    },
+    {
+        "head": "eBay",
+        "relation": "increase",
+        "tail": "Claimant\u2019s Counsel"
+    },
+    {
+        "head": "NAM",
+        "relation": "increase",
+        "tail": "Demands"
+    },
+    {
+        "head": "NAM",
+        "relation": "increase",
+        "tail": "Claimant\u2019s Counsel"
+    },
+    {
+        "head": "NAM",
+        "relation": "increase",
+        "tail": "Claimant\u2019s Counsel"
+    },
+    {
+        "head": "Demands",
+        "relation": "increase",
+        "tail": "Claimant\u2019s Counsel"
+    },
+    {
+        "head": "Demands",
+        "relation": "increase",
+        "tail": "Claimant\u2019s Counsel"
+    },
+    {
+        "head": "Claimant\u2019s Counsel",
+        "relation": "increase",
+        "tail": "Claimant\u2019s Counsel"
+    },
+    {
+        "head": "the Batch Arbitration",
+        "relation": "disagree",
+        "tail": "NAM"
+    },
+    {
+        "head": "the Batch Arbitration",
+        "relation": "disagree",
+        "tail": "NAM"
+    },
+    {
+        "head": "the Batch Arbitration",
+        "relation": "disagree",
+        "tail": "Procedural Arbitrator"
+    },
+    {
+        "head": "the Batch Arbitration",
+        "relation": "disagree",
+        "tail": "the NAM Rules"
+    },
+    {
+        "head": "the Batch Arbitration",
+        "relation": "disagree",
+        "tail": "the Batch Arbitration"
+    },
+    {
+        "head": "the Batch Arbitration",
+        "relation": "disagree",
+        "tail": "the Procedural Arbitrator or Emergency Arbitrator"
+    },
+    {
+        "head": "the Batch Arbitration",
+        "relation": "disagree",
+        "tail": "the \"Administrative Arbitrator"
+    },
+    {
+        "head": "NAM",
+        "relation": "disagree",
+        "tail": "NAM"
+    },
+    {
+        "head": "NAM",
+        "relation": "disagree",
+        "tail": "Procedural Arbitrator"
+    },
+    {
+        "head": "NAM",
+        "relation": "disagree",
+        "tail": "the NAM Rules"
+    },
+    {
+        "head": "NAM",
+        "relation": "disagree",
+        "tail": "the Batch Arbitration"
+    },
+    {
+        "head": "NAM",
+        "relation": "disagree",
+        "tail": "the Procedural Arbitrator or Emergency Arbitrator"
+    },
+    {
+        "head": "NAM",
+        "relation": "disagree",
+        "tail": "the \"Administrative Arbitrator"
+    },
+    {
+        "head": "NAM",
+        "relation": "disagree",
+        "tail": "Procedural Arbitrator"
+    },
+    {
+        "head": "NAM",
+        "relation": "disagree",
+        "tail": "the NAM Rules"
+    },
+    {
+        "head": "NAM",
+        "relation": "disagree",
+        "tail": "the Batch Arbitration"
+    },
+    {
+        "head": "NAM",
+        "relation": "disagree",
+        "tail": "the Procedural Arbitrator or Emergency Arbitrator"
+    },
+    {
+        "head": "NAM",
+        "relation": "disagree",
+        "tail": "the \"Administrative Arbitrator"
+    },
+    {
+        "head": "Procedural Arbitrator",
+        "relation": "disagree",
+        "tail": "the NAM Rules"
+    },
+    {
+        "head": "Procedural Arbitrator",
+        "relation": "disagree",
+        "tail": "the Batch Arbitration"
+    },
+    {
+        "head": "Procedural Arbitrator",
+        "relation": "disagree",
+        "tail": "the Procedural Arbitrator or Emergency Arbitrator"
+    },
+    {
+        "head": "Procedural Arbitrator",
+        "relation": "disagree",
+        "tail": "the \"Administrative Arbitrator"
+    },
+    {
+        "head": "the NAM Rules",
+        "relation": "disagree",
+        "tail": "the Batch Arbitration"
+    },
+    {
+        "head": "the NAM Rules",
+        "relation": "disagree",
+        "tail": "the Procedural Arbitrator or Emergency Arbitrator"
+    },
+    {
+        "head": "the NAM Rules",
+        "relation": "disagree",
+        "tail": "the \"Administrative Arbitrator"
+    },
+    {
+        "head": "the Batch Arbitration",
+        "relation": "disagree",
+        "tail": "the Procedural Arbitrator or Emergency Arbitrator"
+    },
+    {
+        "head": "the Batch Arbitration",
+        "relation": "disagree",
+        "tail": "the \"Administrative Arbitrator"
+    },
+    {
+        "head": "the Procedural Arbitrator or Emergency Arbitrator",
+        "relation": "disagree",
+        "tail": "the \"Administrative Arbitrator"
+    },
+    {
+        "head": "the Administrative Arbitrator",
+        "relation": "expedite",
+        "tail": "the Administrative Arbitrator"
+    },
+    {
+        "head": "The Administrative Arbitrator\u2019s",
+        "relation": "pay",
+        "tail": "eBay"
+    },
+    {
+        "head": "eBay",
+        "relation": "agree",
+        "tail": "NAM"
+    },
+    {
+        "head": "eBay",
+        "relation": "agree",
+        "tail": "the Batch Arbitration"
+    },
+    {
+        "head": "eBay",
+        "relation": "agree",
+        "tail": "Demands"
+    },
+    {
+        "head": "NAM",
+        "relation": "agree",
+        "tail": "the Batch Arbitration"
+    },
+    {
+        "head": "NAM",
+        "relation": "agree",
+        "tail": "Demands"
+    },
+    {
+        "head": "the Batch Arbitration",
+        "relation": "agree",
+        "tail": "Demands"
+    },
+    {
+        "head": "Disputes",
+        "relation": "find",
+        "tail": "Salt Lake County"
+    },
+    {
+        "head": "Disputes",
+        "relation": "find",
+        "tail": "Utah"
+    },
+    {
+        "head": "Salt Lake County",
+        "relation": "find",
+        "tail": "Utah"
+    },
+    {
+        "head": "Dispute",
+        "relation": "agree",
+        "tail": "eBay"
+    },
+    {
+        "head": "Notice",
+        "relation": "send",
+        "tail": "eBay"
+    },
+    {
+        "head": "C. Judicial Forum",
+        "relation": "find",
+        "tail": "Dispute"
+    },
+    {
+        "head": "C. Judicial Forum",
+        "relation": "find",
+        "tail": "eBay"
+    },
+    {
+        "head": "C. Judicial Forum",
+        "relation": "find",
+        "tail": "Salt Lake County"
+    },
+    {
+        "head": "C. Judicial Forum",
+        "relation": "find",
+        "tail": "Utah"
+    },
+    {
+        "head": "Dispute",
+        "relation": "find",
+        "tail": "eBay"
+    },
+    {
+        "head": "Dispute",
+        "relation": "find",
+        "tail": "Salt Lake County"
+    },
+    {
+        "head": "Dispute",
+        "relation": "find",
+        "tail": "Utah"
+    },
+    {
+        "head": "eBay",
+        "relation": "find",
+        "tail": "Salt Lake County"
+    },
+    {
+        "head": "eBay",
+        "relation": "find",
+        "tail": "Utah"
+    },
+    {
+        "head": "Salt Lake County",
+        "relation": "find",
+        "tail": "Utah"
+    },
+    {
+        "head": "eBay",
+        "relation": "agree",
+        "tail": "Salt Lake County"
+    },
+    {
+        "head": "eBay",
+        "relation": "agree",
+        "tail": "Utah"
+    },
+    {
+        "head": "Salt Lake County",
+        "relation": "agree",
+        "tail": "Utah"
+    },
+    {
+        "head": "eBay",
+        "relation": "limit",
+        "tail": "Services"
+    },
+    {
+        "head": "eBay",
+        "relation": "limit",
+        "tail": "eBay"
+    },
+    {
+        "head": "Services",
+        "relation": "limit",
+        "tail": "eBay"
+    },
+    {
+        "head": "Services",
+        "relation": "post",
+        "tail": "eBay"
+    },
+    {
+        "head": "Taxes",
+        "relation": "follow",
+        "tail": "Content"
+    },
+    {
+        "head": "Taxes",
+        "relation": "follow",
+        "tail": "Holds"
+    },
+    {
+        "head": "Taxes",
+        "relation": "follow",
+        "tail": "Restricted Funds"
+    },
+    {
+        "head": "Taxes",
+        "relation": "follow",
+        "tail": "Disclaimer of Warranties"
+    },
+    {
+        "head": "Taxes",
+        "relation": "follow",
+        "tail": "Limitation of Liability"
+    },
+    {
+        "head": "Taxes",
+        "relation": "follow",
+        "tail": "Legal Disputes"
+    },
+    {
+        "head": "Content",
+        "relation": "follow",
+        "tail": "Holds"
+    },
+    {
+        "head": "Content",
+        "relation": "follow",
+        "tail": "Restricted Funds"
+    },
+    {
+        "head": "Content",
+        "relation": "follow",
+        "tail": "Disclaimer of Warranties"
+    },
+    {
+        "head": "Content",
+        "relation": "follow",
+        "tail": "Limitation of Liability"
+    },
+    {
+        "head": "Content",
+        "relation": "follow",
+        "tail": "Legal Disputes"
+    },
+    {
+        "head": "Holds",
+        "relation": "follow",
+        "tail": "Restricted Funds"
+    },
+    {
+        "head": "Holds",
+        "relation": "follow",
+        "tail": "Disclaimer of Warranties"
+    },
+    {
+        "head": "Holds",
+        "relation": "follow",
+        "tail": "Limitation of Liability"
+    },
+    {
+        "head": "Holds",
+        "relation": "follow",
+        "tail": "Legal Disputes"
+    },
+    {
+        "head": "Restricted Funds",
+        "relation": "follow",
+        "tail": "Disclaimer of Warranties"
+    },
+    {
+        "head": "Restricted Funds",
+        "relation": "follow",
+        "tail": "Limitation of Liability"
+    },
+    {
+        "head": "Restricted Funds",
+        "relation": "follow",
+        "tail": "Legal Disputes"
+    },
+    {
+        "head": "Disclaimer of Warranties",
+        "relation": "follow",
+        "tail": "Limitation of Liability"
+    },
+    {
+        "head": "Disclaimer of Warranties",
+        "relation": "follow",
+        "tail": "Legal Disputes"
+    },
+    {
+        "head": "Limitation of Liability",
+        "relation": "follow",
+        "tail": "Legal Disputes"
+    },
+    {
+        "head": "the Complaint Assistance Unit of",
+        "relation": "report",
+        "tail": "the Division of Consumer Services of the California Department of Consumer Affairs"
+    },
+    {
+        "head": "the Complaint Assistance Unit of",
+        "relation": "report",
+        "tail": "Sacramento"
+    },
+    {
+        "head": "the Division of Consumer Services of the California Department of Consumer Affairs",
+        "relation": "report",
+        "tail": "Sacramento"
+    },
+    {
+        "head": "Illinois",
+        "relation": "involve",
+        "tail": "the American Arbitration Association"
+    },
+    {
+        "head": "Illinois",
+        "relation": "involve",
+        "tail": "AAA"
+    },
+    {
+        "head": "the American Arbitration Association",
+        "relation": "involve",
+        "tail": "AAA"
+    },
+    {
+        "head": "the State of Illinois",
+        "relation": "agree",
+        "tail": "Illinois"
+    }
+]

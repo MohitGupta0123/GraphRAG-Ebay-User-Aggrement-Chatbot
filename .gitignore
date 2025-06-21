@@ -1,0 +1,5 @@
+.streamlit
+.venv
+__pycache__
+*.pyc
+Secrets

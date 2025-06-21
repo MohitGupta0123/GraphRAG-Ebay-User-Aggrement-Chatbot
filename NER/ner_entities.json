@@ -1,0 +1,566 @@
+[
+    [
+        "under 18 years old",
+        "DATE"
+    ],
+    [
+        "fourteen (14) days",
+        "DATE"
+    ],
+    [
+        "every calendar month",
+        "DATE"
+    ],
+    [
+        "3 days",
+        "DATE"
+    ],
+    [
+        "the 12 months",
+        "DATE"
+    ],
+    [
+        "45 days",
+        "DATE"
+    ],
+    [
+        "at least 14 days",
+        "DATE"
+    ],
+    [
+        "35 days",
+        "DATE"
+    ],
+    [
+        "90 day",
+        "DATE"
+    ],
+    [
+        "30 DAYS",
+        "DATE"
+    ],
+    [
+        "30 days'",
+        "DATE"
+    ],
+    [
+        "30-day",
+        "DATE"
+    ],
+    [
+        "Albert-Einstein-Ring 2-6",
+        "FAC"
+    ],
+    [
+        "Richmond Street West",
+        "FAC"
+    ],
+    [
+        "Helvetiastrasse",
+        "FAC"
+    ],
+    [
+        "Building D",
+        "FAC"
+    ],
+    [
+        "San Jose",
+        "GPE"
+    ],
+    [
+        "CA",
+        "GPE"
+    ],
+    [
+        "the United States",
+        "GPE"
+    ],
+    [
+        "London",
+        "GPE"
+    ],
+    [
+        "United Kingdom",
+        "GPE"
+    ],
+    [
+        "the United Kingdom",
+        "GPE"
+    ],
+    [
+        "Kleinmachnow",
+        "GPE"
+    ],
+    [
+        "Germany",
+        "GPE"
+    ],
+    [
+        "the European Union",
+        "GPE"
+    ],
+    [
+        "Toronto",
+        "GPE"
+    ],
+    [
+        "ON",
+        "GPE"
+    ],
+    [
+        "Canada",
+        "GPE"
+    ],
+    [
+        "Singapore",
+        "GPE"
+    ],
+    [
+        "India",
+        "GPE"
+    ],
+    [
+        "Bern",
+        "GPE"
+    ],
+    [
+        "Switzerland",
+        "GPE"
+    ],
+    [
+        "Arizona",
+        "GPE"
+    ],
+    [
+        "California",
+        "GPE"
+    ],
+    [
+        "Florida",
+        "GPE"
+    ],
+    [
+        "Texas",
+        "GPE"
+    ],
+    [
+        "Austin",
+        "GPE"
+    ],
+    [
+        "TX",
+        "GPE"
+    ],
+    [
+        "U.S.",
+        "GPE"
+    ],
+    [
+        "the State of Utah",
+        "GPE"
+    ],
+    [
+        "Draper",
+        "GPE"
+    ],
+    [
+        "UT",
+        "GPE"
+    ],
+    [
+        "Salt Lake County",
+        "GPE"
+    ],
+    [
+        "Utah",
+        "GPE"
+    ],
+    [
+        "United States",
+        "GPE"
+    ],
+    [
+        "DRAPER",
+        "GPE"
+    ],
+    [
+        "Sacramento",
+        "GPE"
+    ],
+    [
+        "Illinois",
+        "GPE"
+    ],
+    [
+        "the State of Illinois",
+        "GPE"
+    ],
+    [
+        "This User Agreement",
+        "LAW"
+    ],
+    [
+        "the Mobile Application Terms of Use",
+        "LAW"
+    ],
+    [
+        "The Mobile Application Terms",
+        "LAW"
+    ],
+    [
+        "this User Agreement",
+        "LAW"
+    ],
+    [
+        "an Agreement to Arbitrate",
+        "LAW"
+    ],
+    [
+        "the Agreement to Arbitrate",
+        "LAW"
+    ],
+    [
+        "section 19.B.9 (see Legal Disputes, Section B",
+        "LAW"
+    ],
+    [
+        "SECTION 16",
+        "LAW"
+    ],
+    [
+        "the Payments Terms of Use",
+        "LAW"
+    ],
+    [
+        "the Rules and policies",
+        "LAW"
+    ],
+    [
+        "Utah Code Annotated § 70A-2-401(2)",
+        "LAW"
+    ],
+    [
+        "Uniform Commercial Code § 2-401(2)",
+        "LAW"
+    ],
+    [
+        "the User Agreement",
+        "LAW"
+    ],
+    [
+        "the EIS Terms and Conditions",
+        "LAW"
+    ],
+    [
+        "Section 512(c)",
+        "LAW"
+    ],
+    [
+        "Title 17 of the United States Code",
+        "LAW"
+    ],
+    [
+        "the United States Digital Millennium Copyright Act",
+        "LAW"
+    ],
+    [
+        "our User Privacy Notice",
+        "LAW"
+    ],
+    [
+        "this Agreement to Arbitrate",
+        "LAW"
+    ],
+    [
+        "Notice of Dispute",
+        "LAW"
+    ],
+    [
+        "Section 19.B (\"Agreement to Arbitrate",
+        "LAW"
+    ],
+    [
+        "Section 19.B.7 (\"Batch Arbitration",
+        "LAW"
+    ],
+    [
+        "Section 19.C",
+        "LAW"
+    ],
+    [
+        "Sections 19.B",
+        "LAW"
+    ],
+    [
+        "Arbitration Procedures Arbitration",
+        "LAW"
+    ],
+    [
+        "Section 19.B.3 (\"Waiver of Class and Other Non-Individualized Relief",
+        "LAW"
+    ],
+    [
+        "the Federal Arbitration Act",
+        "LAW"
+    ],
+    [
+        "9 U.S.C. § 1",
+        "LAW"
+    ],
+    [
+        "Batch Arbitration",
+        "LAW"
+    ],
+    [
+        "Informal Dispute Resolution",
+        "LAW"
+    ],
+    [
+        "the NAM Comprehensive Dispute Resolution Rules and Procedure",
+        "LAW"
+    ],
+    [
+        "the \"NAM Comprehensive Rules",
+        "LAW"
+    ],
+    [
+        "the NAM Supplemental Rules for Mass Arbitration Filings",
+        "LAW"
+    ],
+    [
+        "the \"NAM Mass Filing Rules",
+        "LAW"
+    ],
+    [
+        "the NAM Comprehensive Rules",
+        "LAW"
+    ],
+    [
+        "the \"NAM Rules",
+        "LAW"
+    ],
+    [
+        "The NAM Rules",
+        "LAW"
+    ],
+    [
+        "the NAM Rules",
+        "LAW"
+    ],
+    [
+        "the \"Fee Schedules",
+        "LAW"
+    ],
+    [
+        "Section 1 of this Agreement",
+        "LAW"
+    ],
+    [
+        "Federal Rule of Civil Procedure 11(b",
+        "LAW"
+    ],
+    [
+        "the Fee Schedule",
+        "LAW"
+    ],
+    [
+        "Section 19.B.3 (\"Waiver of Class or Other Non-Individualized Relief",
+        "LAW"
+    ],
+    [
+        "Section 19.B.7 (\"",
+        "LAW"
+    ],
+    [
+        "Section 19.C.",
+        "LAW"
+    ],
+    [
+        "this Agreement",
+        "LAW"
+    ],
+    [
+        "the Agreement",
+        "LAW"
+    ],
+    [
+        "The User Agreement",
+        "LAW"
+    ],
+    [
+        "Cal. Civ. Code §1789.3",
+        "LAW"
+    ],
+    [
+        "815 ILCS 414/1.5(c)",
+        "LAW"
+    ],
+    [
+        "Demands",
+        "NORP"
+    ],
+    [
+        "eBay",
+        "ORG"
+    ],
+    [
+        "Services",
+        "ORG"
+    ],
+    [
+        "eBay Inc.",
+        "ORG"
+    ],
+    [
+        "eBay (UK) Limited",
+        "ORG"
+    ],
+    [
+        "eBay GmbH",
+        "ORG"
+    ],
+    [
+        "eBay Canada Limited",
+        "ORG"
+    ],
+    [
+        "eBay Singapore Services Private Limited",
+        "ORG"
+    ],
+    [
+        "eBay Marketplaces GmbH",
+        "ORG"
+    ],
+    [
+        "Caramel Dealer Services, LLC",
+        "ORG"
+    ],
+    [
+        "eBay Secure Checkout",
+        "ORG"
+    ],
+    [
+        "CDS Auto Sales",
+        "ORG"
+    ],
+    [
+        "Caramel",
+        "ORG"
+    ],
+    [
+        "Caramel Services",
+        "ORG"
+    ],
+    [
+        "Experian",
+        "ORG"
+    ],
+    [
+        "Equifax",
+        "ORG"
+    ],
+    [
+        "TransUnion",
+        "ORG"
+    ],
+    [
+        "Global Collections",
+        "ORG"
+    ],
+    [
+        "the eBay International Shipping Program",
+        "ORG"
+    ],
+    [
+        "My eBay",
+        "ORG"
+    ],
+    [
+        "eBay Services",
+        "ORG"
+    ],
+    [
+        "eBay Money Back Guarantee",
+        "ORG"
+    ],
+    [
+        "eBay Payment Entities",
+        "ORG"
+    ],
+    [
+        "the eBay Payment Entities",
+        "ORG"
+    ],
+    [
+        "The eBay Payment Entities",
+        "ORG"
+    ],
+    [
+        "the eBay Payment Entity",
+        "ORG"
+    ],
+    [
+        "the Payment Entity's",
+        "ORG"
+    ],
+    [
+        "National Arbitration Mediation",
+        "ORG"
+    ],
+    [
+        "NAM",
+        "ORG"
+    ],
+    [
+        "Litigation Department",
+        "ORG"
+    ],
+    [
+        "EBAY INC.",
+        "ORG"
+    ],
+    [
+        "LITIGATION DEPARTMENT",
+        "ORG"
+    ],
+    [
+        "the eBay Message Center",
+        "ORG"
+    ],
+    [
+        "the eBay",
+        "ORG"
+    ],
+    [
+        "the eBay Service",
+        "ORG"
+    ],
+    [
+        "the Complaint Assistance Unit",
+        "ORG"
+    ],
+    [
+        "the Division of Consumer Services",
+        "ORG"
+    ],
+    [
+        "the California Department of Consumer Affairs",
+        "ORG"
+    ],
+    [
+        "the American Arbitration Association",
+        "ORG"
+    ],
+    [
+        "AAA",
+        "ORG"
+    ],
+    [
+        "several hours",
+        "TIME"
+    ],
+    [
+        "up to 24 hours",
+        "TIME"
+    ]
+]

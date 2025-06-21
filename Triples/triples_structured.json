@@ -1,0 +1,2352 @@
+[
+    {
+        "subject": "User Agreement 1.1",
+        "relation": "point in time",
+        "object": "1"
+    },
+    {
+        "subject": "Mobile Application Terms of Use",
+        "relation": "owned by",
+        "object": "eBay"
+    },
+    {
+        "subject": "eBay",
+        "relation": "owner of",
+        "object": "Mobile Application Terms of Use"
+    },
+    {
+        "subject": "2013 election",
+        "relation": "point in time",
+        "object": "2013"
+    },
+    {
+        "subject": "Mobile Application Terms of Use",
+        "relation": "instance of",
+        "object": "User Agreement"
+    },
+    {
+        "subject": "User Agreement",
+        "relation": "facet of",
+        "object": "Services"
+    },
+    {
+        "subject": "Kleinmachnow",
+        "relation": "country",
+        "object": "Germany"
+    },
+    {
+        "subject": "Bern",
+        "relation": "country",
+        "object": "Switzerland"
+    },
+    {
+        "subject": "User Agreement",
+        "relation": "facet of",
+        "object": "eBay"
+    },
+    {
+        "subject": "eBay",
+        "relation": "country",
+        "object": "India"
+    },
+    {
+        "subject": "User Agreement Disclaimer of Warranties; Limitation of Liability",
+        "relation": "Legal Disputes",
+        "object": "has part"
+    },
+    {
+        "subject": "has part Disclaimer of Warranties; Limitation of Liability",
+        "relation": "part of",
+        "object": "User Agreement"
+    },
+    {
+        "subject": "Legal Disputes",
+        "relation": "part of",
+        "object": "User Agreement"
+    },
+    {
+        "subject": "binding and final arbitration",
+        "relation": "has part",
+        "object": "Agreement to Arbitrate"
+    },
+    {
+        "subject": "jury trial",
+        "relation": "part of",
+        "object": "court of law"
+    },
+    {
+        "subject": "2.2",
+        "relation": "point in time",
+        "object": "2"
+    },
+    {
+        "subject": "eBay",
+        "relation": "instance of",
+        "object": "marketplace"
+    },
+    {
+        "subject": "eBay",
+        "relation": "different from",
+        "object": "auctioneer"
+    },
+    {
+        "subject": "eBay",
+        "relation": "different from",
+        "object": "auctioneer"
+    },
+    {
+        "subject": "eBay",
+        "relation": "product or material produced",
+        "object": "Services"
+    },
+    {
+        "subject": "AI-powered tools and products",
+        "relation": "facet of",
+        "object": "artificial intelligence"
+    },
+    {
+        "subject": "buyers",
+        "relation": "opposite of",
+        "object": "sellers"
+    },
+    {
+        "subject": "sellers",
+        "relation": "opposite of",
+        "object": "buyers"
+    },
+    {
+        "subject": "eBay",
+        "relation": "product or material produced",
+        "object": "listings"
+    },
+    {
+        "subject": "3.3",
+        "relation": "point in time",
+        "object": "3"
+    },
+    {
+        "subject": "User Agreement",
+        "relation": "facet of",
+        "object": "eBay"
+    },
+    {
+        "subject": "employees",
+        "relation": "different from",
+        "object": "agents"
+    },
+    {
+        "subject": "agents",
+        "relation": "different from",
+        "object": "employees"
+    },
+    {
+        "subject": "copyright",
+        "relation": "facet of",
+        "object": "intellectual property"
+    },
+    {
+        "subject": "trademark",
+        "relation": "subclass of",
+        "object": "intellectual property"
+    },
+    {
+        "subject": "patent",
+        "relation": "subclass of",
+        "object": "intellectual property"
+    },
+    {
+        "subject": "publicity",
+        "relation": "facet of",
+        "object": "intellectual property"
+    },
+    {
+        "subject": "copyright",
+        "relation": "facet of",
+        "object": "Intellectual Property Rights"
+    },
+    {
+        "subject": "minimum performance standards",
+        "relation": "facet of",
+        "object": "eBay"
+    },
+    {
+        "subject": "eBay",
+        "relation": "owner of",
+        "object": "seller account"
+    },
+    {
+        "subject": "seller account",
+        "relation": "owned by",
+        "object": "eBay"
+    },
+    {
+        "subject": "eBay",
+        "relation": "product or material produced",
+        "object": "Services"
+    },
+    {
+        "subject": "Services",
+        "relation": "Services",
+        "object": "product or material produced"
+    },
+    {
+        "subject": "product or material produced",
+        "relation": "product or material produced",
+        "object": "Services"
+    },
+    {
+        "subject": "Services",
+        "relation": "Services",
+        "object": "product or material produced"
+    },
+    {
+        "subject": "product or material produced",
+        "relation": "product or material produced",
+        "object": "Services"
+    },
+    {
+        "subject": "Services",
+        "relation": "Services",
+        "object": "product or material produced"
+    },
+    {
+        "subject": "product or material produced",
+        "relation": "product or material produced",
+        "object": "Services"
+    },
+    {
+        "subject": "Services",
+        "relation": "Services",
+        "object": "product or material produced"
+    },
+    {
+        "subject": "product or material produced",
+        "relation": "product or material produced",
+        "object": "Services"
+    },
+    {
+        "subject": "Google",
+        "relation": "owner of",
+        "object": "Chrome"
+    },
+    {
+        "subject": "Chrome",
+        "relation": "developer",
+        "object": "Google"
+    },
+    {
+        "subject": "eBay",
+        "relation": "product or material produced",
+        "object": "Offers"
+    },
+    {
+        "subject": "Fees and Taxes",
+        "relation": "has part",
+        "object": "final value fees"
+    },
+    {
+        "subject": "final value fees",
+        "relation": "part of",
+        "object": "Fees and Taxes"
+    },
+    {
+        "subject": "inactive",
+        "relation": "subclass of",
+        "object": "accounts"
+    },
+    {
+        "subject": "Microsoft Windows",
+        "relation": "instance of",
+        "object": "operating system"
+    },
+    {
+        "subject": "4.4",
+        "relation": "point in time",
+        "object": "4"
+    },
+    {
+        "subject": "eBay Secure Checkout",
+        "relation": "owned by",
+        "object": "Caramel Dealer Services, LLC"
+    },
+    {
+        "subject": "Caramel Dealer Services, LLC",
+        "relation": "owner of",
+        "object": "eBay Secure Checkout"
+    },
+    {
+        "subject": "eBay Secure Checkout",
+        "relation": "part of",
+        "object": "eBay"
+    },
+    {
+        "subject": "eBay",
+        "relation": "instance of",
+        "object": "used vehicle dealer"
+    },
+    {
+        "subject": "Terms of Use",
+        "relation": "subclass of",
+        "object": "policies and terms"
+    },
+    {
+        "subject": "Secure Checkout",
+        "relation": "developer",
+        "object": "eBay"
+    },
+    {
+        "subject": "eBay",
+        "relation": "different from",
+        "object": "vehicle broker"
+    },
+    {
+        "subject": "vehicle dealer",
+        "relation": "vehicle broker",
+        "object": "different from"
+    },
+    {
+        "subject": "eBay",
+        "relation": "vehicle dealer",
+        "object": "different from"
+    },
+    {
+        "subject": "different from",
+        "relation": "eBay",
+        "object": "vehicle dealer"
+    },
+    {
+        "subject": "different from",
+        "relation": "different from",
+        "object": "vehicle broker"
+    },
+    {
+        "subject": "eBay",
+        "relation": "different from",
+        "object": "inventory of vehicles for sale"
+    },
+    {
+        "subject": "inventory of vehicles for sale",
+        "relation": "different from",
+        "object": "eBay"
+    },
+    {
+        "subject": "eBay",
+        "relation": "eBay",
+        "object": "different from"
+    },
+    {
+        "subject": "eBay",
+        "relation": "product or material produced",
+        "object": "consignment"
+    },
+    {
+        "subject": "eBay",
+        "relation": "product or material produced",
+        "object": "consignment"
+    },
+    {
+        "subject": "eBay",
+        "relation": "product or material produced",
+        "object": "consignment"
+    },
+    {
+        "subject": "eBay",
+        "relation": "product or material produced",
+        "object": "consignment"
+    },
+    {
+        "subject": "EXPRESS",
+        "relation": "subclass of",
+        "object": "WARRANTY"
+    },
+    {
+        "subject": "IMPLIED",
+        "relation": "subclass of",
+        "object": "WARRANTy"
+    },
+    {
+        "subject": "GUARANTEES",
+        "relation": "different from",
+        "object": "WARRANTies"
+    },
+    {
+        "subject": "WARRANTies",
+        "relation": "different from",
+        "object": "GUARANTEES"
+    },
+    {
+        "subject": "eBay",
+        "relation": "product or material produced",
+        "object": "vehicle"
+    },
+    {
+        "subject": "insurance",
+        "relation": "part of",
+        "object": "pricing"
+    },
+    {
+        "subject": "eBay",
+        "relation": "different from",
+        "object": "eBay.com"
+    },
+    {
+        "subject": "eBay.com",
+        "relation": "different from",
+        "object": "eBay"
+    },
+    {
+        "subject": "financing",
+        "relation": "different from",
+        "object": "insurance"
+    },
+    {
+        "subject": "insurance",
+        "relation": "different from",
+        "object": "financing"
+    },
+    {
+        "subject": "vehicle market valuation",
+        "relation": "facet of",
+        "object": "purchase of a vehicle"
+    },
+    {
+        "subject": "2005",
+        "relation": "point in time",
+        "object": "2005"
+    },
+    {
+        "subject": "buyer",
+        "relation": "opposite of",
+        "object": "seller"
+    },
+    {
+        "subject": "seller",
+        "relation": "opposite of",
+        "object": "buyer"
+    },
+    {
+        "subject": "buyers",
+        "relation": "opposite of",
+        "object": "sellers"
+    },
+    {
+        "subject": "sellers",
+        "relation": "opposite of",
+        "object": "buyers"
+    },
+    {
+        "subject": "Termination of Services",
+        "relation": "subclass of",
+        "object": "terminate"
+    },
+    {
+        "subject": "6",
+        "relation": "point in time",
+        "object": "6"
+    },
+    {
+        "subject": "Fee",
+        "relation": "different from",
+        "object": "Taxes"
+    },
+    {
+        "subject": "Taxes",
+        "relation": "different from",
+        "object": "Fee"
+    },
+    {
+        "subject": "authentication",
+        "relation": "subclass of",
+        "object": "Services"
+    },
+    {
+        "subject": "Services",
+        "relation": "subclass of",
+        "object": "goods and services"
+    },
+    {
+        "subject": "eBay",
+        "relation": "product or material produced",
+        "object": "selling"
+    },
+    {
+        "subject": "eBay",
+        "relation": "instance of",
+        "object": "seller"
+    },
+    {
+        "subject": "eBay",
+        "relation": "owner of",
+        "object": "Services for the introduction to a buyer"
+    },
+    {
+        "subject": "Services for the introduction to a buyer",
+        "relation": "owned by",
+        "object": "eBay"
+    },
+    {
+        "subject": "fees",
+        "relation": "subclass of",
+        "object": "payment method"
+    },
+    {
+        "subject": "Payments Terms of Use",
+        "relation": "facet of",
+        "object": "eBay Payments Entities"
+    },
+    {
+        "subject": "credit bureaus",
+        "relation": "owner of",
+        "object": "credit report"
+    },
+    {
+        "subject": "credit report",
+        "relation": "owned by",
+        "object": "credit bureaus"
+    },
+    {
+        "subject": "Experian",
+        "relation": "instance of",
+        "object": "credit bureau"
+    },
+    {
+        "subject": "Equifax",
+        "relation": "instance of",
+        "object": "credit bureau"
+    },
+    {
+        "subject": "TransUnion",
+        "relation": "instance of",
+        "object": "credit bureau"
+    },
+    {
+        "subject": "eBay",
+        "relation": "instance of",
+        "object": "credit bureau"
+    },
+    {
+        "subject": "7",
+        "relation": "point in time",
+        "object": "7"
+    },
+    {
+        "subject": "Listing policies",
+        "relation": "part of",
+        "object": "eBay"
+    },
+    {
+        "subject": "Selling practices policy",
+        "relation": "part of",
+        "object": "eBay"
+    },
+    {
+        "subject": "eBay",
+        "relation": "instance of",
+        "object": "marketplace"
+    },
+    {
+        "subject": "eBay",
+        "relation": "instance of",
+        "object": "marketplace"
+    },
+    {
+        "subject": "eBay",
+        "relation": "instance of",
+        "object": "marketplace"
+    },
+    {
+        "subject": "Detailed Seller Ratings",
+        "relation": "part of",
+        "object": "eBay"
+    },
+    {
+        "subject": "Duplicate listings policy",
+        "relation": "facet of",
+        "object": "eBay"
+    },
+    {
+        "subject": "Payments methods policy",
+        "relation": "facet of",
+        "object": "eBay"
+    },
+    {
+        "subject": "safety hazard",
+        "relation": "subclass of",
+        "object": "health or safety hazard"
+    },
+    {
+        "subject": "eBay",
+        "relation": "product or material produced",
+        "object": "Services"
+    },
+    {
+        "subject": "Services",
+        "relation": "owned by",
+        "object": "eBay"
+    },
+    {
+        "subject": "eBay",
+        "relation": "product or material produced",
+        "object": "eBay Services"
+    },
+    {
+        "subject": "eBay Services",
+        "relation": "owned by",
+        "object": "eBay"
+    },
+    {
+        "subject": "listings",
+        "relation": "subclass of",
+        "object": "third-party advertisement"
+    },
+    {
+        "subject": "8",
+        "relation": "point in time",
+        "object": "8"
+    },
+    {
+        "subject": "non-binding transaction",
+        "relation": "opposite of",
+        "object": "legally binding contract"
+    },
+    {
+        "subject": "eBay",
+        "relation": "instance of",
+        "object": "marketplace"
+    },
+    {
+        "subject": "Services are accessible internationally",
+        "relation": "has part",
+        "object": "Services are accessible"
+    },
+    {
+        "subject": "Services are accessible",
+        "relation": "part of",
+        "object": "Services are accessible internationally"
+    },
+    {
+        "subject": "Services are accessible",
+        "relation": "part of",
+        "object": "Services are accessible internationally"
+    },
+    {
+        "subject": "sellers",
+        "relation": "opposite of",
+        "object": "buyers"
+    },
+    {
+        "subject": "buyers",
+        "relation": "opposite of",
+        "object": "sellers"
+    },
+    {
+        "subject": "countries",
+        "relation": "different from",
+        "object": "regions"
+    },
+    {
+        "subject": "regions",
+        "relation": "different from",
+        "object": "countries"
+    },
+    {
+        "subject": "Sellers",
+        "relation": "opposite of",
+        "object": "buyers"
+    },
+    {
+        "subject": "buyers",
+        "relation": "opposite of",
+        "object": "Sellers"
+    },
+    {
+        "subject": "User Agreement",
+        "relation": "facet of",
+        "object": "eBay"
+    },
+    {
+        "subject": "eBay",
+        "relation": "instance of",
+        "object": "site"
+    },
+    {
+        "subject": "International selling policy",
+        "relation": "instance of",
+        "object": "settings"
+    },
+    {
+        "subject": "shipping",
+        "relation": "product or material produced",
+        "object": "item"
+    },
+    {
+        "subject": "User Agreement",
+        "relation": "facet of",
+        "object": "eBay"
+    },
+    {
+        "subject": "eBay",
+        "relation": "instance of",
+        "object": "member-to-member"
+    },
+    {
+        "subject": "Google",
+        "relation": "product or material produced",
+        "object": "Chrome"
+    },
+    {
+        "subject": "Chrome",
+        "relation": "developer",
+        "object": "Google"
+    },
+    {
+        "subject": "accuracy",
+        "relation": "different from",
+        "object": "availability"
+    },
+    {
+        "subject": "availability",
+        "relation": "different from",
+        "object": "accuracy"
+    },
+    {
+        "subject": "eBay International Shipping Program",
+        "relation": "parent organization",
+        "object": "eBay"
+    },
+    {
+        "subject": "customs clearance",
+        "relation": "facet of",
+        "object": "international shipping"
+    },
+    {
+        "subject": "eBay",
+        "relation": "instance of",
+        "object": "third-party service providers"
+    },
+    {
+        "subject": "EIS Terms and Conditions",
+        "relation": "publisher",
+        "object": "eBay"
+    },
+    {
+        "subject": "EIS",
+        "relation": "instance of",
+        "object": "shipping preferences"
+    },
+    {
+        "subject": "2010",
+        "relation": "point in time",
+        "object": "2010"
+    },
+    {
+        "subject": "non-exclusive",
+        "relation": "subclass of",
+        "object": "Intellectual Property Rights"
+    },
+    {
+        "subject": "royalty-free",
+        "relation": "facet of",
+        "object": "Intellectual Property Rights"
+    },
+    {
+        "subject": "sublicensable",
+        "relation": "subclass of",
+        "object": "Intellectual Property Rights"
+    },
+    {
+        "subject": "moral rights",
+        "relation": "subclass of",
+        "object": "Intellectual Property Rights"
+    },
+    {
+        "subject": "represent and warrant",
+        "relation": "part of",
+        "object": "User Agreement"
+    },
+    {
+        "subject": "User Agreement",
+        "relation": "has part",
+        "object": "represent and warrant"
+    },
+    {
+        "subject": "legal",
+        "relation": "subclass of",
+        "object": "represent and warrant"
+    },
+    {
+        "subject": "derivative work",
+        "relation": "subclass of",
+        "object": "Intellectual Property Rights"
+    },
+    {
+        "subject": "no responsibility",
+        "relation": "different from",
+        "object": "liability"
+    },
+    {
+        "subject": "liability",
+        "relation": "different from",
+        "object": "no responsibility"
+    },
+    {
+        "subject": "specifications",
+        "relation": "subclass of",
+        "object": "product data"
+    },
+    {
+        "subject": "eBay",
+        "relation": "product or material produced",
+        "object": "listings"
+    },
+    {
+        "subject": "eBay",
+        "relation": "owner of",
+        "object": "sole discretion"
+    },
+    {
+        "subject": "sole discretion",
+        "relation": "owned by",
+        "object": "eBay"
+    },
+    {
+        "subject": "copyrighted",
+        "relation": "subclass of",
+        "object": "proprietary"
+    },
+    {
+        "subject": "trademark",
+        "relation": "subclass of",
+        "object": "proprietary"
+    },
+    {
+        "subject": "copyright",
+        "relation": "facet of",
+        "object": "proprietary"
+    },
+    {
+        "subject": "data",
+        "relation": "part of",
+        "object": "Services"
+    },
+    {
+        "subject": "Services",
+        "relation": "has part",
+        "object": "data"
+    },
+    {
+        "subject": "eBay",
+        "relation": "product or material produced",
+        "object": "Services"
+    },
+    {
+        "subject": "Services",
+        "relation": "owned by",
+        "object": "eBay"
+    },
+    {
+        "subject": "service mark",
+        "relation": "subclass of",
+        "object": "trademarks"
+    },
+    {
+        "subject": "eBay",
+        "relation": "product or material produced",
+        "object": "written prior permission"
+    },
+    {
+        "subject": "11.11",
+        "relation": "point in time",
+        "object": "11"
+    },
+    {
+        "subject": "Title 17 of the United States Code",
+        "relation": "part of",
+        "object": "United States Digital Millennium Copyright Act"
+    },
+    {
+        "subject": "United States Digital Millennium Copyright Act",
+        "relation": "has part",
+        "object": "Title 17 of the United States Code"
+    },
+    {
+        "subject": "copyright",
+        "relation": "facet of",
+        "object": "intellectual property"
+    },
+    {
+        "subject": "trademark",
+        "relation": "subclass of",
+        "object": "intellectual property"
+    },
+    {
+        "subject": "intellectual property",
+        "relation": "instance of",
+        "object": "rights"
+    },
+    {
+        "subject": "eBay",
+        "relation": "product or material produced",
+        "object": "notice"
+    },
+    {
+        "subject": "12.12",
+        "relation": "point in time",
+        "object": "12"
+    },
+    {
+        "subject": "Payments Terms of Use",
+        "relation": "facet of",
+        "object": "eBay"
+    },
+    {
+        "subject": "13.13",
+        "relation": "point in time",
+        "object": "13"
+    },
+    {
+        "subject": "User Agreement",
+        "relation": "facet of",
+        "object": "eBay"
+    },
+    {
+        "subject": "marketing",
+        "relation": "has part",
+        "object": "offers"
+    },
+    {
+        "subject": "promotions",
+        "relation": "offers",
+        "object": "has part"
+    },
+    {
+        "subject": "marketing",
+        "relation": "promotions",
+        "object": "part of"
+    },
+    {
+        "subject": "User Privacy Notice",
+        "relation": "facet of",
+        "object": "collection, use, disclosure, retention, and protection of your personal information"
+    },
+    {
+        "subject": "landline",
+        "relation": "subclass of",
+        "object": "telephone numbers"
+    },
+    {
+        "subject": "overage fees",
+        "relation": "subclass of",
+        "object": "Standard telephone minute and text charges"
+    },
+    {
+        "subject": "Communication Preferences",
+        "relation": "part of",
+        "object": "My eBay"
+    },
+    {
+        "subject": "opt out",
+        "relation": "facet of",
+        "object": "text marketing"
+    },
+    {
+        "subject": "User Privacy Notice",
+        "relation": "owned by",
+        "object": "eBay"
+    },
+    {
+        "subject": "text messages",
+        "relation": "subclass of",
+        "object": "autodialed"
+    },
+    {
+        "subject": "eBay",
+        "relation": "subsidiary",
+        "object": "agents"
+    },
+    {
+        "subject": "eBay",
+        "relation": "subsidiary",
+        "object": "agents"
+    },
+    {
+        "subject": "agents",
+        "relation": "parent organization",
+        "object": "eBay"
+    },
+    {
+        "subject": "chat",
+        "relation": "subclass of",
+        "object": "messaging"
+    },
+    {
+        "subject": "message",
+        "relation": "used by",
+        "object": "messaging tool"
+    },
+    {
+        "subject": "messaging tool",
+        "relation": "uses",
+        "object": "message"
+    },
+    {
+        "subject": "withheld",
+        "relation": "subclass of",
+        "object": "delayed"
+    },
+    {
+        "subject": "eBay",
+        "relation": "product or material produced",
+        "object": "scanning and analysis"
+    },
+    {
+        "subject": "Privacy of Others; Marketing",
+        "relation": "facet of",
+        "object": "eBay"
+    },
+    {
+        "subject": "user's information",
+        "relation": "used by",
+        "object": "Services"
+    },
+    {
+        "subject": "Services",
+        "relation": "uses",
+        "object": "user's information"
+    },
+    {
+        "subject": "eBay",
+        "relation": "product or material produced",
+        "object": "Services"
+    },
+    {
+        "subject": "14.",
+        "relation": "point in time",
+        "object": "14"
+    },
+    {
+        "subject": "refunds",
+        "relation": "subclass of",
+        "object": "Returns"
+    },
+    {
+        "subject": "eBay",
+        "relation": "product or material produced",
+        "object": "listings"
+    },
+    {
+        "subject": "eBay",
+        "relation": "instance of",
+        "object": "Sellers"
+    },
+    {
+        "subject": "eBay",
+        "relation": "product or material produced",
+        "object": "shipping"
+    },
+    {
+        "subject": "returns policy",
+        "relation": "instance of",
+        "object": "policy"
+    },
+    {
+        "subject": "eBay",
+        "relation": "owner of",
+        "object": "seller's behalf"
+    },
+    {
+        "subject": "seller's behalf",
+        "relation": "owned by",
+        "object": "eBay"
+    },
+    {
+        "subject": "eBay Money Back Guarantee",
+        "relation": "operator",
+        "object": "eBay"
+    },
+    {
+        "subject": "Payments Terms of Use",
+        "relation": "used by",
+        "object": "eBay"
+    },
+    {
+        "subject": "Order cancellation policy",
+        "relation": "subclass of",
+        "object": "cancellations of orders"
+    },
+    {
+        "subject": "Returns and cancellations for buyers",
+        "relation": "facet of",
+        "object": "Buyers generally do not have the right to cancel an order"
+    },
+    {
+        "subject": "Order cancellation policy",
+        "relation": "part of",
+        "object": "eBay"
+    },
+    {
+        "subject": "Return the item",
+        "relation": "subclass of",
+        "object": "eligible for return"
+    },
+    {
+        "subject": "buyer",
+        "relation": "opposite of",
+        "object": "seller"
+    },
+    {
+        "subject": "seller",
+        "relation": "opposite of",
+        "object": "buyer"
+    },
+    {
+        "subject": "eBay",
+        "relation": "instance of",
+        "object": "carrier"
+    },
+    {
+        "subject": "eBay",
+        "relation": "owner of",
+        "object": "eBay-generated shipping label"
+    },
+    {
+        "subject": "eBay-generated shipping label",
+        "relation": "owned by",
+        "object": "eBay"
+    },
+    {
+        "subject": "eBay Money Back Guarantee",
+        "relation": "part of",
+        "object": "eBay"
+    },
+    {
+        "subject": "eBay Money Back Guarantee",
+        "relation": "part of",
+        "object": "eBay"
+    },
+    {
+        "subject": "Money Back Guarantee",
+        "relation": "operator",
+        "object": "eBay"
+    },
+    {
+        "subject": "eBay Money Back Guarantee",
+        "relation": "facet of",
+        "object": "eBay"
+    },
+    {
+        "subject": "retaining collection agencies",
+        "relation": "subclass of",
+        "object": "collection mechanisms"
+    },
+    {
+        "subject": "eBay",
+        "relation": "owner of",
+        "object": "Money Back Guarantee"
+    },
+    {
+        "subject": "Money Back Guarantee",
+        "relation": "owned by",
+        "object": "eBay"
+    },
+    {
+        "subject": "fraud",
+        "relation": "subclass of",
+        "object": "abuse"
+    },
+    {
+        "subject": "Recommendations eBay",
+        "relation": "product or material produced",
+        "object": "recommendations"
+    },
+    {
+        "subject": "eBay",
+        "relation": "product or material produced",
+        "object": "item"
+    },
+    {
+        "subject": "15.15",
+        "relation": "point in time",
+        "object": "15"
+    },
+    {
+        "subject": "PayPal",
+        "relation": "owner of",
+        "object": "Payments Terms of Use"
+    },
+    {
+        "subject": "Payments Terms of Use",
+        "relation": "owned by",
+        "object": "PayPal"
+    },
+    {
+        "subject": "Payments Terms of Use",
+        "relation": "instance of",
+        "object": "Terms of Use"
+    },
+    {
+        "subject": "Payments Terms of Use",
+        "relation": "facet of",
+        "object": "Payments"
+    },
+    {
+        "subject": "eBay Payment Entities",
+        "relation": "instance of",
+        "object": "payment methods"
+    },
+    {
+        "subject": "eBay Payment Entities",
+        "relation": "instance of",
+        "object": "payment methods"
+    },
+    {
+        "subject": "eBay Payment Entities",
+        "relation": "instance of",
+        "object": "payment method"
+    },
+    {
+        "subject": "debit card",
+        "relation": "different from",
+        "object": "credit card"
+    },
+    {
+        "subject": "default payment method",
+        "relation": "subclass of",
+        "object": "payment"
+    },
+    {
+        "subject": "payment method",
+        "relation": "subclass of",
+        "object": "card information"
+    },
+    {
+        "subject": "My eBay",
+        "relation": "instance of",
+        "object": "payment"
+    },
+    {
+        "subject": "eBay",
+        "relation": "instance of",
+        "object": "payments services"
+    },
+    {
+        "subject": "payment methods",
+        "relation": "has part",
+        "object": "authorized to use"
+    },
+    {
+        "subject": "authorized to use",
+        "relation": "part of",
+        "object": "payment methods"
+    },
+    {
+        "subject": "eBay Payment Entities",
+        "relation": "item operated",
+        "object": "eBay Money Back Guarantee"
+    },
+    {
+        "subject": "eBay Money Back Guarantee",
+        "relation": "operator",
+        "object": "eBay Payment Entities"
+    },
+    {
+        "subject": "eBay Payment Entities",
+        "relation": "owner of",
+        "object": "eBay Payment Entities"
+    },
+    {
+        "subject": "eBay Payment Entities",
+        "relation": "owned by",
+        "object": "eBay Payment Entities"
+    },
+    {
+        "subject": "credit",
+        "relation": "different from",
+        "object": "debit card"
+    },
+    {
+        "subject": "debit card",
+        "relation": "different from",
+        "object": "credit"
+    },
+    {
+        "subject": "credit and debit card networks",
+        "relation": "has part",
+        "object": "credit and debit card issuers"
+    },
+    {
+        "subject": "currency conversion fees",
+        "relation": "subclass of",
+        "object": "fees"
+    },
+    {
+        "subject": "16.16",
+        "relation": "point in time",
+        "object": "16"
+    },
+    {
+        "subject": "Warranties",
+        "relation": "has part",
+        "object": "Limitation of Liability"
+    },
+    {
+        "subject": "Limitation of Liability",
+        "relation": "part of",
+        "object": "Warranties"
+    },
+    {
+        "subject": "Bid update",
+        "relation": "subclass of",
+        "object": "notification"
+    },
+    {
+        "subject": "eBay",
+        "relation": "subsidiary",
+        "object": "PayPal"
+    },
+    {
+        "subject": "PayPal",
+        "relation": "parent organization",
+        "object": "eBay"
+    },
+    {
+        "subject": "AS IS",
+        "relation": "said to be the same as",
+        "object": "\"AS AVAILABLE\" BASIS"
+    },
+    {
+        "subject": "\"AS AVAILABLE\" BASIS",
+        "relation": "said to be the same as",
+        "object": "AS IS"
+    },
+    {
+        "subject": "MERCHANTABILITY",
+        "relation": "instance of",
+        "object": "WARRANTIES"
+    },
+    {
+        "subject": "FITNESS FOR A PARTICULAR PURPOSE",
+        "relation": "instance of",
+        "object": "WARRANTies"
+    },
+    {
+        "subject": "INDIRECT",
+        "relation": "subclass of",
+        "object": "CLAIM"
+    },
+    {
+        "subject": "viruses",
+        "relation": "subclass of",
+        "object": "malicious software"
+    },
+    {
+        "subject": "exclusion of damages",
+        "relation": "subclass of",
+        "object": "disclaimer"
+    },
+    {
+        "subject": "eBay Money Back Guarantee",
+        "relation": "facet of",
+        "object": "eBay"
+    },
+    {
+        "subject": "17.17",
+        "relation": "point in time",
+        "object": "17"
+    },
+    {
+        "subject": "actual",
+        "relation": "subclass of",
+        "object": "damages"
+    },
+    {
+        "subject": "consequential",
+        "relation": "subclass of",
+        "object": "damages"
+    },
+    {
+        "subject": "statutory",
+        "relation": "subclass of",
+        "object": "protections"
+    },
+    {
+        "subject": "18.18",
+        "relation": "point in time",
+        "object": "18"
+    },
+    {
+        "subject": "Indemnity",
+        "relation": "subclass of",
+        "object": "indemnify"
+    },
+    {
+        "subject": "19.19",
+        "relation": "point in time",
+        "object": "19"
+    },
+    {
+        "subject": "Legal Disputes",
+        "relation": "has part",
+        "object": "SECTION"
+    },
+    {
+        "subject": "SECTION",
+        "relation": "SECTION",
+        "object": "has part"
+    },
+    {
+        "subject": "Legal Disputes",
+        "relation": "SECTION",
+        "object": "part of"
+    },
+    {
+        "subject": "part of",
+        "relation": "Legal Disputes",
+        "object": "SECTION"
+    },
+    {
+        "subject": "part of",
+        "relation": "has part",
+        "object": "SECTION"
+    },
+    {
+        "subject": "SECTION",
+        "relation": "part of",
+        "object": "Legal Disputes"
+    },
+    {
+        "subject": "EBAY",
+        "relation": "owner of",
+        "object": "EACH OTHER"
+    },
+    {
+        "subject": "EACH OTHER",
+        "relation": "owned by",
+        "object": "EBAY"
+    },
+    {
+        "subject": "affiliates",
+        "relation": "part of",
+        "object": "parent companies"
+    },
+    {
+        "subject": "parent companies",
+        "relation": "has part",
+        "object": "affiliates"
+    },
+    {
+        "subject": "Legal Disputes",
+        "relation": "instance of",
+        "object": "User Agreement"
+    },
+    {
+        "subject": "Utah",
+        "relation": "instance of",
+        "object": "State"
+    },
+    {
+        "subject": "Bibliothèque Nationale de France",
+        "relation": "located in the administrative territorial entity",
+        "object": "Paris"
+    },
+    {
+        "subject": "arbitration",
+        "relation": "subclass of",
+        "object": "disputes"
+    },
+    {
+        "subject": "trademark",
+        "relation": "subclass of",
+        "object": "intellectual property"
+    },
+    {
+        "subject": "trade dress",
+        "relation": "subclass of",
+        "object": "intellectual property"
+    },
+    {
+        "subject": "domain name",
+        "relation": "subclass of",
+        "object": "intellectual property"
+    },
+    {
+        "subject": "trade secret",
+        "relation": "subclass of",
+        "object": "intellectual property"
+    },
+    {
+        "subject": "copyright",
+        "relation": "facet of",
+        "object": "intellectual property"
+    },
+    {
+        "subject": "patent",
+        "relation": "subclass of",
+        "object": "intellectual property"
+    },
+    {
+        "subject": "Agreement to Arbitrate",
+        "relation": "main subject",
+        "object": "Dispute"
+    },
+    {
+        "subject": "1",
+        "relation": "point in time",
+        "object": "1"
+    },
+    {
+        "subject": "Informal Dispute Resolution",
+        "relation": "subclass of",
+        "object": "Dispute"
+    },
+    {
+        "subject": "arbitration",
+        "relation": "different from",
+        "object": "small claims court"
+    },
+    {
+        "subject": "small claims court",
+        "relation": "different from",
+        "object": "arbitration"
+    },
+    {
+        "subject": "Informal Dispute Resolution",
+        "relation": "uses",
+        "object": "Notice of Dispute"
+    },
+    {
+        "subject": "Notice of Dispute",
+        "relation": "used by",
+        "object": "Informal Dispute Resolution"
+    },
+    {
+        "subject": "Draper",
+        "relation": "located in the administrative territorial entity",
+        "object": "UT"
+    },
+    {
+        "subject": "user name",
+        "relation": "has part",
+        "object": "email address"
+    },
+    {
+        "subject": "phone number",
+        "relation": "email address",
+        "object": "has part"
+    },
+    {
+        "subject": "user name",
+        "relation": "phone number",
+        "object": "part of"
+    },
+    {
+        "subject": "Informal Dispute Resolution",
+        "relation": "subclass of",
+        "object": "arbitration"
+    },
+    {
+        "subject": "tolled",
+        "relation": "subclass of",
+        "object": "statute of limitations"
+    },
+    {
+        "subject": "2.2",
+        "relation": "point in time",
+        "object": "2"
+    },
+    {
+        "subject": "Jury",
+        "relation": "has part",
+        "object": "Jury Jury"
+    },
+    {
+        "subject": "Jury Jury",
+        "relation": "part of",
+        "object": "Jury"
+    },
+    {
+        "subject": "Agreement to Arbitrate",
+        "relation": "instance of",
+        "object": "arbitration"
+    },
+    {
+        "subject": "3.3",
+        "relation": "point in time",
+        "object": "3"
+    },
+    {
+        "subject": "Waiver of Class and Representative Actions and Non-Individualized Relief",
+        "relation": "country",
+        "object": "US"
+    },
+    {
+        "subject": "INDIVIDUAL RELIEF",
+        "relation": "has part",
+        "object": "INDIVIDUAL RELIEF"
+    },
+    {
+        "subject": "INDIVIDUAL RELIEF",
+        "relation": "part of",
+        "object": "INDIVIDUAL RELIEF"
+    },
+    {
+        "subject": "declaratory",
+        "relation": "subclass of",
+        "object": "injunctive relief"
+    },
+    {
+        "subject": "Section 19.B.7 (\"Batch Arbitration\")",
+        "relation": "main subject",
+        "object": "Batch Arbitration"
+    },
+    {
+        "subject": "public injunctive relief",
+        "relation": "subclass of",
+        "object": "request for relief"
+    },
+    {
+        "subject": "Arbitration",
+        "relation": "subclass of",
+        "object": "Disputes"
+    },
+    {
+        "subject": "eBay",
+        "relation": "significant event",
+        "object": "class-wide settlement of claims"
+    },
+    {
+        "subject": "4.4",
+        "relation": "point in time",
+        "object": "4"
+    },
+    {
+        "subject": "Arbitration Procedures Arbitration",
+        "relation": "subclass of",
+        "object": "informal"
+    },
+    {
+        "subject": "Arbitration",
+        "relation": "practiced by",
+        "object": "neutral arbitrator"
+    },
+    {
+        "subject": "neutral arbitrator",
+        "relation": "field of this occupation",
+        "object": "Arbitration"
+    },
+    {
+        "subject": "arbitrator",
+        "relation": "different from",
+        "object": "court"
+    },
+    {
+        "subject": "court",
+        "relation": "different from",
+        "object": "arbitrator"
+    },
+    {
+        "subject": "arbitrator",
+        "relation": "different from",
+        "object": "court"
+    },
+    {
+        "subject": "court",
+        "relation": "different from",
+        "object": "arbitrator"
+    },
+    {
+        "subject": "Arbitrator",
+        "relation": "field of this occupation",
+        "object": "Dispute"
+    },
+    {
+        "subject": "Dispute",
+        "relation": "Dispute",
+        "object": "field of this occupation"
+    },
+    {
+        "subject": "Arbitrator",
+        "relation": "Arbitrator",
+        "object": "practiced by"
+    },
+    {
+        "subject": "practiced by",
+        "relation": "Arbitrator",
+        "object": "Dispute"
+    },
+    {
+        "subject": "practiced by",
+        "relation": "practiced by",
+        "object": "Arbitrator"
+    },
+    {
+        "subject": "Arbitrator",
+        "relation": "field of this occupation",
+        "object": "Dispute"
+    },
+    {
+        "subject": "arbitrator",
+        "relation": "field of this occupation",
+        "object": "binding"
+    },
+    {
+        "subject": "binding",
+        "relation": "practiced by",
+        "object": "arbitrator"
+    },
+    {
+        "subject": "arbitration",
+        "relation": "participant",
+        "object": "court having jurisdiction"
+    },
+    {
+        "subject": "Federal Arbitration Act",
+        "relation": "main subject",
+        "object": "9 U.S.C."
+    },
+    {
+        "subject": "Batch Arbitration",
+        "relation": "subclass of",
+        "object": "arbitration"
+    },
+    {
+        "subject": "binding arbitration",
+        "relation": "subclass of",
+        "object": "Informal Dispute Resolution"
+    },
+    {
+        "subject": "National Arbitration Mediation",
+        "relation": "participant in",
+        "object": "Agreement to Arbitrate"
+    },
+    {
+        "subject": "Agreement to Arbitrate",
+        "relation": "participant",
+        "object": "National Arbitration Mediation"
+    },
+    {
+        "subject": "NAM Rules",
+        "relation": "facet of",
+        "object": "arbitration"
+    },
+    {
+        "subject": "demand for arbitration",
+        "relation": "subclass of",
+        "object": "arbitration"
+    },
+    {
+        "subject": "eBay",
+        "relation": "headquarters location",
+        "object": "Draper, UT 84020"
+    },
+    {
+        "subject": "eBay",
+        "relation": "headquarters location",
+        "object": "Draper, UT 84020"
+    },
+    {
+        "subject": "eBay",
+        "relation": "owner of",
+        "object": "eBay account"
+    },
+    {
+        "subject": "eBay account",
+        "relation": "owned by",
+        "object": "eBay"
+    },
+    {
+        "subject": "NAM",
+        "relation": "has part",
+        "object": "Arb-9"
+    },
+    {
+        "subject": "Arb-9",
+        "relation": "part of",
+        "object": "NAM"
+    },
+    {
+        "subject": "eBay",
+        "relation": "country",
+        "object": "U.S."
+    },
+    {
+        "subject": "email address",
+        "relation": "subclass of",
+        "object": "mailing address"
+    },
+    {
+        "subject": "Demand",
+        "relation": "has part",
+        "object": "counsel"
+    },
+    {
+        "subject": "Batch Arbitration",
+        "relation": "instance of",
+        "object": "arbitration"
+    },
+    {
+        "subject": "Salt Lake County",
+        "relation": "located in the administrative territorial entity",
+        "object": "Utah"
+    },
+    {
+        "subject": "Utah",
+        "relation": "contains administrative territorial entity",
+        "object": "Salt Lake County"
+    },
+    {
+        "subject": "arbitrator",
+        "relation": "field of this occupation",
+        "object": "arbitration"
+    },
+    {
+        "subject": "arbitration",
+        "relation": "practiced by",
+        "object": "arbitrator"
+    },
+    {
+        "subject": "eBay",
+        "relation": "subsidiary",
+        "object": "PayPal"
+    },
+    {
+        "subject": "PayPal",
+        "relation": "parent organization",
+        "object": "eBay"
+    },
+    {
+        "subject": "arbitration",
+        "relation": "uses",
+        "object": "offer in writing"
+    },
+    {
+        "subject": "offer in writing",
+        "relation": "used by",
+        "object": "arbitration"
+    },
+    {
+        "subject": "post-offer costs",
+        "relation": "subclass of",
+        "object": "offer"
+    },
+    {
+        "subject": "equity",
+        "relation": "instance of",
+        "object": "principles"
+    },
+    {
+        "subject": "prior arbitrator",
+        "relation": "field of this occupation",
+        "object": "prior arbitrations"
+    },
+    {
+        "subject": "prior arbitrations",
+        "relation": "practiced by",
+        "object": "prior arbitrator"
+    },
+    {
+        "subject": "binding",
+        "relation": "subclass of",
+        "object": "judgment"
+    },
+    {
+        "subject": "2005",
+        "relation": "point in time",
+        "object": "2005"
+    },
+    {
+        "subject": "judge",
+        "relation": "subclass of",
+        "object": "attorney"
+    },
+    {
+        "subject": "NAM Rules",
+        "relation": "subclass of",
+        "object": "arbitrator"
+    },
+    {
+        "subject": "6",
+        "relation": "point in time",
+        "object": "6"
+    },
+    {
+        "subject": "Agreement to Arbitrate",
+        "relation": "participant",
+        "object": "eBay"
+    },
+    {
+        "subject": "arbitrator",
+        "relation": "field of this occupation",
+        "object": "arbitration"
+    },
+    {
+        "subject": "Fee Schedule",
+        "relation": "part of",
+        "object": "Federal Rule of Civil Procedure"
+    },
+    {
+        "subject": "7",
+        "relation": "point in time",
+        "object": "7"
+    },
+    {
+        "subject": "arbitration",
+        "relation": "practiced by",
+        "object": "arbitrator"
+    },
+    {
+        "subject": "arbitrator",
+        "relation": "field of this occupation",
+        "object": "arbitration"
+    },
+    {
+        "subject": "NAM",
+        "relation": "has part",
+        "object": "NAM"
+    },
+    {
+        "subject": "NAM",
+        "relation": "part of",
+        "object": "NAM"
+    },
+    {
+        "subject": "legal issue(s)",
+        "relation": "subclass of",
+        "object": "Demands"
+    },
+    {
+        "subject": "Emergency Arbitrator",
+        "relation": "subclass of",
+        "object": "Procedural Arbitrator"
+    },
+    {
+        "subject": "Administrative Arbitrator",
+        "relation": "part of",
+        "object": "Administrative Arbitrator"
+    },
+    {
+        "subject": "Administrative Arbitrator",
+        "relation": "has part",
+        "object": "Administrative Arbitrator"
+    },
+    {
+        "subject": "Administrative Arbitrator",
+        "relation": "employer",
+        "object": "eBay"
+    },
+    {
+        "subject": "special master",
+        "relation": "subclass of",
+        "object": "arbitrator"
+    },
+    {
+        "subject": "collective",
+        "relation": "subclass of",
+        "object": "arbitration"
+    },
+    {
+        "subject": "representative",
+        "relation": "subclass of",
+        "object": "arbitration"
+    },
+    {
+        "subject": "8",
+        "relation": "point in time",
+        "object": "8"
+    },
+    {
+        "subject": "invalid",
+        "relation": "subclass of",
+        "object": "unenforceable"
+    },
+    {
+        "subject": "Salt Lake County",
+        "relation": "located in the administrative territorial entity",
+        "object": "Utah"
+    },
+    {
+        "subject": "Utah",
+        "relation": "contains administrative territorial entity",
+        "object": "Salt Lake County"
+    },
+    {
+        "subject": "eBay",
+        "relation": "owner of",
+        "object": "Agreement to Arbitrate"
+    },
+    {
+        "subject": "Agreement to Arbitrate",
+        "relation": "owned by",
+        "object": "eBay"
+    },
+    {
+        "subject": "court of competent jurisdiction",
+        "relation": "subclass of",
+        "object": "arbitration"
+    },
+    {
+        "subject": "9.9",
+        "relation": "point in time",
+        "object": "9"
+    },
+    {
+        "subject": "Opt-Out Procedure",
+        "relation": "facet of",
+        "object": "OPT-OUT"
+    },
+    {
+        "subject": "AMENDMENT",
+        "relation": "part of",
+        "object": "USER AGREEMENT"
+    },
+    {
+        "subject": "USER AGREEMENT",
+        "relation": "has part",
+        "object": "AMENDment"
+    },
+    {
+        "subject": "DRAPER",
+        "relation": "located in the administrative territorial entity",
+        "object": "UT"
+    },
+    {
+        "subject": "Opt-Out Notice",
+        "relation": "main subject",
+        "object": "Opt-Out"
+    },
+    {
+        "subject": "Agreement to Arbitrate",
+        "relation": "instance of",
+        "object": "opt out"
+    },
+    {
+        "subject": "Opt-Out Notice",
+        "relation": "instance of",
+        "object": "Sign"
+    },
+    {
+        "subject": "Opt-Out Notice",
+        "relation": "different from",
+        "object": "opt-out notice"
+    },
+    {
+        "subject": "opt-out notice",
+        "relation": "different from",
+        "object": "Opt-Out Notice"
+    },
+    {
+        "subject": "Agreement to Arbitrate",
+        "relation": "instance of",
+        "object": "opt out"
+    },
+    {
+        "subject": "Agreement to Arbitrate",
+        "relation": "instance of",
+        "object": "arbitration agreement"
+    },
+    {
+        "subject": "Agreement to Arbitrate",
+        "relation": "instance of",
+        "object": "arbitration agreement"
+    },
+    {
+        "subject": "Agreement to Arbitrate",
+        "relation": "instance of",
+        "object": "arbitration agreement"
+    },
+    {
+        "subject": "lawsuit",
+        "relation": "subclass of",
+        "object": "legal proceeding"
+    },
+    {
+        "subject": "Agreement to Arbitrate",
+        "relation": "instance of",
+        "object": "User Agreement"
+    },
+    {
+        "subject": "small claims court",
+        "relation": "subclass of",
+        "object": "court"
+    },
+    {
+        "subject": "Agreement to Arbitrate",
+        "relation": "participant",
+        "object": "eBay"
+    },
+    {
+        "subject": "Agreement to Arbitrate",
+        "relation": "has part",
+        "object": "Arbitrate"
+    },
+    {
+        "subject": "Arbitrate",
+        "relation": "part of",
+        "object": "Agreement to Arbitrate"
+    },
+    {
+        "subject": "eBay Message Center",
+        "relation": "instance of",
+        "object": "email"
+    },
+    {
+        "subject": "2008 Summer Olympics",
+        "relation": "point in time",
+        "object": "2008"
+    },
+    {
+        "subject": "Beijing",
+        "relation": "People's Republic of China",
+        "object": "location"
+    },
+    {
+        "subject": "country",
+        "relation": "People's Republic of China",
+        "object": "Beijing"
+    },
+    {
+        "subject": "country",
+        "relation": "Beijing",
+        "object": "People's Republic of China"
+    },
+    {
+        "subject": "Services",
+        "relation": "has part",
+        "object": "Agreement to Arbitrate"
+    },
+    {
+        "subject": "Services",
+        "relation": "has part",
+        "object": "Agreement to Arbitrate"
+    },
+    {
+        "subject": "Services",
+        "relation": "has part",
+        "object": "Agreement to Arbitrate"
+    },
+    {
+        "subject": "Agreement to Arbitrate",
+        "relation": "part of",
+        "object": "Services"
+    },
+    {
+        "subject": "Services",
+        "relation": "Services",
+        "object": "part of"
+    },
+    {
+        "subject": "Salt Lake County",
+        "relation": "located in the administrative territorial entity",
+        "object": "Utah"
+    },
+    {
+        "subject": "Utah",
+        "relation": "contains administrative territorial entity",
+        "object": "Salt Lake County"
+    },
+    {
+        "subject": "Salt Lake County",
+        "relation": "located in the administrative territorial entity",
+        "object": "Utah"
+    },
+    {
+        "subject": "Utah",
+        "relation": "contains administrative territorial entity",
+        "object": "Salt Lake County"
+    },
+    {
+        "subject": "20.20",
+        "relation": "point in time",
+        "object": "20"
+    },
+    {
+        "subject": "invalid",
+        "relation": "subclass of",
+        "object": "void"
+    },
+    {
+        "subject": "User Agreement",
+        "relation": "has part",
+        "object": "Headings"
+    },
+    {
+        "subject": "Headings",
+        "relation": "part of",
+        "object": "User Agreement"
+    },
+    {
+        "subject": "breach",
+        "relation": "has effect",
+        "object": "breach"
+    },
+    {
+        "subject": "breach",
+        "relation": "has cause",
+        "object": "breach"
+    },
+    {
+        "subject": "We do not guarantee we will take action against all breaches of this User Agreement",
+        "relation": "instance of",
+        "object": "User Agreement"
+    },
+    {
+        "subject": "User Agreement",
+        "relation": "has part",
+        "object": "Our right to amend the User Agreement"
+    },
+    {
+        "subject": "Our right to amend the User Agreement",
+        "relation": "part of",
+        "object": "User Agreement"
+    },
+    {
+        "subject": "User Agreement",
+        "relation": "User Agreement",
+        "object": "part of"
+    },
+    {
+        "subject": "2008 Summer Olympics",
+        "relation": "point in time",
+        "object": "2008"
+    },
+    {
+        "subject": "eBay Message Center",
+        "relation": "instance of",
+        "object": "email"
+    },
+    {
+        "subject": "Services",
+        "relation": "has part",
+        "object": "Services"
+    },
+    {
+        "subject": "Services",
+        "relation": "part of",
+        "object": "Services"
+    },
+    {
+        "subject": "click-through",
+        "relation": "facet of",
+        "object": "User Agreement"
+    },
+    {
+        "subject": "User Agreement",
+        "relation": "facet of",
+        "object": "eBay"
+    },
+    {
+        "subject": "User Agreement",
+        "relation": "facet of",
+        "object": "eBay"
+    },
+    {
+        "subject": "eBay",
+        "relation": "product or material produced",
+        "object": "Services"
+    },
+    {
+        "subject": "Services",
+        "relation": "owned by",
+        "object": "eBay"
+    },
+    {
+        "subject": "eBay",
+        "relation": "eBay",
+        "object": "owned by"
+    },
+    {
+        "subject": "policies",
+        "relation": "has part",
+        "object": "Terms"
+    },
+    {
+        "subject": "Terms",
+        "relation": "part of",
+        "object": "policies"
+    },
+    {
+        "subject": "eBay",
+        "relation": "product or material produced",
+        "object": "Service"
+    },
+    {
+        "subject": "User Agreement",
+        "relation": "facet of",
+        "object": "account"
+    },
+    {
+        "subject": "owned and controlled",
+        "relation": "facet of",
+        "object": "business entity"
+    },
+    {
+        "subject": "franchiser",
+        "relation": "different from",
+        "object": "franchisee"
+    },
+    {
+        "subject": "franchisee",
+        "relation": "different from",
+        "object": "franchiser"
+    },
+    {
+        "subject": "User Agreement",
+        "relation": "facet of",
+        "object": "eBay"
+    },
+    {
+        "subject": "Limitation of Liability",
+        "relation": "part of",
+        "object": "User Agreement"
+    },
+    {
+        "subject": "Release, Indemnity, Legal Disputes, and General",
+        "relation": "part of",
+        "object": "User Agreement"
+    },
+    {
+        "subject": "Cal.",
+        "relation": "applies to jurisdiction",
+        "object": "California"
+    },
+    {
+        "subject": "Mayor",
+        "relation": "applies to jurisdiction",
+        "object": "Civ."
+    },
+    {
+        "subject": "Civ.",
+        "relation": "office held by head of government",
+        "object": "Mayor"
+    },
+    {
+        "subject": "California Department of Consumer Affairs",
+        "relation": "located in the administrative territorial entity",
+        "object": "Sacramento, CA"
+    },
+    {
+        "subject": "American Arbitration Association",
+        "relation": "located in the administrative territorial entity",
+        "object": "Illinois"
+    },
+    {
+        "subject": "arbitration",
+        "relation": "practiced by",
+        "object": "arbitrator"
+    },
+    {
+        "subject": "arbitrator",
+        "relation": "field of this occupation",
+        "object": "arbitration"
+    },
+    {
+        "subject": "State of Illinois",
+        "relation": "located in the administrative territorial entity",
+        "object": "Illinois"
+    },
+    {
+        "subject": "Illinois",
+        "relation": "contains administrative territorial entity",
+        "object": "State of Illinois"
+    }
+]

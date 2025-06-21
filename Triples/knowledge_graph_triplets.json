@@ -1,0 +1,1352 @@
+[
+  {
+    "subject": "John Smith",
+    "relation": "CEO",
+    "object": "announced"
+  },
+  {
+    "subject": "Microsoft",
+    "relation": "is based in",
+    "object": "Redmond"
+  },
+  {
+    "subject": "Emmanuel Macron",
+    "relation": "is a member of",
+    "object": "the European Union"
+  },
+  {
+    "subject": "The company",
+    "relation": "increased by",
+    "object": "10%"
+  },
+  {
+    "subject": "the Payments Terms of Use",
+    "relation": "may restrict access to",
+    "object": "eBay"
+  },
+  {
+    "subject": "The team",
+    "relation": "celebrated",
+    "object": "their success"
+  },
+  {
+    "subject": "eBay",
+    "relation": "listing",
+    "object": "the EIS Terms and Conditions"
+  },
+  {
+    "subject": "the personal jurisdiction of the courts",
+    "relation": "located within",
+    "object": "Salt Lake County, Utah"
+  },
+  {
+    "subject": "Apple Inc.",
+    "relation": "headquartered in",
+    "object": "Cupertino, California"
+  },
+  {
+    "subject": "Emmanuel Macron",
+    "relation": "is president of",
+    "object": "France"
+  },
+  {
+    "subject": "this User Agreement",
+    "relation": "on",
+    "object": "eBay"
+  },
+  {
+    "subject": "Section 512(c)",
+    "relation": "pursuant to",
+    "object": "Title 17 of the United States Code"
+  },
+  {
+    "subject": "Apple Inc.",
+    "relation": "is a",
+    "object": "technology company"
+  },
+  {
+    "subject": "NAM Rules",
+    "relation": "determine",
+    "object": "Batch Arbitration"
+  },
+  {
+    "subject": "this User Agreement",
+    "relation": "provisions set forth in",
+    "object": "Services"
+  },
+  {
+    "subject": "this Agreement to Arbitrate",
+    "relation": "waives",
+    "object": "eBay"
+  },
+  {
+    "subject": "this Agreement to Arbitrate",
+    "relation": "agrees to Arbitrate",
+    "object": "Services"
+  },
+  {
+    "subject": "You",
+    "relation": "agree to submit exclusively to",
+    "object": "the personal jurisdiction of the courts"
+  },
+  {
+    "subject": "eBay",
+    "relation": "agree",
+    "object": "this User Agreement"
+  },
+  {
+    "subject": "this Agreement to Arbitrate",
+    "relation": "to",
+    "object": "Section 19.C"
+  },
+  {
+    "subject": "The United Nations",
+    "relation": "headquarters are in",
+    "object": "New York City"
+  },
+  {
+    "subject": "eBay",
+    "relation": "User Agreement",
+    "object": "India"
+  },
+  {
+    "subject": "the Payments Terms of Use",
+    "relation": "may invoice",
+    "object": "eBay"
+  },
+  {
+    "subject": "eBay",
+    "relation": "working with",
+    "object": "you"
+  },
+  {
+    "subject": "eBay",
+    "relation": "agree to",
+    "object": "Informal Dispute Resolution"
+  },
+  {
+    "subject": "eBay",
+    "relation": "agree",
+    "object": "at least 14 days"
+  },
+  {
+    "subject": "Batch Arbitration",
+    "relation": "eBay",
+    "object": "90 day"
+  },
+  {
+    "subject": "The CEO",
+    "relation": "announced a new strategy",
+    "object": "The company"
+  },
+  {
+    "subject": "National Institute of Health",
+    "relation": "focuses on",
+    "object": "climate change"
+  },
+  {
+    "subject": "The company",
+    "relation": "increased by",
+    "object": "last year"
+  },
+  {
+    "subject": "France",
+    "relation": "is a member of",
+    "object": "the European Union"
+  },
+  {
+    "subject": "Barack Obama",
+    "relation": "born in",
+    "object": "Honolulu"
+  },
+  {
+    "subject": "The NAM Rules",
+    "relation": "are currently available as",
+    "object": "Section 19.C"
+  },
+  {
+    "subject": "eBay",
+    "relation": "should be sent by",
+    "object": "mail"
+  },
+  {
+    "subject": "The company",
+    "relation": "new strategy",
+    "object": "announced"
+  },
+  {
+    "subject": "UT",
+    "relation": "does not create",
+    "object": "warranty"
+  },
+  {
+    "subject": "eBay",
+    "relation": "may seek",
+    "object": "relief in small claims court"
+  },
+  {
+    "subject": "revenue increased by",
+    "relation": "15%",
+    "object": "last year"
+  },
+  {
+    "subject": "Brazil",
+    "relation": "is located in",
+    "object": "The Amazon rainforest"
+  },
+  {
+    "subject": "new initiative",
+    "relation": "will focus on",
+    "object": "teacher training"
+  },
+  {
+    "subject": "this User Agreement",
+    "relation": "UT",
+    "object": "on"
+  },
+  {
+    "subject": "this Agreement",
+    "relation": "shall be resolved by",
+    "object": "arbitration"
+  },
+  {
+    "subject": "Informal Dispute Resolution",
+    "relation": "lasts",
+    "object": "45 days"
+  },
+  {
+    "subject": "new initiative",
+    "relation": "will focus on",
+    "object": "curriculum development"
+  },
+  {
+    "subject": "eBay",
+    "relation": "may also terminate",
+    "object": "this Agreement"
+  },
+  {
+    "subject": "this User Agreement",
+    "relation": "limits",
+    "object": "your user account(s)"
+  },
+  {
+    "subject": "Illinois",
+    "relation": "the American Arbitration Association",
+    "object": "AAA"
+  },
+  {
+    "subject": "this User Agreement",
+    "relation": "provisions set forth in",
+    "object": "Legal Disputes section"
+  },
+  {
+    "subject": "this Agreement to Arbitrate",
+    "relation": "acceptance of",
+    "object": "Services"
+  },
+  {
+    "subject": "Arizona",
+    "relation": "eBay",
+    "object": "Caramel"
+  },
+  {
+    "subject": "U.S.",
+    "relation": "services",
+    "object": "eBay"
+  },
+  {
+    "subject": "NAM",
+    "relation": "appoints",
+    "object": "sole standing Procedural Arbitrator or, should the circumstances so require, an Emergency Arbitrator"
+  },
+  {
+    "subject": "Services",
+    "relation": "compliance with",
+    "object": "all terms"
+  },
+  {
+    "subject": "this Agreement to Arbitrate",
+    "relation": "to",
+    "object": "eBay"
+  },
+  {
+    "subject": "The company",
+    "relation": "increased by",
+    "object": "15%"
+  },
+  {
+    "subject": "eBay",
+    "relation": "is instead electing",
+    "object": "that"
+  },
+  {
+    "subject": "A. Applicable Law",
+    "relation": "You and eBay",
+    "object": "the State of Utah"
+  },
+  {
+    "subject": "The company",
+    "relation": "revenue increased by",
+    "object": "last year"
+  },
+  {
+    "subject": "The data analysis",
+    "relation": "revealed",
+    "object": "a correlation between"
+  },
+  {
+    "subject": "eBay Inc.",
+    "relation": "is based in",
+    "object": "Draper"
+  },
+  {
+    "subject": "eBay",
+    "relation": "up to",
+    "object": "24 hours"
+  },
+  {
+    "subject": "Tim Cook",
+    "relation": "is the CEO of",
+    "object": "Apple Inc."
+  },
+  {
+    "subject": "eBay",
+    "relation": "marks",
+    "object": "U.S."
+  },
+  {
+    "subject": "The Amazon rainforest",
+    "relation": "is located in",
+    "object": "Brazil"
+  },
+  {
+    "subject": "The analyst",
+    "relation": "predicted",
+    "object": "a positive outlook"
+  },
+  {
+    "subject": "eBay",
+    "relation": "strives to",
+    "object": "create a marketplace"
+  },
+  {
+    "subject": "The company",
+    "relation": "revenue increased by",
+    "object": "new strategy"
+  },
+  {
+    "subject": "The company",
+    "relation": "announced",
+    "object": "a new partnership with"
+  },
+  {
+    "subject": "under 18 years old",
+    "relation": "eBay",
+    "object": "Services"
+  },
+  {
+    "subject": "this User Agreement",
+    "relation": "terms of",
+    "object": "Services"
+  },
+  {
+    "subject": "eBay",
+    "relation": "listing policies",
+    "object": "several hours"
+  },
+  {
+    "subject": "Services",
+    "relation": "agrees to Arbitrate",
+    "object": "the User Agreement"
+  },
+  {
+    "subject": "the eBay",
+    "relation": "notify",
+    "object": "you"
+  },
+  {
+    "subject": "eBay",
+    "relation": "agrees to Arbitrate",
+    "object": "the User Agreement"
+  },
+  {
+    "subject": "eBay",
+    "relation": "may seek",
+    "object": "equitable relief in court"
+  },
+  {
+    "subject": "California",
+    "relation": "eBay",
+    "object": "Caramel"
+  },
+  {
+    "subject": "The Mobile Application Terms",
+    "relation": "all policies",
+    "object": "Services"
+  },
+  {
+    "subject": "climate change",
+    "relation": "effects on",
+    "object": "the Arctic"
+  },
+  {
+    "subject": "eBay",
+    "relation": "is limited to",
+    "object": "the greatest of (a) any amounts due under the eBay Money Back Guarantee up to the price the item sold for on eBay including any applicable sales tax, (b) the amount of fees in dispute, not to exceed the total fees you paid to us in the 12 months prior to the action giving rise to the liability, or (c) $100"
+  },
+  {
+    "subject": "Notice to",
+    "relation": "is sent to",
+    "object": "our offices"
+  },
+  {
+    "subject": "the NAM Rules",
+    "relation": "governs",
+    "object": "NAM"
+  },
+  {
+    "subject": "eBay",
+    "relation": "may terminate",
+    "object": "this Agreement"
+  },
+  {
+    "subject": "John Smith",
+    "relation": "announced",
+    "object": "the results"
+  },
+  {
+    "subject": "Services",
+    "relation": "contains",
+    "object": "Fees and Taxes"
+  },
+  {
+    "subject": "New York City",
+    "relation": "is the headquarters of",
+    "object": "The United Nations"
+  },
+  {
+    "subject": "Informal Dispute Resolution",
+    "relation": "is committed to",
+    "object": "eBay"
+  },
+  {
+    "subject": "Batch Arbitration",
+    "relation": "NAM",
+    "object": "90 day"
+  },
+  {
+    "subject": "The company",
+    "relation": "increased by",
+    "object": "revenue"
+  },
+  {
+    "subject": "Cupertino, California",
+    "relation": "is headquartered in",
+    "object": "Apple Inc."
+  },
+  {
+    "subject": "eBay",
+    "relation": "on",
+    "object": "Services"
+  },
+  {
+    "subject": "Google",
+    "relation": "headquartered in",
+    "object": "Mountain View, California"
+  },
+  {
+    "subject": "The project",
+    "relation": "completed",
+    "object": "The project"
+  },
+  {
+    "subject": "eBay",
+    "relation": "waives",
+    "object": "right to arbitration"
+  },
+  {
+    "subject": "this Agreement to Arbitrate",
+    "relation": "to contrary",
+    "object": "eBay"
+  },
+  {
+    "subject": "The company",
+    "relation": "revenue increased by",
+    "object": "15%"
+  },
+  {
+    "subject": "Sundar Pichai",
+    "relation": "CEO of",
+    "object": "Google"
+  },
+  {
+    "subject": "Batch Arbitration",
+    "relation": "90 day",
+    "object": "Batch Arbitration"
+  },
+  {
+    "subject": "The company",
+    "relation": "revenue",
+    "object": "increased by"
+  },
+  {
+    "subject": "age and income",
+    "relation": "are correlated",
+    "object": "with"
+  },
+  {
+    "subject": "this Agreement to Arbitrate",
+    "relation": "governed by",
+    "object": "the applicable NAM fee schedules"
+  },
+  {
+    "subject": "This Agreement to Arbitrate",
+    "relation": "is electing",
+    "object": "eBay"
+  },
+  {
+    "subject": "The software update",
+    "relation": "fixed",
+    "object": "several bugs"
+  },
+  {
+    "subject": "eBay",
+    "relation": "as defined below",
+    "object": "the Payments Terms of Use"
+  },
+  {
+    "subject": "Batch Arbitration",
+    "relation": "will be",
+    "object": "NAM"
+  },
+  {
+    "subject": "EBAY INC.",
+    "relation": "must",
+    "object": "OPT-OUT NOTICE"
+  },
+  {
+    "subject": "our offices",
+    "relation": "located at",
+    "object": "583 W. eBay Way, Draper, UT 84020"
+  },
+  {
+    "subject": "This User Agreement",
+    "relation": "may not otherwise be amended",
+    "object": "eBay"
+  },
+  {
+    "subject": "THE OPT-OUT NOTICE",
+    "relation": "must be posted",
+    "object": "no later than"
+  },
+  {
+    "subject": "CA",
+    "relation": "the California Department of Consumer Affairs",
+    "object": "Service"
+  },
+  {
+    "subject": "this User Agreement",
+    "relation": "violating",
+    "object": "eBay"
+  },
+  {
+    "subject": "company revenue",
+    "relation": "increased by",
+    "object": "15%"
+  },
+  {
+    "subject": "AAA",
+    "relation": "rules",
+    "object": "this User Agreement"
+  },
+  {
+    "subject": "eBay",
+    "relation": "agree",
+    "object": "this Agreement to Arbitrate"
+  },
+  {
+    "subject": "December 15th",
+    "relation": "completed",
+    "object": "The project"
+  },
+  {
+    "subject": "Services",
+    "relation": "are incorporated into",
+    "object": "User Agreement"
+  },
+  {
+    "subject": "eBay",
+    "relation": "policies",
+    "object": "Services"
+  },
+  {
+    "subject": "Robert Davis",
+    "relation": "criticized",
+    "object": "speech"
+  },
+  {
+    "subject": "the applicable NAM fee schedules",
+    "relation": "are subject to",
+    "object": "eBay"
+  },
+  {
+    "subject": "The CEO",
+    "relation": "announced",
+    "object": "new strategy"
+  },
+  {
+    "subject": "this User Agreement",
+    "relation": "may contact",
+    "object": "eBay"
+  },
+  {
+    "subject": "revenue",
+    "relation": "increased by",
+    "object": "10%"
+  },
+  {
+    "subject": "Services",
+    "relation": "is bound by",
+    "object": "this User Agreement"
+  },
+  {
+    "subject": "United States",
+    "relation": "is a country in",
+    "object": "North America"
+  },
+  {
+    "subject": "the Payments Terms of Use",
+    "relation": "may collect",
+    "object": "eBay Money Back Guarantee"
+  },
+  {
+    "subject": "eBay",
+    "relation": "abuses",
+    "object": "Services"
+  },
+  {
+    "subject": "The attendees",
+    "relation": "were from",
+    "object": "Germany and France"
+  },
+  {
+    "subject": "The company's stock price",
+    "relation": "rose significantly",
+    "object": "to"
+  },
+  {
+    "subject": "Batch Arbitration",
+    "relation": "application of",
+    "object": "NAM"
+  },
+  {
+    "subject": "eBay",
+    "relation": "notify",
+    "object": "you"
+  },
+  {
+    "subject": "The State of Utah",
+    "relation": "will govern",
+    "object": "this User Agreement"
+  },
+  {
+    "subject": "eBay",
+    "relation": "may place",
+    "object": "manual non-marketing calls"
+  },
+  {
+    "subject": "This User Agreement",
+    "relation": "evidences",
+    "object": "transaction involving interstate commerce"
+  },
+  {
+    "subject": "eBay",
+    "relation": "may revise",
+    "object": "listings to supplement, remove, or correct information"
+  },
+  {
+    "subject": "The European Union",
+    "relation": "is a",
+    "object": "political alliance"
+  },
+  {
+    "subject": "this Agreement",
+    "relation": "refuse",
+    "object": "eBay"
+  },
+  {
+    "subject": "The developers",
+    "relation": "are working on",
+    "object": "improving the user interface"
+  },
+  {
+    "subject": "India",
+    "relation": "the eBay",
+    "object": "User Agreement"
+  },
+  {
+    "subject": "The conference center in London",
+    "relation": "is located in",
+    "object": "Germany and France"
+  },
+  {
+    "subject": "eBay",
+    "relation": "the",
+    "object": "fourteen (14) days"
+  },
+  {
+    "subject": "company",
+    "relation": "profits",
+    "object": "reach"
+  },
+  {
+    "subject": "a major technology firm",
+    "relation": "will involve the development of",
+    "object": "a new software product"
+  },
+  {
+    "subject": "The Demand",
+    "relation": "include",
+    "object": "the name, telephone number, mailing address, email address, and eBay user name of the party seeking arbitration"
+  },
+  {
+    "subject": "the eBay Message Center",
+    "relation": "notify",
+    "object": "you"
+  },
+  {
+    "subject": "The report",
+    "relation": "was submitted to",
+    "object": "the board of directors"
+  },
+  {
+    "subject": "The company",
+    "relation": "announced",
+    "object": "new product launch"
+  },
+  {
+    "subject": "Amazon rainforest",
+    "relation": "is located in",
+    "object": "biodiversity"
+  },
+  {
+    "subject": "the EIS Terms and Conditions",
+    "relation": "agreement to",
+    "object": "EIS Terms and Conditions"
+  },
+  {
+    "subject": "U.S.",
+    "relation": "evidences",
+    "object": "This User Agreement"
+  },
+  {
+    "subject": "profits",
+    "relation": "$100 million",
+    "object": "expected"
+  },
+  {
+    "subject": "The United Nations",
+    "relation": "is a",
+    "object": "global organization"
+  },
+  {
+    "subject": "new product launch",
+    "relation": "is expected to be",
+    "object": "Tuesday"
+  },
+  {
+    "subject": "Utah",
+    "relation": "will govern",
+    "object": "this User Agreement"
+  },
+  {
+    "subject": "YOU",
+    "relation": "MUST",
+    "object": "MAIL"
+  },
+  {
+    "subject": "The User Agreement",
+    "relation": "and",
+    "object": "all terms and policies"
+  },
+  {
+    "subject": "company",
+    "relation": "profits are expected to be",
+    "object": "$10 million"
+  },
+  {
+    "subject": "Company",
+    "relation": "increased by",
+    "object": "revenue"
+  },
+  {
+    "subject": "CA",
+    "relation": "does not warrant",
+    "object": "SECTION 16"
+  },
+  {
+    "subject": "Services",
+    "relation": "contains",
+    "object": "Content"
+  },
+  {
+    "subject": "Texas",
+    "relation": "eBay",
+    "object": "Caramel"
+  },
+  {
+    "subject": "Seattle, Amazon",
+    "relation": "is based in",
+    "object": "Amazon"
+  },
+  {
+    "subject": "Batch Arbitration",
+    "relation": "Demands",
+    "object": "90 day"
+  },
+  {
+    "subject": "eBay",
+    "relation": "lowcost",
+    "object": "mutually reasonable"
+  },
+  {
+    "subject": "North America",
+    "relation": "is a country in",
+    "object": "the United States"
+  },
+  {
+    "subject": "the United States",
+    "relation": "responds to",
+    "object": "notices of alleged copyright infringement"
+  },
+  {
+    "subject": "NAM",
+    "relation": "shall select",
+    "object": "The NAM Rules"
+  },
+  {
+    "subject": "U.S.",
+    "relation": "is a",
+    "object": "resident"
+  },
+  {
+    "subject": "eBay Payment Entities",
+    "relation": "may invoice",
+    "object": "the Payments Terms of Use"
+  },
+  {
+    "subject": "Florida",
+    "relation": "eBay",
+    "object": "Caramel"
+  },
+  {
+    "subject": "Amazon.com",
+    "relation": "compatible with",
+    "object": "Windows"
+  },
+  {
+    "subject": "The product",
+    "relation": "is expected to be available in",
+    "object": "United States"
+  },
+  {
+    "subject": "The company",
+    "relation": "stock price",
+    "object": "increased significantly"
+  },
+  {
+    "subject": "Robert Davis",
+    "relation": "senator",
+    "object": "The president"
+  },
+  {
+    "subject": "under 18 years old",
+    "relation": "this User Agreement",
+    "object": "Compliance"
+  },
+  {
+    "subject": "eBay",
+    "relation": "including",
+    "object": "buyer protection programs"
+  },
+  {
+    "subject": "this User Agreement",
+    "relation": "is available at",
+    "object": "AAA"
+  },
+  {
+    "subject": "The company's revenue",
+    "relation": "increased by",
+    "object": "15%"
+  },
+  {
+    "subject": "Andy Jassy",
+    "relation": "CEO of",
+    "object": "Amazon"
+  },
+  {
+    "subject": "Informal Dispute Resolution",
+    "relation": "participate in",
+    "object": "eBay"
+  },
+  {
+    "subject": "the Agreement to Arbitrate",
+    "relation": "to contrary",
+    "object": "eBay"
+  },
+  {
+    "subject": "eBay",
+    "relation": "must be initiated within",
+    "object": "applicable statute of limitation"
+  },
+  {
+    "subject": "at least 14 days",
+    "relation": "eBay",
+    "object": "14 days"
+  },
+  {
+    "subject": "eBay",
+    "relation": "makes",
+    "object": "amendment"
+  },
+  {
+    "subject": "this User Agreement",
+    "relation": "is referred to as",
+    "object": "eBay"
+  },
+  {
+    "subject": "SECTION 16",
+    "relation": "does not make",
+    "object": "warranty"
+  },
+  {
+    "subject": "eBay",
+    "relation": "invoice",
+    "object": "the Payments Terms of Use"
+  },
+  {
+    "subject": "Payment Services Payments",
+    "relation": "for",
+    "object": "goods and services"
+  },
+  {
+    "subject": "The company",
+    "relation": "announced a new partnership with",
+    "object": "a major technology firm"
+  },
+  {
+    "subject": "eBay",
+    "relation": "may contact",
+    "object": "you"
+  },
+  {
+    "subject": "Section 19.C",
+    "relation": "is available at",
+    "object": "NAM"
+  },
+  {
+    "subject": "The project",
+    "relation": "was completed on",
+    "object": "time and under budget"
+  },
+  {
+    "subject": "the Payments Terms of Use",
+    "relation": "collects amounts owed in",
+    "object": "eBay"
+  },
+  {
+    "subject": "The president",
+    "relation": "speech",
+    "object": "The president"
+  },
+  {
+    "subject": "Barack Obama",
+    "relation": "was the president of",
+    "object": "United States"
+  },
+  {
+    "subject": "Pursuant to",
+    "relation": "815 ILCS 414/1.5(c)",
+    "object": "Illinois"
+  },
+  {
+    "subject": "Draper",
+    "relation": "located at",
+    "object": "eBay"
+  },
+  {
+    "subject": "the User Agreement",
+    "relation": "is detailed in",
+    "object": "eBay"
+  },
+  {
+    "subject": "The company",
+    "relation": "CEO",
+    "object": "announced a new partnership with"
+  },
+  {
+    "subject": "this User Agreement",
+    "relation": "survives",
+    "object": "Services"
+  },
+  {
+    "subject": "Q3",
+    "relation": "revenue",
+    "object": "increased by"
+  },
+  {
+    "subject": "eBay",
+    "relation": "is authorized to amend",
+    "object": "This User Agreement"
+  },
+  {
+    "subject": "eBay",
+    "relation": "offers you access to",
+    "object": "Services"
+  },
+  {
+    "subject": "Washington, D.C.",
+    "relation": "the capital of",
+    "object": "United States"
+  },
+  {
+    "subject": "eBay",
+    "relation": "committed to",
+    "object": "a prompt"
+  },
+  {
+    "subject": "eBay",
+    "relation": "may renew",
+    "object": "automatically every calendar month"
+  },
+  {
+    "subject": "eBay Inc.",
+    "relation": "attn: Litigation Department",
+    "object": "583 W. eBay Way, Draper, UT 84020"
+  },
+  {
+    "subject": "Google",
+    "relation": "headquartered in",
+    "object": "Mountain View"
+  },
+  {
+    "subject": "You",
+    "relation": "and",
+    "object": "eBay"
+  },
+  {
+    "subject": "Payments Terms of Use",
+    "relation": "accept",
+    "object": "eBay"
+  },
+  {
+    "subject": "EBAY INC.",
+    "relation": "is",
+    "object": "583 West eBay Way"
+  },
+  {
+    "subject": "Services",
+    "relation": "including",
+    "object": "any products or services"
+  },
+  {
+    "subject": "eBay",
+    "relation": "and applicable policies of",
+    "object": "other eBay site"
+  },
+  {
+    "subject": "Services",
+    "relation": "including",
+    "object": "the acceptance of"
+  },
+  {
+    "subject": "eBay",
+    "relation": "is referred to as",
+    "object": "we"
+  },
+  {
+    "subject": "our User Privacy Notice",
+    "relation": "shares",
+    "object": "eBay"
+  },
+  {
+    "subject": "this Agreement to Arbitrate",
+    "relation": "agrees to Arbitrate",
+    "object": "eBay"
+  },
+  {
+    "subject": "This User Agreement",
+    "relation": "sets out",
+    "object": "Terms"
+  },
+  {
+    "subject": "The president",
+    "relation": "signed",
+    "object": "the bill into law"
+  },
+  {
+    "subject": "The meeting",
+    "relation": "was held at",
+    "object": "the conference center in London"
+  },
+  {
+    "subject": "eBay",
+    "relation": "and/or",
+    "object": "our Services"
+  },
+  {
+    "subject": "this Agreement to Arbitrate",
+    "relation": "is defined by",
+    "object": "eBay"
+  },
+  {
+    "subject": "eBay Payment Entities",
+    "relation": "provide",
+    "object": "the Payments Terms of Use"
+  },
+  {
+    "subject": "eBay",
+    "relation": "is referred to as",
+    "object": "us"
+  },
+  {
+    "subject": "Services",
+    "relation": "on",
+    "object": "UT"
+  },
+  {
+    "subject": "Angela Merkel",
+    "relation": "is a",
+    "object": "former Chancellor"
+  },
+  {
+    "subject": "United States",
+    "relation": "president",
+    "object": "Barack Obama"
+  },
+  {
+    "subject": "the User Agreement",
+    "relation": "agrees to Arbitrate",
+    "object": "eBay"
+  },
+  {
+    "subject": "this Agreement to Arbitrate",
+    "relation": "to apply",
+    "object": "any current or pending lawsuit"
+  },
+  {
+    "subject": "Salt Lake County, Utah",
+    "relation": "for the purpose of",
+    "object": "litigating all such claims, disputes, or matters"
+  },
+  {
+    "subject": "Sarah Jones",
+    "relation": "team",
+    "object": "The project"
+  },
+  {
+    "subject": "arbitration",
+    "relation": "under",
+    "object": "this Agreement to Arbitrate"
+  },
+  {
+    "subject": "The bill",
+    "relation": "is related to",
+    "object": "environmental protection"
+  },
+  {
+    "subject": "eBay",
+    "relation": "may place",
+    "object": "autodialed non-marketing calls"
+  },
+  {
+    "subject": "Redmond, Washington",
+    "relation": "is based in",
+    "object": "Microsoft"
+  },
+  {
+    "subject": "eBay",
+    "relation": "may share",
+    "object": "your telephone number"
+  },
+  {
+    "subject": "eBay",
+    "relation": "may invoice",
+    "object": "the Payments Terms of Use"
+  },
+  {
+    "subject": "eBay",
+    "relation": "will send",
+    "object": "Notice to"
+  },
+  {
+    "subject": "the Mobile Application Terms of Use",
+    "relation": "set out",
+    "object": "Services"
+  },
+  {
+    "subject": "revenue",
+    "relation": "increased by",
+    "object": "15%"
+  },
+  {
+    "subject": "Satya Nadella",
+    "relation": "CEO of",
+    "object": "Microsoft"
+  },
+  {
+    "subject": "The president",
+    "relation": "praised",
+    "object": "speech"
+  },
+  {
+    "subject": "The company",
+    "relation": "revenue increased by",
+    "object": "10%"
+  },
+  {
+    "subject": "eBay",
+    "relation": "will pay",
+    "object": "all filing, administration, and arbitrator fees"
+  },
+  {
+    "subject": "The product",
+    "relation": "is available on",
+    "object": "Amazon.com"
+  },
+  {
+    "subject": "our User Privacy Notice",
+    "relation": "may collect",
+    "object": "eBay"
+  },
+  {
+    "subject": "this Agreement to Arbitrate",
+    "relation": "must be initiated within",
+    "object": "time barred"
+  },
+  {
+    "subject": "CA",
+    "relation": "the Division of Consumer Services",
+    "object": "Service"
+  },
+  {
+    "subject": "NAM",
+    "relation": "appoints",
+    "object": "Batch Arbitration"
+  },
+  {
+    "subject": "India",
+    "relation": "resides in",
+    "object": "eBay"
+  },
+  {
+    "subject": "eBay",
+    "relation": "cannot guarantee",
+    "object": "exact listing duration"
+  },
+  {
+    "subject": "CA",
+    "relation": "the Complaint Assistance Unit",
+    "object": "Service"
+  },
+  {
+    "subject": "eBay",
+    "relation": "marks",
+    "object": "services"
+  },
+  {
+    "subject": "the 12 months",
+    "relation": "found to be liable",
+    "object": "eBay"
+  },
+  {
+    "subject": "The amendment",
+    "relation": "shall apply to",
+    "object": "all other disputes or claims"
+  },
+  {
+    "subject": "Mountain View, California",
+    "relation": "is headquartered in",
+    "object": "Google"
+  },
+  {
+    "subject": "The president",
+    "relation": "announced",
+    "object": "new initiative"
+  },
+  {
+    "subject": "the Payments Terms of Use",
+    "relation": "as defined below",
+    "object": "the eBay"
+  },
+  {
+    "subject": "The report",
+    "relation": "was published by",
+    "object": "National Institute of Health"
+  },
+  {
+    "subject": "U.S.",
+    "relation": "and",
+    "object": "eBay"
+  },
+  {
+    "subject": "Barack Obama",
+    "relation": "was",
+    "object": "President of the United States"
+  },
+  {
+    "subject": "eBay",
+    "relation": "Services",
+    "object": "the Payments Terms of Use"
+  },
+  {
+    "subject": "this User Agreement",
+    "relation": "is bound by",
+    "object": "Services"
+  },
+  {
+    "subject": "eBay",
+    "relation": "otherwise agree",
+    "object": "batch arbitration"
+  },
+  {
+    "subject": "Apple Inc.",
+    "relation": "products are popular in",
+    "object": "worldwide"
+  },
+  {
+    "subject": "Services",
+    "relation": "agrees to Arbitrate",
+    "object": "this Agreement to Arbitrate"
+  },
+  {
+    "subject": "eBay",
+    "relation": "based on",
+    "object": "listing terms at the time"
+  },
+  {
+    "subject": "Services",
+    "relation": "listing policies",
+    "object": "several hours"
+  },
+  {
+    "subject": "ON",
+    "relation": "this User Agreement",
+    "object": "UT"
+  },
+  {
+    "subject": "30 days'",
+    "relation": "post",
+    "object": "eBay"
+  },
+  {
+    "subject": "eBay",
+    "relation": "is provided in",
+    "object": "Order cancellation policy"
+  },
+  {
+    "subject": "Amazon",
+    "relation": "is based in",
+    "object": "Seattle"
+  }
+]
