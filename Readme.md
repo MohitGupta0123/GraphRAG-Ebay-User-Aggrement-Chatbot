@@ -148,15 +148,15 @@ All retrieved triples and memory are retained across sessions!
 ## 📸 Demo Snapshots
 
 <p float="left" align="center">
-  <img src="Images/KG_Starting.png" width="45%"/>
-  <img src="Images/KG_working_1.png" width="45%"/>
-  <img src="Images/KG_working_2.png" width="45%"/>
-  <img src="Images/KG_working_3.png" width="45%"/>
-  <img src="Images/KG_working_4.png" width="45%"/>
-  <img src="Images/KG_working_5.png" width="45%"/>
-  <img src="Images/KG_working_6.png" width="45%"/>
-  <img src="Images/KG_working_7.png" width="45%"/>
-  <img src="Images/KG_working_8.png" width="45%"/>
+  <img src="Images/KG_Starting.png" width="50%"/>
+  <img src="Images/KG_working_1.png" width="50%"/>
+  <img src="Images/KG_working_2.png" width="50%"/>
+  <img src="Images/KG_working_3.png" width="50%"/>
+  <img src="Images/KG_working_4.png" width="50%"/>
+  <img src="Images/KG_working_5.png" width="50%"/>
+  <img src="Images/KG_working_6.png" width="50%"/>
+  <img src="Images/KG_working_7.png" width="50%"/>
+  <img src="Images/KG_working_8.png" width="50%"/>
 </p>
 
 ## Knowledge Graph Visualization
