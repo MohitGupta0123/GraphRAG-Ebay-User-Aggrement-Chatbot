@@ -44,13 +44,14 @@ def format_messages(prompt):
         {"role": "user", "content": prompt},
     ]
 
-def query_llm_stream(messages):
+def query_llm_stream(messages, token):
+    headers = {"Authorization": f"Bearer {token}"}
     payload = {
         "model": "Meta-Llama-3.2-3B-Instruct",
         "messages": messages,
         "stream": True,
     }
-    response = requests.post(API_URL, headers=HEADERS, json=payload, stream=True)
+    response = requests.post(API_URL, headers=headers, json=payload, stream=True)
     for line in response.iter_lines():
         if not line.startswith(b"data:"):
             continue

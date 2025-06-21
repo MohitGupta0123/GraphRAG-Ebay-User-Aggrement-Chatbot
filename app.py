@@ -7,11 +7,20 @@ from Src.prompt_injector import build_prompt, format_messages, query_llm_stream
 from Src.memory import add_to_memory, retrieve_memory, clear_memory
 
 # --- Access secrets ---
-HF_TOKEN = st.secrets["HF_TOKEN"]
-if not HF_TOKEN:
-    raise ValueError("HF_TOKEN not found in secrets.toml")
+# --- Prompt user for HF_TOKEN ---
+if "HF_TOKEN" not in st.session_state:
+    with st.sidebar:
+        st.subheader("🔐 Hugging Face Token Required")
+        token_input = st.text_input("Enter your HF_TOKEN:", type="password")
+        if st.button("✅ Submit Token"):
+            if token_input:
+                st.session_state["HF_TOKEN"] = token_input
+                st.success("HF_TOKEN saved successfully. App is ready to use!")
+                st.rerun()
+            else:
+                st.error("Please enter a valid Hugging Face token.")
 else:
-    print("HF_TOKEN loaded successfully")
+    HF_TOKEN = st.session_state["HF_TOKEN"]
 
 NEO4J_URI = st.secrets["NEO4J_URI"]
 NEO4J_USERNAME = st.secrets["NEO4J_USERNAME"]
@@ -111,6 +120,11 @@ for msg in st.session_state.get("messages", []):
 
 # --- Handle User Input ---
 def handle_user_input(prompt):
+    HF_TOKEN = st.session_state.get("HF_TOKEN")
+    if HF_TOKEN is None:
+        st.error("HF_TOKEN not found. Please enter it in the sidebar.")
+        return
+
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     st.chat_message("user").markdown(prompt)
     st.session_state.messages.append({
@@ -143,7 +157,7 @@ def handle_user_input(prompt):
 
             response_text = ""
             response_placeholder = st.empty()
-            for chunk in query_llm_stream(messages):
+            for chunk in query_llm_stream(messages, HF_TOKEN):
                 content = chunk["choices"][0]["delta"].get("content", "")
                 response_text += content
                 response_placeholder.markdown(response_text)
