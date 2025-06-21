@@ -147,7 +147,7 @@ All retrieved triples and memory are retained across sessions!
 
 ## 📸 Demo Snapshots
 
-<p float="left">
+<p float="left" align="center">
   <img src="Images/KG_Starting.png" width="45%"/>
   <img src="Images/KG_working_1.png" width="45%"/>
   <img src="Images/KG_working_2.png" width="45%"/>
