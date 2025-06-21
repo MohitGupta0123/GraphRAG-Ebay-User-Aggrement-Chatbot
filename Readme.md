@@ -37,6 +37,110 @@ Reading long user agreements is painful. This project creates an intelligent cha
 
 ---
 
+To fully complete your `README.md` and 2–3 page **PDF Report** as per the requirements, here is a breakdown of what you need to **add or expand** based on your current project:
+
+---
+
+## ✅ README.md ADDITIONS
+
+### 🔁 1. End-to-End Architecture
+
+<!-- mermaid
+graph TD
+    A[User Query]  B[Entity + Intent Extraction]
+    B  C[Knowledge Graph Retrieval (Neo4j)]
+    C  D[Context Augmentation (FAISS Memory)]
+    D  E[Prompt Injection]
+    E  F[LLaMA 3B via HF Inference API]
+    F  G[Response Display (Streamlit)]
+-->
+
+
+
+### 1. 🧱 Steps:
+
+1. User submits a query via Streamlit UI.
+2. Named Entities are extracted using SpaCy + RE.
+3. Matching triples are fetched from Neo4j KG.
+4. Memory module (FAISS) adds past Q\&A context.
+5. Prompt is dynamically injected and sent to LLaMA-3B.
+6. Response is streamed and displayed to the user.
+
+---
+
+### 2. 🧠 Knowledge Graph Construction
+
+- Text source: eBay User Agreement PDF
+- Preprocessing: cleaned and tokenized using SpaCy
+- NER & RE: Custom rules + pre-trained SpaCy models
+- Triplets: Extracted using pattern matching and OpenIE-style RE
+- Storage: JSON + CSV → Loaded into Neo4j (local or Aura Free)
+- Tools: `graph_builder.py`, `KG_creation.ipynb`
+
+---
+
+### 3. 🔍 Query-to-KG Translation
+
+- Input query is processed for Named Entities.
+- Synonyms are expanded using Sentence Transformers.
+- KG is queried using Cypher to retrieve matching triplets.
+- Top-k results ranked based on entity similarity & relevance.
+- Implemented in `retriever.py` using `match (s)-[r]->(o)` pattern.
+
+---
+
+###  4. 💬 Prompting Strategy
+
+- Format: [Triples] + [Memory] → Context Window
+- Model: Meta LLaMA-3B (Instruct-tuned)
+- Sent via HF endpoint with streaming
+
+📌 Example
+
+```
+
+System: You are a legal assistant for eBay User Agreement.
+Context:
+
+* \[User] may terminate the agreement with 30 days notice.
+* \[eBay] may restrict access for violation.
+  Memory:
+* Q: What if I break the policy? A: Your access may be restricted.
+  Question: Can I end the agreement anytime?
+
+```
+
+Answer:
+
+```
+eBay allows termination with 30 days’ notice. However, immediate termination may depend on specific conditions outlined in Section X.
+```
+
+---
+
+### 5. ▶️ Running the Chatbot
+
+* Install dependencies:
+   `pip install -r requirements.txt`
+
+* Add your Hugging Face token in the UI sidebar.
+
+* Add Neo4j credentials in `.streamlit/secrets.toml`
+
+* Run:
+   `streamlit run app.py`
+
+---
+
+### 6. 🧠 Model Details & Streaming
+
+- Model: Meta LLaMA-3B-Instruct (via HuggingFace)
+- Endpoint: HuggingFace Inference Endpoint (stream=True)
+- Temperature: 0 - 0.2 for factual output
+- Streaming: Enabled to simulate real-time response using `requests` with stream
+
+---
+
 ## 🚀 Features
 
 ✅ Knowledge Graph-based reasoning
