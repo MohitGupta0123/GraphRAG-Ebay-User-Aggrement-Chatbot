@@ -22,10 +22,15 @@ Reading long user agreements is painful. This project creates an intelligent cha
 ## 🚀 Features
 
 ✅ Knowledge Graph-based reasoning
+
 ✅ Memory-augmented retrieval (FAISS)
+
 ✅ Legal/Policy Q\&A grounded in real documents
+
 ✅ Streamlit-powered UI with chat history and controls
+
 ✅ Chat save/load functionality
+
 ✅ Real-time LLM responses using HuggingFace inference endpoint
 
 ---
