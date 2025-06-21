@@ -113,12 +113,14 @@ cd GraphRAG-Ebay-User-Aggrement-Chatbot
 pip install -r requirements.txt
 ```
 
-3. **Configure secrets**
+3. **Token Configuration**
 
-Create a file `.streamlit/secrets.toml`:
+This app prompts for your Hugging Face token (`HF_TOKEN`) **securely at runtime** in the sidebar.  
+You no longer need to store the token in `secrets.toml`.
+
+However, Neo4j credentials are still required in `.streamlit/secrets.toml`:
 
 ```toml
-HF_TOKEN = "your_huggingface_token"
 NEO4J_URI = "bolt://your_neo4j_uri"
 NEO4J_USERNAME = "neo4j"
 NEO4J_PASSWORD = "your_password"
