@@ -39,7 +39,7 @@ Reading long user agreements is painful. This project creates an intelligent cha
 
 ### 🔁 End-to-End Architecture
 
-[End-to-end-architecture](Images\End-to-End-Architecture.png)
+<img src="Images\End-to-End-Architecture.png"/>
 
 ### 1. 🧱 Steps:
 
