@@ -10,8 +10,8 @@
   <a href="https://neo4j.com/">
     <img src="https://img.shields.io/badge/KG-neo4j-blue?logo=neo4j&logoColor=white" alt="Neo4j KG" />
   </a>
-  <a href="https://pypi.org/project/streamlit/">
-    <img src="https://img.shields.io/pypi/v/streamlit?color=brightgreen&label=Streamlit&logo=python" alt="Streamlit Version" />
+  <a href="https://www.python.org/downloads/release/python-3120/">
+    <img src="https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white" alt="Python 3.12" />
   </a>
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-success.svg" alt="License: MIT" />
