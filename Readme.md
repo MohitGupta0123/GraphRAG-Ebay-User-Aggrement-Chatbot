@@ -4,7 +4,7 @@
   <a href="https://graphrag-ebay-user-aggrement-chatbot.streamlit.app/">
     <img src="https://img.shields.io/badge/Streamlit-Live%20App-orange?logo=streamlit&logoColor=white" alt="Streamlit Live App" />
   </a>
-  <a href="https://huggingface.co">
+  <a href="https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct">
     <img src="https://img.shields.io/badge/LLM-Meta%20LLaMA--3B-yellow?logo=huggingface&logoColor=white" alt="Meta LLaMA 3B" />
   </a>
   <a href="https://neo4j.com/">
