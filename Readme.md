@@ -37,13 +37,7 @@ Reading long user agreements is painful. This project creates an intelligent cha
 
 ---
 
-To fully complete your `README.md` and 2–3 page **PDF Report** as per the requirements, here is a breakdown of what you need to **add or expand** based on your current project:
-
----
-
-## ✅ README.md ADDITIONS
-
-### 🔁 1. End-to-End Architecture
+### 🔁 End-to-End Architecture
 
 <!-- mermaid
 graph TD
