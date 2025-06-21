@@ -1,5 +1,23 @@
 # 🧠 GraphRAG: eBay User Agreement Chatbot
 
+<p align="center">
+  <a href="https://graphrag-ebay-user-aggrement-chatbot.streamlit.app/">
+    <img src="https://img.shields.io/badge/Streamlit-Live%20App-orange?logo=streamlit&logoColor=white" alt="Streamlit Live App" />
+  </a>
+  <a href="https://huggingface.co">
+    <img src="https://img.shields.io/badge/LLM-Meta%20LLaMA--3B-yellow?logo=huggingface&logoColor=white" alt="Meta LLaMA 3B" />
+  </a>
+  <a href="https://neo4j.com/">
+    <img src="https://img.shields.io/badge/KG-neo4j-blue?logo=neo4j&logoColor=white" alt="Neo4j KG" />
+  </a>
+  <a href="https://pypi.org/project/streamlit/">
+    <img src="https://img.shields.io/pypi/v/streamlit?color=brightgreen&label=Streamlit&logo=python" alt="Streamlit Version" />
+  </a>
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-success.svg" alt="License: MIT" />
+  </a>
+</p>
+
 A Knowledge Graph-Powered Conversational AI built to answer legal and policy-related queries from the eBay User Agreement using **Neo4j**, **LLMs (Meta LLaMA 3B)**, and **Memory via FAISS**.
 
 ## 🌐 Website - [DEMO](https://graphrag-ebay-user-aggrement-chatbot.streamlit.app/)
