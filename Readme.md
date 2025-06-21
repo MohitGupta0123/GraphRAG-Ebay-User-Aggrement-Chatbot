@@ -158,8 +158,10 @@ All retrieved triples and memory are retained across sessions!
   <img src="Images/KG_working_7.png" width="45%"/>
   <img src="Images/KG_working_8.png" width="45%"/>
 </p>
+
+## Knowledge Graph Visualization
+
 <p float="left" align="center">
-  <h3> Knowledge Graph Visualization </h3>
   <img src="KG/bloom-visualisation 2.png" width="45%"/>
   <img src="KG/knowledge_graph_image.png" width="45%"/>
 </p>
