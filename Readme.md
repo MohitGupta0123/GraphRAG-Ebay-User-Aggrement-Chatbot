@@ -161,7 +161,7 @@ All retrieved triples and memory are retained across sessions!
 
 ## Knowledge Graph Visualization
 
-<p float="left" align="center">
+<p align="center">
   <img src="KG/bloom-visualisation 2.png" width="45%"/>
   <img src="KG/knowledge_graph_image.png" width="45%"/>
 </p>
