@@ -1,6 +1,6 @@
 # 🧠 GraphRAG: eBay User Agreement Chatbot
 
-A Knowledge Graph-Powered Conversational AI built to answer legal and policy-related queries from the eBay User Agreement using **Neo4j**, **LLMs (Meta LLaMA 3B)**, and **Memory via FAISS/Chroma**.
+A Knowledge Graph-Powered Conversational AI built to answer legal and policy-related queries from the eBay User Agreement using **Neo4j**, **LLMs (Meta LLaMA 3B)**, and **Memory via FAISS**.
 
 LIVE DEMO LINK - [DEMO](https://graphrag-ebay-user-aggrement-chatbot.streamlit.app/)
 
@@ -22,7 +22,7 @@ Reading long user agreements is painful. This project creates an intelligent cha
 ## 🚀 Features
 
 ✅ Knowledge Graph-based reasoning
-✅ Memory-augmented retrieval (Chroma / FAISS)
+✅ Memory-augmented retrieval (FAISS)
 ✅ Legal/Policy Q\&A grounded in real documents
 ✅ Streamlit-powered UI with chat history and controls
 ✅ Chat save/load functionality
@@ -36,14 +36,14 @@ Reading long user agreements is painful. This project creates an intelligent cha
 .
 ├── app.py                          # Main Streamlit app
 ├── requirements.txt               # Dependencies
-├── create_code.py                 # Code generation helper (optional)
+├── create_code.py                 # Code generation helper
 ├── chat_history.json              # Sample chat history
 │
 ├── Src/                           # Core logic modules
 │   ├── memory.py                  # Persistent memory using Chroma
 │   ├── retriever.py               # Entity extractor & KG triple retriever
 │   ├── prompt_injector.py         # Prompt builder & LLM streaming query
-│   └── graph_builder.py           # (Optional) For KG construction
+│   └── graph_builder.py           # For KG construction
 │
 ├── Triples/                       # Triplets extracted from the source doc
 │   ├── graphrag_triplets.csv/json
@@ -128,7 +128,7 @@ Relevant triples from Neo4j are retrieved.
 
 ### 4. Memory Recall
 
-Past similar Q\&A are pulled from persistent memory (Chroma).
+Past similar Q\&A are pulled from persistent memory (Faiss).
 
 ### 5. Prompt Generation
 
@@ -176,7 +176,7 @@ All retrieved triples and memory are retained across sessions!
 * **LLM**: Meta LLaMA-3B-Instruct via HuggingFace
 * **Graph**: Neo4j (Aura Free or Local)
 * **Embeddings**: SentenceTransformers
-* **Memory Store**: ChromaDB or FAISS
+* **Memory Store**: FAISS
 * **Triplet Extraction**: SpaCy / RE Pipelines
 * **NER**: Custom + pre-trained models
 
