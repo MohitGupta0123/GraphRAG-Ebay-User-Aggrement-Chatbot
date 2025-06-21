@@ -3,7 +3,7 @@
 A Knowledge Graph-Powered Conversational AI built to answer legal and policy-related queries from the eBay User Agreement using **Neo4j**, **LLMs (Meta LLaMA 3B)**, and **Memory via FAISS/Chroma**.
 
 <p align="center">
-  <img src="Images/KG_main.png" alt="Knowledge Graph" width="600"/>
+  <img src="Images/KG_main.png" alt="Knowledge Graph" width="800"/>
 </p>
 
 ## 💡 Project Motivation
@@ -148,15 +148,15 @@ All retrieved triples and memory are retained across sessions!
 ## 📸 Demo Snapshots
 
 <p float="left" align="center">
-  <img src="Images/KG_Starting.png" width="70%"/>
-  <img src="Images/KG_working_1.png" width="70%"/>
-  <img src="Images/KG_working_2.png" width="70%"/>
-  <img src="Images/KG_working_3.png" width="70%"/>
-  <img src="Images/KG_working_4.png" width="70%"/>
-  <img src="Images/KG_working_5.png" width="70%"/>
-  <img src="Images/KG_working_6.png" width="70%"/>
-  <img src="Images/KG_working_7.png" width="70%"/>
-  <img src="Images/KG_working_8.png" width="70%"/>
+  <img src="Images/KG_Starting.png" width="80%"/>
+  <img src="Images/KG_working_1.png" width="80%"/>
+  <img src="Images/KG_working_2.png" width="80%"/>
+  <img src="Images/KG_working_3.png" width="80%"/>
+  <img src="Images/KG_working_4.png" width="80%"/>
+  <img src="Images/KG_working_5.png" width="80%"/>
+  <img src="Images/KG_working_6.png" width="80%"/>
+  <img src="Images/KG_working_7.png" width="80%"/>
+  <img src="Images/KG_working_8.png" width="80%"/>
 </p>
 
 ## Knowledge Graph Visualization
