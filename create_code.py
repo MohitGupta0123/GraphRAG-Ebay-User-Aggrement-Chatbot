@@ -8,7 +8,6 @@ graph_builder_path = src_dir / "graph_builder.py"
 # Now generate the updated graph_builder.py module using your supplied logic
 
 graph_builder_custom_code = r"""
-
 import os
 import re
 import fitz  # PyMuPDF
@@ -78,7 +77,6 @@ retriever_path = src_dir / "retriever.py"
 
 # Construct retriever module using the user's Neo4j-based querying logic
 retriever_code = """
-
 import os
 import streamlit as st
 from neo4j import GraphDatabase
@@ -193,43 +191,57 @@ memory_path = src_dir / "memory.py"
 memory_code = """
 # Src/memory.py
 import os
-from chromadb import PersistentClient
-from chromadb.utils.embedding_functions import SentenceTransformerEmbeddingFunction
+import pickle
+import numpy as np
+import faiss
+from sentence_transformers import SentenceTransformer
 
-# Define memory directory
-CHROMA_DIR = "./chroma_db"
-COLLECTION_NAME = "chat_memory"
+# Initialize embedding model
+embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
 
-# Initialize new persistent client
-client = PersistentClient(path=CHROMA_DIR)
+# Paths
+MEMORY_DIR = "./faiss_memory"
+os.makedirs(MEMORY_DIR, exist_ok=True)
+INDEX_PATH = os.path.join(MEMORY_DIR, "chat.index")
+DATA_PATH = os.path.join(MEMORY_DIR, "chat.pkl")
 
-# Define embedding function (replace with your preferred model if needed)
-embedding_function = SentenceTransformerEmbeddingFunction(model_name="all-MiniLM-L6-v2")
+# Load or initialize FAISS index
+if os.path.exists(INDEX_PATH) and os.path.exists(DATA_PATH):
+    index = faiss.read_index(INDEX_PATH)
+    with open(DATA_PATH, "rb") as f:
+        memory_data = pickle.load(f)
+else:
+    index = faiss.IndexFlatL2(384)  # 384 = all-MiniLM-L6-v2 dim
+    memory_data = []
 
-# Create or get collection
-collection = client.get_or_create_collection(name=COLLECTION_NAME, embedding_function=embedding_function)
-
-# --- Memory Functions ---
+def save_memory():
+    faiss.write_index(index, INDEX_PATH)
+    with open(DATA_PATH, "wb") as f:
+        pickle.dump(memory_data, f)
 
 def add_to_memory(query, response):
-    \"\"\"Add user query and assistant response as a memory pair.\"\"\"
-    doc_id = f"mem_{len(collection.get()['ids']) + 1}"
-    collection.add(
-        documents=[f"User: {query}\\nAssistant: {response}"],
-        ids=[doc_id],
-        metadatas=[{"source": "chat"}]
-    )
+    \"""Add user query and assistant response as a memory pair.\"""
+    text = f"User: {query}\\nAssistant: {response}"
+    embedding = embedding_model.encode([text])[0].astype("float32")
+    index.add(np.array([embedding]))
+    memory_data.append(text)
+    save_memory()
 
 def retrieve_memory(query, top_k=3):
-    \"\"\"Retrieve similar past memory chunks based on the query.\"\"\"
-    results = collection.query(query_texts=[query], n_results=top_k)
-    return results["documents"][0] if results["documents"] else []
+    \"""Retrieve similar past memory chunks based on the query.\"""
+    if len(memory_data) == 0:
+        return []
 
-# --- Clear all stored memory (for debugging or reset) ---
+    query_embedding = embedding_model.encode([query])[0].astype("float32")
+    D, I = index.search(np.array([query_embedding]), top_k)
+    return [memory_data[i] for i in I[0] if i < len(memory_data)]
+
 def clear_memory():
-    \"\"\"Clear all memory documents in the collection.\"\"\"
-    collection.delete(where={"source": {"$eq": "chat"}})
-
+    \"""Clear all memory documents.\"""
+    global index, memory_data
+    index = faiss.IndexFlatL2(384)
+    memory_data = []
+    save_memory()
 """
 
 # Save app.py
@@ -270,7 +282,7 @@ else:
 # --- Page Config ---
 st.set_page_config(page_title="🧠 KG Chatbot", layout="wide")
 
-st.markdown(\"\"\"
+st.markdown(\"""
     <style>
         [data-testid="stSidebar"] {
             width: 320px;
@@ -279,7 +291,7 @@ st.markdown(\"\"\"
             width: 320px;
         }
     </style>
-\"\"\", unsafe_allow_html=True)
+\""", unsafe_allow_html=True)
 
 # --- Session Initialization ---
 if "messages" not in st.session_state:
@@ -302,42 +314,33 @@ with st.sidebar:
     st.markdown(f"**Session Triples:** `{len(st.session_state.all_triples)}`")
     st.markdown("---")
 
-    # if st.session_state.all_triples:
-    #     with st.expander("📌 All Retrieved Triples This Session", expanded=False):
-    #         for t in st.session_state.all_triples:
-    #             st.markdown(f"- `{t}`")
-    
-    # st.markdown("---")
-    
-    st.markdown("### 💾 Save & Load Chat")
+    st.markdown("### 📂 Save & Load Chat")
 
-    # --- Download Chat ---
     if st.session_state.messages:
         chat_data = {
             "messages": st.session_state.messages,
             "triples": st.session_state.all_triples
         }
         st.download_button(
-            label="📥 Download Chat as JSON",
+            label="📅 Download Chat as JSON",
             data=json.dumps(chat_data, indent=2),
             file_name="chat_history.json",
             mime="application/json"
         )
 
-    # --- Upload Chat ---
-    uploaded_file = st.file_uploader("📤 Load Previous Chat (.json)", type="json")
+    uploaded_file = st.file_uploader("📄 Load Previous Chat (.json)", type="json")
     if uploaded_file is not None:
         try:
             content = json.load(uploaded_file)
             st.session_state.messages = content.get("messages", [])
             st.session_state.all_triples = content.get("triples", [])
             st.success("✅ Chat loaded successfully!")
+            st.success("Remove the loaded file from the sidebar to proceed further.")
             st.rerun()
         except Exception as e:
             st.error(f"❌ Failed to load chat: {e}")
 
-    st.caption("Developed for Amlgo Labs AI Engineer Assignment")
-
+    st.caption("Developed by - Mohit Gupta")
 
 # --- Header ---
 st.markdown("## 📘 Knowledge Graph-Powered Chatbot")
@@ -351,10 +354,16 @@ for msg in st.session_state.get("messages", []):
         st.markdown(f"**🕒 {timestamp}**")
         st.markdown(msg.get("content", ""))
 
-        if msg.get("role") == "assistant" and msg.get("triples"):
-            with st.expander("📄 Retrieved Triples", expanded=False):
-                for t in msg["triples"]:
-                    st.markdown(f"- `{t}`")
+        if msg.get("role") == "assistant":
+            if msg.get("memory"):
+                with st.expander("📘 Retrieved Memory", expanded=False):
+                    for m in msg["memory"]:
+                        st.markdown(f"- `{m}`")
+
+            if msg.get("triples"):
+                with st.expander("🧠 Retrieved Triples (KG)", expanded=False):
+                    for t in msg["triples"]:
+                        st.markdown(f"- `{t}`")
 
 # --- Handle User Input ---
 def handle_user_input(prompt):
@@ -379,7 +388,7 @@ def handle_user_input(prompt):
             context = memory_context + triples
 
             if context:
-                with st.expander("📄 Retrieved Triples", expanded=False):
+                with st.expander("📘 Retrieved Context", expanded=False):
                     for t in context:
                         st.markdown(f"- `{t}`")
             else:
@@ -399,7 +408,8 @@ def handle_user_input(prompt):
             "role": "assistant",
             "content": response_text,
             "time": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-            "triples": triples
+            "triples": triples,
+            "memory": memory_context
         })
 
         add_to_memory(prompt, response_text)
@@ -407,7 +417,6 @@ def handle_user_input(prompt):
 # --- Input Field ---
 if prompt := st.chat_input("💬 Ask your question here..."):
     handle_user_input(prompt)
-
 """
 
 # Save app.py

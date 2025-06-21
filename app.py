@@ -58,42 +58,33 @@ with st.sidebar:
     st.markdown(f"**Session Triples:** `{len(st.session_state.all_triples)}`")
     st.markdown("---")
 
-    # if st.session_state.all_triples:
-    #     with st.expander("📌 All Retrieved Triples This Session", expanded=False):
-    #         for t in st.session_state.all_triples:
-    #             st.markdown(f"- `{t}`")
-    
-    # st.markdown("---")
-    
-    st.markdown("### 💾 Save & Load Chat")
+    st.markdown("### 📂 Save & Load Chat")
 
-    # --- Download Chat ---
     if st.session_state.messages:
         chat_data = {
             "messages": st.session_state.messages,
             "triples": st.session_state.all_triples
         }
         st.download_button(
-            label="📥 Download Chat as JSON",
+            label="📅 Download Chat as JSON",
             data=json.dumps(chat_data, indent=2),
             file_name="chat_history.json",
             mime="application/json"
         )
 
-    # --- Upload Chat ---
-    uploaded_file = st.file_uploader("📤 Load Previous Chat (.json)", type="json")
+    uploaded_file = st.file_uploader("📄 Load Previous Chat (.json)", type="json")
     if uploaded_file is not None:
         try:
             content = json.load(uploaded_file)
             st.session_state.messages = content.get("messages", [])
             st.session_state.all_triples = content.get("triples", [])
             st.success("✅ Chat loaded successfully!")
+            st.success("Remove the loaded file from the sidebar to proceed further.")
             st.rerun()
         except Exception as e:
             st.error(f"❌ Failed to load chat: {e}")
 
-    st.caption("Developed for Amlgo Labs AI Engineer Assignment")
-
+    st.caption("Developed by - Mohit Gupta")
 
 # --- Header ---
 st.markdown("## 📘 Knowledge Graph-Powered Chatbot")
@@ -107,10 +98,16 @@ for msg in st.session_state.get("messages", []):
         st.markdown(f"**🕒 {timestamp}**")
         st.markdown(msg.get("content", ""))
 
-        if msg.get("role") == "assistant" and msg.get("triples"):
-            with st.expander("📄 Retrieved Triples", expanded=False):
-                for t in msg["triples"]:
-                    st.markdown(f"- `{t}`")
+        if msg.get("role") == "assistant":
+            if msg.get("memory"):
+                with st.expander("📘 Retrieved Memory", expanded=False):
+                    for m in msg["memory"]:
+                        st.markdown(f"- `{m}`")
+
+            if msg.get("triples"):
+                with st.expander("🧠 Retrieved Triples (KG)", expanded=False):
+                    for t in msg["triples"]:
+                        st.markdown(f"- `{t}`")
 
 # --- Handle User Input ---
 def handle_user_input(prompt):
@@ -135,7 +132,7 @@ def handle_user_input(prompt):
             context = memory_context + triples
 
             if context:
-                with st.expander("📄 Retrieved Triples", expanded=False):
+                with st.expander("📘 Retrieved Context", expanded=False):
                     for t in context:
                         st.markdown(f"- `{t}`")
             else:
@@ -155,7 +152,8 @@ def handle_user_input(prompt):
             "role": "assistant",
             "content": response_text,
             "time": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-            "triples": triples
+            "triples": triples,
+            "memory": memory_context
         })
 
         add_to_memory(prompt, response_text)

@@ -1,40 +1,54 @@
 
 # Src/memory.py
 import os
-from chromadb import PersistentClient
-from chromadb.utils.embedding_functions import SentenceTransformerEmbeddingFunction
+import pickle
+import numpy as np
+import faiss
+from sentence_transformers import SentenceTransformer
 
-# Define memory directory
-CHROMA_DIR = "./chroma_db"
-COLLECTION_NAME = "chat_memory"
+# Initialize embedding model
+embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
 
-# Initialize new persistent client
-client = PersistentClient(path=CHROMA_DIR)
+# Paths
+MEMORY_DIR = "./faiss_memory"
+os.makedirs(MEMORY_DIR, exist_ok=True)
+INDEX_PATH = os.path.join(MEMORY_DIR, "chat.index")
+DATA_PATH = os.path.join(MEMORY_DIR, "chat.pkl")
 
-# Define embedding function (replace with your preferred model if needed)
-embedding_function = SentenceTransformerEmbeddingFunction(model_name="all-MiniLM-L6-v2")
+# Load or initialize FAISS index
+if os.path.exists(INDEX_PATH) and os.path.exists(DATA_PATH):
+    index = faiss.read_index(INDEX_PATH)
+    with open(DATA_PATH, "rb") as f:
+        memory_data = pickle.load(f)
+else:
+    index = faiss.IndexFlatL2(384)  # 384 = all-MiniLM-L6-v2 dim
+    memory_data = []
 
-# Create or get collection
-collection = client.get_or_create_collection(name=COLLECTION_NAME, embedding_function=embedding_function)
-
-# --- Memory Functions ---
+def save_memory():
+    faiss.write_index(index, INDEX_PATH)
+    with open(DATA_PATH, "wb") as f:
+        pickle.dump(memory_data, f)
 
 def add_to_memory(query, response):
     """Add user query and assistant response as a memory pair."""
-    doc_id = f"mem_{len(collection.get()['ids']) + 1}"
-    collection.add(
-        documents=[f"User: {query}\nAssistant: {response}"],
-        ids=[doc_id],
-        metadatas=[{"source": "chat"}]
-    )
+    text = f"User: {query}\nAssistant: {response}"
+    embedding = embedding_model.encode([text])[0].astype("float32")
+    index.add(np.array([embedding]))
+    memory_data.append(text)
+    save_memory()
 
 def retrieve_memory(query, top_k=3):
     """Retrieve similar past memory chunks based on the query."""
-    results = collection.query(query_texts=[query], n_results=top_k)
-    return results["documents"][0] if results["documents"] else []
+    if len(memory_data) == 0:
+        return []
 
-# --- Clear all stored memory (for debugging or reset) ---
+    query_embedding = embedding_model.encode([query])[0].astype("float32")
+    D, I = index.search(np.array([query_embedding]), top_k)
+    return [memory_data[i] for i in I[0] if i < len(memory_data)]
+
 def clear_memory():
-    """Clear all memory documents in the collection."""
-    collection.delete(where={"source": {"$eq": "chat"}})
-
+    """Clear all memory documents."""
+    global index, memory_data
+    index = faiss.IndexFlatL2(384)
+    memory_data = []
+    save_memory()
