@@ -39,17 +39,7 @@ Reading long user agreements is painful. This project creates an intelligent cha
 
 ### 🔁 End-to-End Architecture
 
-<!-- mermaid
-graph TD
-    A[User Query]  B[Entity + Intent Extraction]
-    B  C[Knowledge Graph Retrieval (Neo4j)]
-    C  D[Context Augmentation (FAISS Memory)]
-    D  E[Prompt Injection]
-    E  F[LLaMA 3B via HF Inference API]
-    F  G[Response Display (Streamlit)]
--->
-
-
+[End-to-end-architecture](Images\End-to-End-Architecture.png)
 
 ### 1. 🧱 Steps:
 
