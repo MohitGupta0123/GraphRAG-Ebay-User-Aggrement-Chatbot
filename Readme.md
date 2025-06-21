@@ -2,7 +2,7 @@
 
 A Knowledge Graph-Powered Conversational AI built to answer legal and policy-related queries from the eBay User Agreement using **Neo4j**, **LLMs (Meta LLaMA 3B)**, and **Memory via FAISS**.
 
-LIVE DEMO LINK - [DEMO](https://graphrag-ebay-user-aggrement-chatbot.streamlit.app/)
+## LIVE DEMO LINK - [DEMO](https://graphrag-ebay-user-aggrement-chatbot.streamlit.app/)
 
 <p align="center">
   <img src="Images/KG_main.png" alt="Knowledge Graph" width="800"/>
