@@ -100,6 +100,10 @@ st.markdown("## 📘 Knowledge Graph-Powered Chatbot")
 st.markdown("Ask legal or policy-related questions based on the '**eBay User Agreement Knowledge Graph**'.")
 st.markdown("---")
 
+if "HF_TOKEN" not in st.session_state:
+    st.markdown("👉 (\*_\*) **Please enter your** **`HF_TOKEN`** **in the sidebar to get started!** ")
+    st.stop()
+
 # --- Display Chat History ---
 for msg in st.session_state.get("messages", []):
     with st.chat_message(msg.get("role", "user")):
